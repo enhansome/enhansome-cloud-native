@@ -43,19 +43,19 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## AI & Machine Learning Platforms
 
-* [tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 201,775 | 🐛 3,457 | 🌐 C++ | 📅 2026-11-17 - Computation using data flow graphs for scalable machine learning.
-* [pytorch](https://github.com/pytorch/pytorch) ⭐ 105,818 | 🐛 18,414 | 🌐 Python | 📅 2026-11-17 - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-* [keras](https://github.com/keras-team/keras) ⭐ 64,427 | 🐛 241 | 🌐 Python | 📅 2026-11-17 - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
-* [paddlepaddle](https://github.com/PaddlePaddle/Paddle) ⭐ 24,146 | 🐛 1,430 | 🌐 C++ | 📅 2026-11-17 - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice, providing high-performance single-machine, distributed training and cross-platform deployment for deep learning and machine learning.
-* [jina](https://github.com/jina-ai/jina) ⭐ 21,852 | 🐛 25 | 🌐 Python | 📅 2025-03-24 - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data.
-* [kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,968 | 🐛 1 | 📅 2026-09-30 - Machine Learning Toolkit for Kubernetes.
+* [tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 201,616 | 🐛 3,450 | 🌐 C++ | 📅 2026-11-18 - Computation using data flow graphs for scalable machine learning.
+* [pytorch](https://github.com/pytorch/pytorch) ⭐ 105,691 | 🐛 18,424 | 🌐 Python | 📅 2026-11-18 - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+* [keras](https://github.com/keras-team/keras) ⭐ 64,429 | 🐛 241 | 🌐 Python | 📅 2026-11-18 - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
+* [paddlepaddle](https://github.com/PaddlePaddle/Paddle) ⭐ 24,147 | 🐛 1,433 | 🌐 C++ | 📅 2026-11-18 - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice, providing high-performance single-machine, distributed training and cross-platform deployment for deep learning and machine learning.
+* [jina](https://github.com/jina-ai/jina) ⭐ 21,853 | 🐛 25 | 🌐 Python | 📅 2025-03-24 - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data.
+* [kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,972 | 🐛 1 | 📅 2026-09-30 - Machine Learning Toolkit for Kubernetes.
 * [predictionio](https://github.com/apache/predictionio) ⚠️ Archived - PredictionIO, a machine learning server for developers and ML engineers.
 * [allennlp](https://github.com/allenai/allennlp) ⚠️ Archived - An open-source NLP research library, built on PyTorch.
 * [caffe2](https://github.com/facebookarchive/caffe2) ⚠️ Archived - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 * [h2o-3](https://github.com/h2oai/h2o-3) ⭐ 7,528 | 🐛 2,852 | 🌐 Jupyter Notebook | 📅 2026-11-11 - Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles.)
-* [kserve](https://github.com/kserve/kserve) ⭐ 6,242 | 🐛 319 | 🌐 Go | 📅 2026-11-17 - Standardized Serverless ML Inference Platform on Kubernetes.
+* [kserve](https://github.com/kserve/kserve) ⭐ 6,245 | 🐛 331 | 🌐 Go | 📅 2026-11-18 - Standardized Serverless ML Inference Platform on Kubernetes.
 * [leaf](https://github.com/autumnai/leaf) ⭐ 5,540 | 🐛 32 | 🌐 Rust | 📅 2024-03-20 - Open Machine Intelligence Framework for Hackers. (GPU/CPU).
-* [seldon-core](https://github.com/SeldonIO/seldon-core) ⭐ 4,783 | 🐛 395 | 🌐 Go | 📅 2026-03-23 - A framework to deploy, manage and scale your production machine learning to thousands of models.
+* [seldon-core](https://github.com/SeldonIO/seldon-core) ⭐ 4,782 | 🐛 395 | 🌐 Go | 📅 2026-03-23 - A framework to deploy, manage and scale your production machine learning to thousands of models.
 * [elasticdl](https://github.com/sql-machine-learning/elasticdl) ⭐ 743 | 🐛 89 | 🌐 Python | 📅 2024-01-26 - Kubernetes-native Deep Learning Framework.
 * [kubedl](https://github.com/kubedl-io/kubedl) ⭐ 534 | 🐛 62 | 🌐 Go | 📅 2024-03-04 - Run your deep learning workloads on Kubernetes more easily and efficiently.
 * [vivacious-cli](https://github.com/Viavcious-cloud/vivacious-cli) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-29 - Preflight CUDA memory validation and unified multi-cloud GPU orchestrator for cloud-native model training.
@@ -64,8 +64,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Data Processing & Analytics
 
-* [pachyderm](https://github.com/pachyderm/pachyderm) ⭐ 6,312 | 🐛 939 | 🌐 Go | 📅 2025-02-03 - Reproducible Data Science at Scale!
-* [sqlflow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,185 | 🐛 250 | 🌐 Go | 📅 2024-04-18 - Brings SQL and AI together.
+* [pachyderm](https://github.com/pachyderm/pachyderm) ⭐ 6,311 | 🐛 939 | 🌐 Go | 📅 2025-02-03 - Reproducible Data Science at Scale!
+* [sqlflow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,186 | 🐛 250 | 🌐 Go | 📅 2024-04-18 - Brings SQL and AI together.
 * [fast-data-dev](https://github.com/lensesio/fast-data-dev) ⭐ 2,080 | 🐛 83 | 🌐 Shell | 📅 2026-09-10 - Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, Landoop Tools, 20+ connectors.
 * [wallaroo](https://github.com/WallarooLabs/wallaroo) ⭐ 1,485 | 🐛 352 | 🌐 Pony | 📅 2026-09-03 - Ultrafast and elastic data processing.
 * [v6d](https://github.com/alibaba/v6d) ⭐ 968 | 🐛 127 | 🌐 C++ | 📅 2026-01-22 - vineyard (v6d), an in-memory immutable data manager.
@@ -76,24 +76,24 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## API Gateways & Proxies
 
-* [litellm](https://github.com/BerriAI/litellm) ⭐ 63,432 | 🐛 5,241 | 🌐 Python | 📅 2026-11-17 - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - \[Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq].
-* [kong](https://github.com/Kong/kong) ⭐ 44,389 | 🐛 233 | 🌐 Lua | 📅 2026-11-17 - The Microservice API Gateway.
-* [apisix](https://github.com/apache/apisix) ⭐ 17,334 | 🐛 230 | 🌐 Lua | 📅 2026-11-13 - The Cloud-Native API Gateway.
-* [tyk](https://github.com/TykTechnologies/tyk) ⭐ 10,890 | 🐛 540 | 🌐 Go | 📅 2026-11-17 - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols.
-* [higress](https://github.com/alibaba/higress) ⭐ 9,777 | 🐛 1,427 | 🌐 Go | 📅 2026-11-17 - Next-generation Cloud Native Gateway.
-* [ocelot](https://github.com/ThreeMammals/Ocelot) ⭐ 8,715 | 🐛 58 | 🌐 C# | 📅 2026-11-17 - .NET core API Gateway.
-* [lura](https://github.com/luraproject/lura) ⭐ 6,808 | 🐛 14 | 🌐 Go | 📅 2026-11-10 - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.
-* [easegress](https://github.com/megaease/easegress) ⭐ 5,875 | 🐛 11 | 🌐 Go | 📅 2026-11-05 - A Cloud Native traffic orchestration system.
-* [emissary-gateway](https://github.com/emissary-ingress/emissary) ⭐ 4,527 | 🐛 402 | 🌐 Python | 📅 2026-11-12 - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy.
-* [gateway](https://github.com/envoyproxy/gateway) ⭐ 3,152 | 🐛 785 | 🌐 Go | 📅 2026-11-17 - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway.
+* [litellm](https://github.com/BerriAI/litellm) ⭐ 63,495 | 🐛 5,305 | 🌐 Python | 📅 2026-11-18 - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - \[Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq].
+* [kong](https://github.com/Kong/kong) ⭐ 44,396 | 🐛 233 | 🌐 Lua | 📅 2026-11-17 - The Microservice API Gateway.
+* [apisix](https://github.com/apache/apisix) ⭐ 17,339 | 🐛 233 | 🌐 Lua | 📅 2026-11-18 - The Cloud-Native API Gateway.
+* [tyk](https://github.com/TykTechnologies/tyk) ⭐ 10,895 | 🐛 535 | 🌐 Go | 📅 2026-11-18 - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols.
+* [higress](https://github.com/alibaba/higress) ⭐ 9,786 | 🐛 1,436 | 🌐 Go | 📅 2026-11-18 - Next-generation Cloud Native Gateway.
+* [ocelot](https://github.com/ThreeMammals/Ocelot) ⭐ 8,715 | 🐛 59 | 🌐 C# | 📅 2026-11-18 - .NET core API Gateway.
+* [lura](https://github.com/luraproject/lura) ⭐ 6,809 | 🐛 14 | 🌐 Go | 📅 2026-11-10 - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.
+* [easegress](https://github.com/megaease/easegress) ⭐ 5,874 | 🐛 11 | 🌐 Go | 📅 2026-11-05 - A Cloud Native traffic orchestration system.
+* [emissary-gateway](https://github.com/emissary-ingress/emissary) ⭐ 4,526 | 🐛 403 | 🌐 Python | 📅 2026-11-12 - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy.
+* [gateway](https://github.com/envoyproxy/gateway) ⭐ 3,154 | 🐛 800 | 🌐 Go | 📅 2026-11-18 - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway.
 * [express-gateway](https://github.com/ExpressGateway/express-gateway) ⭐ 3,026 | 🐛 82 | 🌐 JavaScript | 📅 2024-05-14 - A microservices API Gateway built on top of ExpressJS.
 * [orange](https://github.com/orlabs/orange) ⭐ 2,303 | 🐛 77 | 🌐 Lua | 📅 2023-08-25 - OpenResty/Nginx Gateway for API Monitoring and Management.
-* [bricksllm](https://github.com/bricks-cloud/BricksLLM) ⭐ 1,232 | 🐛 22 | 🌐 Go | 📅 2025-01-05 - Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI, Azure OpenAI, Anthropic, vLLM, and open-source LLMs.
-* [nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ⭐ 1,196 | 🐛 86 | 🌐 Go | 📅 2026-11-17 - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
+* [bricksllm](https://github.com/bricks-cloud/BricksLLM) ⭐ 1,233 | 🐛 22 | 🌐 Go | 📅 2025-01-05 - Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI, Azure OpenAI, Anthropic, vLLM, and open-source LLMs.
+* [nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) ⭐ 1,197 | 🐛 89 | 🌐 Go | 📅 2026-11-18 - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 * [haproxy-ingress](https://github.com/jcmoraisjr/haproxy-ingress) ⭐ 1,177 | 🐛 87 | 🌐 Go | 📅 2026-11-11 - HaProxy Ingress.
 * [hango-gateway](https://github.com/hango-io/hango-gateway) ⭐ 457 | 🐛 18 | 🌐 Python | 📅 2023-12-14 - Hango API Gateway, build on Envoy & Istio.
 * [batch-processing-gateway](https://github.com/apple/batch-processing-gateway) ⚠️ Archived - The gateway component to make Spark on K8s much easier for Spark users.
-* [gloo](https://github.com/solo-io/gloo) ⭐ 173 | 🐛 1,862 | 🌐 Go | 📅 2026-11-17 - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy.
+* [gloo](https://github.com/solo-io/gloo) ⭐ 173 | 🐛 1,861 | 🌐 Go | 📅 2026-11-17 - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy.
 * [alb](https://github.com/alauda/alb) ⭐ 68 | 🐛 0 | 🌐 Go | 📅 2026-11-12 - ALB (Another Load Balancer) is a Kubernetes Gateway powered by OpenResty with years of production experience from Alauda.
 * [sbproxy](https://github.com/soapbucket/sbproxy) ⭐ 54 | 🐛 1 | 🌐 Rust | 📅 2026-09-11 - Single-binary AI gateway and reverse proxy with 103+ LLM providers, cost-based routing, rate limiting, and declarative YAML configuration.
 
@@ -101,77 +101,77 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Continuous Delivery & GitOps
 
-* [terraform](https://github.com/hashicorp/terraform) ⭐ 50,265 | 🐛 1,934 | 🌐 Go | 📅 2026-11-17 - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
-* [drone](https://github.com/drone/drone) ⭐ 38,934 | 🐛 134 | 🌐 Go | 📅 2026-11-17 - Drone is a Continuous Delivery platform built on Docker, written in Go.
-* [opentofu](https://github.com/opentofu/opentofu) ⭐ 30,900 | 🐛 381 | 🌐 Go | 📅 2026-11-17 - OpenTofu lets you declaratively manage your cloud infrastructure.
-* [helm](https://github.com/helm/helm) ⭐ 30,436 | 🐛 507 | 🌐 Go | 📅 2026-11-17 - The Kubernetes Package Manager.
-* [jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,789 | 🐛 3,618 | 🌐 Java | 📅 2026-11-17 - Jenkins automation server.
-* [pulumi](https://github.com/pulumi/pulumi) ⭐ 25,912 | 🐛 2,498 | 🌐 Go | 📅 2026-11-17 - A multi-language, multi-cloud development platform -- your code, your cloud, your team.
-* [argo-cd](https://github.com/argoproj/argo-cd/) ⭐ 24,634 | 🐛 4,494 | 🌐 Go | 📅 2026-11-17 - Declarative continuous deployment for Kubernetes.
-* [argo](https://github.com/argoproj/argo) ⭐ 17,103 | 🐛 1,400 | 🌐 Go | 📅 2026-11-17 - Get stuff done with container-native workflows for Kubernetes.
-* [dagger](https://github.com/dagger/dagger) ⭐ 16,624 | 🐛 264 | 🌐 Go | 📅 2026-11-17 - A programmable CI/CD engine that runs your pipelines in containers.
-* [skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐ 15,915 | 🐛 919 | 🌐 Go | 📅 2026-11-16 - Easy and Repeatable Kubernetes Development.
+* [terraform](https://github.com/hashicorp/terraform) ⭐ 50,283 | 🐛 1,937 | 🌐 Go | 📅 2026-11-18 - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
+* [drone](https://github.com/drone/drone) ⭐ 38,937 | 🐛 134 | 🌐 Go | 📅 2026-11-18 - Drone is a Continuous Delivery platform built on Docker, written in Go.
+* [opentofu](https://github.com/opentofu/opentofu) ⭐ 30,913 | 🐛 376 | 🌐 Go | 📅 2026-11-18 - OpenTofu lets you declaratively manage your cloud infrastructure.
+* [helm](https://github.com/helm/helm) ⭐ 30,437 | 🐛 505 | 🌐 Go | 📅 2026-11-18 - The Kubernetes Package Manager.
+* [jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,796 | 🐛 3,609 | 🌐 Java | 📅 2026-11-18 - Jenkins automation server.
+* [pulumi](https://github.com/pulumi/pulumi) ⭐ 25,912 | 🐛 2,508 | 🌐 Go | 📅 2026-11-18 - A multi-language, multi-cloud development platform -- your code, your cloud, your team.
+* [argo-cd](https://github.com/argoproj/argo-cd/) ⭐ 24,639 | 🐛 4,493 | 🌐 Go | 📅 2026-11-18 - Declarative continuous deployment for Kubernetes.
+* [argo](https://github.com/argoproj/argo) ⭐ 17,104 | 🐛 1,396 | 🌐 Go | 📅 2026-11-18 - Get stuff done with container-native workflows for Kubernetes.
+* [dagger](https://github.com/dagger/dagger) ⭐ 16,628 | 🐛 265 | 🌐 Go | 📅 2026-11-18 - A programmable CI/CD engine that runs your pipelines in containers.
+* [skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐ 15,917 | 🐛 920 | 🌐 Go | 📅 2026-11-16 - Easy and Repeatable Kubernetes Development.
 * [kaniko](https://github.com/GoogleContainerTools/kaniko) ⚠️ Archived - Build Container Images In Kubernetes.
-* [jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,455 | 🐛 258 | 🌐 Java | 📅 2026-11-03 - Build container images for your Java applications.
-* [crossplane](https://github.com/crossplane/crossplane) ⭐ 12,249 | 🐛 203 | 🌐 Go | 📅 2026-11-17 - An Open Source Multicloud Control Plane.
-* [meshery](https://github.com/meshery/meshery) ⭐ 12,230 | 🐛 2,488 | 🌐 Go | 📅 2026-11-17 - A open source cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud).
-* [kustomize](https://github.com/kubernetes-sigs/kustomize) ⭐ 12,209 | 🐛 199 | 🌐 Go | 📅 2026-11-15 - Customization of kubernetes YAML configurations.
-* [kompose](https://github.com/kubernetes/kompose) ⭐ 10,648 | 🐛 19 | 🌐 Go | 📅 2026-11-13 - Go from Docker Compose to Kubernetes.
-* [tilt](https://github.com/tilt-dev/tilt) ⭐ 10,135 | 🐛 510 | 🌐 Go | 📅 2026-11-14 - A multi-service dev environment for teams on Kubernetes.
-* [spinnaker](https://github.com/spinnaker/spinnaker) ⭐ 9,815 | 🐛 112 | 🌐 Java | 📅 2026-11-17 - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-* [pipeline](https://github.com/tektoncd/pipeline) ⭐ 9,109 | 🐛 570 | 🌐 Go | 📅 2026-11-17 - A cloud-native Pipeline resource.
-* [ko](https://github.com/ko-build/ko) ⭐ 8,591 | 🐛 55 | 🌐 Go | 📅 2026-11-17 - Build and deploy Go applications on Kubernetes.
-* [woodpecker](https://github.com/laszlocph/woodpecker) ⭐ 8,215 | 🐛 376 | 🌐 Go | 📅 2026-11-17 - Fork of drone.io v0.8 since drone is not fully opensource anymore.
-* [spec](https://github.com/score-spec/spec) ⭐ 8,104 | 🐛 14 | 🌐 Makefile | 📅 2026-09-07 - The score specification file.
-* [kubevela](https://github.com/oam-dev/kubevela) ⭐ 7,923 | 🐛 279 | 🌐 Go | 📅 2026-11-16 - Make shipping applications more enjoyable.
-* [jsonnet](https://github.com/google/jsonnet) ⭐ 7,598 | 🐛 227 | 🌐 Jsonnet | 📅 2026-03-30 - Jsonnet - The data templating language.
+* [jib](https://github.com/GoogleContainerTools/jib) ⭐ 14,456 | 🐛 259 | 🌐 Java | 📅 2026-11-18 - Build container images for your Java applications.
+* [crossplane](https://github.com/crossplane/crossplane) ⭐ 12,256 | 🐛 196 | 🌐 Go | 📅 2026-11-18 - An Open Source Multicloud Control Plane.
+* [meshery](https://github.com/meshery/meshery) ⭐ 12,244 | 🐛 2,509 | 🌐 Go | 📅 2026-11-18 - A open source cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud).
+* [kustomize](https://github.com/kubernetes-sigs/kustomize) ⭐ 12,210 | 🐛 195 | 🌐 Go | 📅 2026-11-18 - Customization of kubernetes YAML configurations.
+* [kompose](https://github.com/kubernetes/kompose) ⭐ 10,650 | 🐛 19 | 🌐 Go | 📅 2026-11-13 - Go from Docker Compose to Kubernetes.
+* [tilt](https://github.com/tilt-dev/tilt) ⭐ 10,139 | 🐛 510 | 🌐 Go | 📅 2026-11-14 - A multi-service dev environment for teams on Kubernetes.
+* [spinnaker](https://github.com/spinnaker/spinnaker) ⭐ 9,816 | 🐛 117 | 🌐 Java | 📅 2026-11-17 - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+* [pipeline](https://github.com/tektoncd/pipeline) ⭐ 9,109 | 🐛 576 | 🌐 Go | 📅 2026-11-18 - A cloud-native Pipeline resource.
+* [ko](https://github.com/ko-build/ko) ⭐ 8,591 | 🐛 56 | 🌐 Go | 📅 2026-11-17 - Build and deploy Go applications on Kubernetes.
+* [woodpecker](https://github.com/laszlocph/woodpecker) ⭐ 8,232 | 🐛 376 | 🌐 Go | 📅 2026-11-18 - Fork of drone.io v0.8 since drone is not fully opensource anymore.
+* [spec](https://github.com/score-spec/spec) ⭐ 8,106 | 🐛 14 | 🌐 Makefile | 📅 2026-09-07 - The score specification file.
+* [kubevela](https://github.com/oam-dev/kubevela) ⭐ 7,924 | 🐛 275 | 🌐 Go | 📅 2026-11-18 - Make shipping applications more enjoyable.
+* [jsonnet](https://github.com/google/jsonnet) ⭐ 7,598 | 🐛 228 | 🌐 Jsonnet | 📅 2026-03-30 - Jsonnet - The data templating language.
 * [flux](https://github.com/fluxcd/flux) ⚠️ Archived - A tool for turning container images into running Kubernetes services.
-* [helm-dashboard](https://github.com/komodorio/helm-dashboard) ⭐ 5,861 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-17 - The missing UI for Helm - visualize your releases.
-* [devtron](https://github.com/devtron-labs/devtron) ⭐ 5,638 | 🐛 789 | 🌐 Go | 📅 2026-11-16 - Software Delivery Workflow For Kubernetes
-* [flagger](https://github.com/weaveworks/flagger) ⭐ 5,434 | 🐛 417 | 🌐 Go | 📅 2026-11-16 - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments) .
+* [helm-dashboard](https://github.com/komodorio/helm-dashboard) ⭐ 5,860 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-17 - The missing UI for Helm - visualize your releases.
+* [devtron](https://github.com/devtron-labs/devtron) ⭐ 5,639 | 🐛 790 | 🌐 Go | 📅 2026-11-18 - Software Delivery Workflow For Kubernetes
+* [flagger](https://github.com/weaveworks/flagger) ⭐ 5,436 | 🐛 417 | 🌐 Go | 📅 2026-11-16 - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments) .
 * [wing](https://github.com/winglang/wing) ⭐ 5,404 | 🐛 880 | 🌐 TypeScript | 📅 2026-10-07 - A cloud-oriented programming language that allows developers to build distributed systems, leveraging cloud services as first-class citizens.
 * [kubeapps](https://github.com/kubeapps/kubeapps) ⚠️ Archived - A web-based UI for deploying and managing applications in Kubernetes clusters.
-* [cdk8s](https://github.com/awslabs/cdk8s) ⭐ 4,858 | 🐛 70 | 🌐 JavaScript | 📅 2026-11-17 - Define Kubernetes native apps and abstractions using object-oriented programming.
-* [cds](https://github.com/ovh/cds) ⭐ 4,848 | 🐛 168 | 🌐 Go | 📅 2026-11-17 - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform.
-* [werf](https://github.com/werf/werf) ⭐ 4,737 | 🐛 11 | 🌐 Go | 📅 2026-11-17 - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism.
+* [cdk8s](https://github.com/awslabs/cdk8s) ⭐ 4,858 | 🐛 71 | 🌐 JavaScript | 📅 2026-11-18 - Define Kubernetes native apps and abstractions using object-oriented programming.
+* [cds](https://github.com/ovh/cds) ⭐ 4,847 | 🐛 169 | 🌐 Go | 📅 2026-11-18 - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform.
+* [werf](https://github.com/werf/werf) ⭐ 4,737 | 🐛 13 | 🌐 Go | 📅 2026-11-18 - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism.
 * [waypoint](https://github.com/hashicorp/waypoint) ⚠️ Archived - A tool to build, deploy, and release any application on any platform.
-* [jx](https://github.com/jenkins-x/jx) ⭐ 4,693 | 🐛 145 | 🌐 Go | 📅 2026-11-14 - A command line tool for installing and working with Jenkins X.
+* [jx](https://github.com/jenkins-x/jx) ⭐ 4,693 | 🐛 145 | 🌐 Go | 📅 2026-11-18 - A command line tool for installing and working with Jenkins X.
 * [arkade](https://github.com/alexellis/arkade) ⭐ 4,632 | 🐛 19 | 🌐 Go | 📅 2026-11-17 - Kubernetes apps for developers.
 * [helmfile](https://github.com/roboll/helmfile) ⭐ 4,032 | 🐛 525 | 🌐 Go | 📅 2023-04-27 - Deploy Kubernetes Helm Charts.
-* [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) ⭐ 3,877 | 🐛 1,691 | 🌐 Ballerina | 📅 2026-11-17 - Ballerina is a new programming language for integration built on a sequence diagram metaphor.
+* [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) ⭐ 3,877 | 🐛 1,698 | 🌐 Ballerina | 📅 2026-11-18 - Ballerina is a new programming language for integration built on a sequence diagram metaphor.
 * [gitkube](https://github.com/hasura/gitkube) ⭐ 3,845 | 🐛 44 | 🌐 Go | 📅 2023-08-31 - Gitkube: Build and deploy docker images to Kubernetes using git push.
-* [spegel](https://github.com/spegel-org/spegel) ⭐ 3,834 | 🐛 25 | 🌐 Go | 📅 2026-11-16 - Stateless cluster local OCI registry mirror.
+* [spegel](https://github.com/spegel-org/spegel) ⭐ 3,835 | 🐛 25 | 🌐 Go | 📅 2026-11-16 - Stateless cluster local OCI registry mirror.
 * [hygieia](https://github.com/Hygieia/Hygieia) ⚠️ Archived - CapitalOne DevOps Dashboard.
-* [kargo](https://github.com/akuity/kargo) ⭐ 3,797 | 🐛 232 | 🌐 Go | 📅 2026-11-17 - Application lifecycle orchestration.
-* [argo-rollouts](https://github.com/argoproj/argo-rollouts) ⭐ 3,626 | 🐛 694 | 🌐 Go | 📅 2026-11-16 - Progressive delivery controller for blue-green, canary, and experiments on Kubernetes.
+* [kargo](https://github.com/akuity/kargo) ⭐ 3,800 | 🐛 227 | 🌐 Go | 📅 2026-11-18 - Application lifecycle orchestration.
+* [argo-rollouts](https://github.com/argoproj/argo-rollouts) ⭐ 3,627 | 🐛 694 | 🌐 Go | 📅 2026-11-18 - Progressive delivery controller for blue-green, canary, and experiments on Kubernetes.
 * [garden](https://github.com/garden-io/garden) ⭐ 3,623 | 🐛 247 | 🌐 TypeScript | 📅 2026-08-24 - Development orchestrator for Kubernetes, containers and serverless functions.
-* [zadig](https://github.com/koderover/zadig) ⭐ 3,278 | 🐛 35 | 🌐 Go | 📅 2026-11-17 - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
+* [zadig](https://github.com/koderover/zadig) ⭐ 3,278 | 🐛 40 | 🌐 Go | 📅 2026-11-18 - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 * [spec](https://github.com/oam-dev/spec) ⭐ 3,185 | 🐛 111 | 📅 2026-11-13 - The Open Application Model specification.
 * [cue](https://github.com/cuelang/cue) ⚠️ Archived - Validate and define text-based and dynamic configuration.
 * [erda](https://github.com/erda-project/erda) ⭐ 2,758 | 🐛 4 | 🌐 Go | 📅 2026-11-07 - An enterprise-grade application building, deploying, monitoring platform (An iPaaS).
-* [binderhub](https://github.com/jupyterhub/binderhub) ⭐ 2,672 | 🐛 269 | 🌐 Python | 📅 2026-11-14 - Run your code in the cloud, with technology so advanced, it feels like magic!
+* [binderhub](https://github.com/jupyterhub/binderhub) ⭐ 2,673 | 🐛 269 | 🌐 Python | 📅 2026-11-14 - Run your code in the cloud, with technology so advanced, it feels like magic!
 * [source-to-image](https://github.com/openshift/source-to-image) ⭐ 2,542 | 🐛 18 | 🌐 Go | 📅 2026-11-14 - A tool for building/building artifacts from source and injecting into docker images.
 * [kcl](https://github.com/kcl-lang/kcl) ⭐ 2,447 | 🐛 16 | 🌐 Rust | 📅 2026-11-17 - KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project).
-* [hub](https://github.com/artifacthub/hub) ⭐ 2,117 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-17 - Find, install and publish Cloud Native packages
+* [hub](https://github.com/artifacthub/hub) ⭐ 2,117 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-18 - Find, install and publish Cloud Native packages
 * [sealer](https://github.com/alibaba/sealer) ⭐ 2,088 | 🐛 225 | 🌐 Go | 📅 2025-06-03 - Seal your applications all dependencies and kubernetes into CloudImage! Build Deliver and Run user-defined clusters in one command.
-* [timoni](https://github.com/stefanprodan/timoni) ⭐ 2,023 | 🐛 39 | 🌐 Go | 📅 2026-11-14 - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
+* [timoni](https://github.com/stefanprodan/timoni) ⭐ 2,024 | 🐛 39 | 🌐 Go | 📅 2026-11-14 - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 * [cloudbase-framework](https://github.com/Tencent/cloudbase-framework) ⚠️ Archived - 🚀 A front-end and back-end integrated deployment tool 🔥 One-click deploy to serverless architecture.
-* [kpt](https://github.com/GoogleContainerTools/kpt) ⭐ 1,912 | 🐛 280 | 🌐 Go | 📅 2026-11-17 - Kpt is a toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration data files.
+* [kpt](https://github.com/GoogleContainerTools/kpt) ⭐ 1,912 | 🐛 280 | 🌐 Go | 📅 2026-11-18 - Kpt is a toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration data files.
 * [keptn](https://github.com/keptn/keptn) ⚠️ Archived - Keptn is a control-plane for continuous delivery and operations enable cloud-native applications to run autonomously.
 * [fabric8](https://github.com/fabric8io/fabric8) ⚠️ Archived - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins.
-* [radius](https://github.com/radius-project/radius) ⭐ 1,676 | 🐛 360 | 🌐 Go | 📅 2026-11-17 - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
+* [radius](https://github.com/radius-project/radius) ⭐ 1,676 | 🐛 351 | 🌐 Go | 📅 2026-11-18 - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
 * [lastbackend](https://github.com/lastbackend/lastbackend) ⭐ 1,658 | 🐛 9 | 🌐 Go | 📅 2023-07-19 - Container orchestration with CI\&CD, cli and amazing UI.
 * [pipeline](https://github.com/banzaicloud/pipeline) ⭐ 1,499 | 🐛 128 | 🌐 Go | 📅 2023-11-24 - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps.
 * [helmsman](https://github.com/Praqma/helmsman) ⭐ 1,496 | 🐛 3 | 🌐 Go | 📅 2026-11-15 - Helm Charts as Code.
-* [tenv](https://github.com/tofuutils/tenv) ⭐ 1,468 | 🐛 49 | 🌐 Go | 📅 2026-11-17 - OpenTofu / Terraform / Terragrunt and Atmos version manager.
-* [krane](https://github.com/Shopify/krane) ⭐ 1,418 | 🐛 69 | 🌐 Ruby | 📅 2026-11-05 - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
+* [tenv](https://github.com/tofuutils/tenv) ⭐ 1,470 | 🐛 49 | 🌐 Go | 📅 2026-11-17 - OpenTofu / Terraform / Terragrunt and Atmos version manager.
+* [krane](https://github.com/Shopify/krane) ⭐ 1,418 | 🐛 70 | 🌐 Ruby | 📅 2026-11-05 - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
 * [habitus](https://github.com/cloud66-oss/habitus) ⭐ 1,401 | 🐛 8 | 🌐 Go | 📅 2020-02-05 - A build flow tool for Docker.
-* [monday](https://github.com/eko/monday) ⭐ 1,375 | 🐛 6 | 🌐 Go | 📅 2026-11-13 - A dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH.
-* [pipecd](https://github.com/pipe-cd/pipecd) ⭐ 1,371 | 🐛 245 | 🌐 Go | 📅 2026-11-17 - The One CD for All {applications, platforms, operations} - Complete and unified CD to deploy any application to any platform
+* [monday](https://github.com/eko/monday) ⭐ 1,375 | 🐛 0 | 🌐 Go | 📅 2026-11-17 - A dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH.
+* [pipecd](https://github.com/pipe-cd/pipecd) ⭐ 1,371 | 🐛 245 | 🌐 Go | 📅 2026-11-18 - The One CD for All {applications, platforms, operations} - Complete and unified CD to deploy any application to any platform
 * [kusion](https://github.com/KusionStack/kusion) ⭐ 1,323 | 🐛 59 | 🌐 Go | 📅 2026-10-30 - A compile-to-cloud technology stack with tool chains and engine.
 * [kenyata](https://github.com/spinnaker/kayenta) ⚠️ Archived - Automated Canary Service.
 * [klotho](https://github.com/klothoplatform/klotho) ⭐ 1,144 | 🐛 170 | 🌐 Go | 📅 2026-01-21 - Write AWS applications at lightning speed.
-* [kapp](https://github.com/carvel-dev/kapp) ⭐ 1,105 | 🐛 131 | 🌐 Go | 📅 2026-11-15 - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label.
+* [kapp](https://github.com/carvel-dev/kapp) ⭐ 1,104 | 🐛 131 | 🌐 Go | 📅 2026-11-15 - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label.
 * [cyclone](https://github.com/caicloud/cyclone) ⭐ 1,065 | 🐛 44 | 🌐 Go | 📅 2023-10-24 - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.
 * [screwdriver](https://github.com/screwdriver-cd/screwdriver) ⭐ 1,051 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-17 - An open source build platform designed for continuous delivery.
 * [cnab-spec](https://github.com/cnabio/cnab-spec) ⭐ 973 | 🐛 31 | 🌐 Shell | 📅 2022-09-09 - Cloud Native Application Bundle Specification.
@@ -204,7 +204,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 * [opencompose](https://github.com/redhat-developer/opencompose) ⭐ 65 | 🐛 47 | 🌐 Go | 📅 2017-08-14 - A higher level abstraction for Kubernetes Resource.
 * [kdo](https://github.com/stepro/kdo) ⭐ 63 | 🐛 8 | 🌐 Go | 📅 2026-01-30 - Deployless Development on Kubernetes.
 * [helm-kanvas-snapshot](https://github.com/meshery/helm-kanvas-snapshot) ⭐ 45 | 🐛 17 | 🌐 Go | 📅 2026-09-01 - A Plugin that generates a visual snapshot of Helm charts.
-* [qovery](https://github.com/Qovery/qovery-skills) ⭐ 14 | 🐛 5 | 🌐 Shell | 📅 2026-11-17 - Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway. Includes Terraform provider, CLI, API, and AI Agent Skill.
+* [qovery](https://github.com/Qovery/qovery-skills) ⭐ 14 | 🐛 6 | 🌐 Shell | 📅 2026-11-18 - Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway. Includes Terraform provider, CLI, API, and AI Agent Skill.
 * [kzero](https://github.com/hrodrig/kzero) ⭐ 4 | 🐛 2 | 🌐 Go | 📅 2026-11-09 - Declarative Kubernetes down/up/reset CLI for bastion maintenance playbooks with dry-run and notify.
 * [argocd-gitops-updater-action](https://github.com/drumandbytes/argocd-gitops-updater-action) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - GitHub Action that opens pull requests bumping Helm chart and container image versions in Argo CD and Kustomize GitOps repos.
 * [circleci](https://github.com/circleci) - Continuous Integration and Deployment.
@@ -213,13 +213,13 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Build & Packaging Automation
 
-* [packer](https://github.com/hashicorp/packer) ⭐ 15,825 | 🐛 318 | 🌐 Go | 📅 2026-11-17 - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-* [skopeo](https://github.com/containers/skopeo) ⭐ 11,413 | 🐛 80 | 🌐 Go | 📅 2026-11-17 - Work with remote images registries - retrieving information, images, signing content.
-* [tini](https://github.com/krallin/tini) ⭐ 11,307 | 🐛 46 | 🌐 C | 📅 2025-05-08 - A tiny but valid `init` for containers.
-* [buildx](https://github.com/docker/buildx) ⭐ 4,547 | 🐛 273 | 🌐 Go | 📅 2026-11-17 - Docker CLI plugin for extended build capabilities with BuildKit.
+* [packer](https://github.com/hashicorp/packer) ⭐ 15,825 | 🐛 316 | 🌐 Go | 📅 2026-11-18 - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+* [skopeo](https://github.com/containers/skopeo) ⭐ 11,418 | 🐛 79 | 🌐 Go | 📅 2026-11-18 - Work with remote images registries - retrieving information, images, signing content.
+* [tini](https://github.com/krallin/tini) ⭐ 11,311 | 🐛 46 | 🌐 C | 📅 2025-05-08 - A tiny but valid `init` for containers.
+* [buildx](https://github.com/docker/buildx) ⭐ 4,547 | 🐛 275 | 🌐 Go | 📅 2026-11-18 - Docker CLI plugin for extended build capabilities with BuildKit.
 * [container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) ⭐ 2,504 | 🐛 118 | 🌐 Go | 📅 2026-07-20 - Validate the structure of your container images.
-* [docker-wine](https://github.com/scottyhardy/docker-wine) ⭐ 1,543 | 🐛 55 | 🌐 Shell | 📅 2025-05-29 - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS.
-* [dockerized](https://github.com/datastack-net/dockerized) ⭐ 1,268 | 🐛 8 | 🌐 Go | 📅 2023-08-31 - Run popular commandline tools within docker.
+* [docker-wine](https://github.com/scottyhardy/docker-wine) ⭐ 1,544 | 🐛 55 | 🌐 Shell | 📅 2025-05-29 - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS.
+* [dockerized](https://github.com/datastack-net/dockerized) ⭐ 1,267 | 🐛 8 | 🌐 Go | 📅 2023-08-31 - Run popular commandline tools within docker.
 * [kpack](https://github.com/pivotal/kpack) ⭐ 1,088 | 🐛 116 | 🌐 Go | 📅 2026-08-17 - Kubernetes Native Container Build Service.
 * [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) ⭐ 153 | 🐛 6 | 🌐 Go | 📅 2024-06-10 - A Docker CLI plugin that that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor.
 * [kuberlr](https://github.com/flavio/kuberlr) ⭐ 150 | 🐛 10 | 🌐 Go | 📅 2026-11-16 - A tool that simplifies the management of multiple versions of kubectl.
@@ -230,21 +230,21 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Configuration & Policy Automation
 
-* [ansible](https://github.com/ansible/ansible) ⭐ 71,649 | 🐛 890 | 🌐 Python | 📅 2026-11-17 - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
-* [unleash](https://github.com/Unleash/unleash) ⭐ 14,330 | 🐛 49 | 🌐 TypeScript | 📅 2026-11-17 - Open-source feature management platform to decouple deploy from release and enable continuous delivery safely.
-* [reloader](https://github.com/stakater/Reloader) ⭐ 10,577 | 🐛 169 | 🌐 Go | 📅 2026-11-17 - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig.
+* [ansible](https://github.com/ansible/ansible) ⭐ 71,494 | 🐛 886 | 🌐 Python | 📅 2026-11-18 - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+* [unleash](https://github.com/Unleash/unleash) ⭐ 14,337 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-18 - Open-source feature management platform to decouple deploy from release and enable continuous delivery safely.
+* [reloader](https://github.com/stakater/Reloader) ⭐ 10,584 | 🐛 176 | 🌐 Go | 📅 2026-11-18 - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig.
 * [datree](https://github.com/datreeio/datree) ⚠️ Archived - CLI tool that automatically scans Kubernetes manifests and Helm charts to ensure they follow best practices as well as your organization’s policies.
-* [gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,303 | 🐛 200 | 🌐 Go | 📅 2026-11-17 - Enforce Kubernetes admission policies using Open Policy Agent constraints.
-* [kube-linter](https://github.com/stackrox/kube-linter) ⭐ 3,531 | 🐛 100 | 🌐 Go | 📅 2026-11-17 - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
-* [pluto](https://github.com/FairwindsOps/pluto) ⭐ 2,608 | 🐛 11 | 🌐 Go | 📅 2026-11-17 - A cli tool to help discover deprecated apiVersions in Kubernetes.
-* [kapitan](https://github.com/kapicorp/kapitan) ⭐ 1,933 | 🐛 212 | 🌐 Python | 📅 2026-11-07 - Inventory-driven configuration generator for Kubernetes and infrastructure, using Jsonnet, Jinja2, Kadet, Helm, Kustomize, and CUE inputs.
+* [gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,303 | 🐛 202 | 🌐 Go | 📅 2026-11-18 - Enforce Kubernetes admission policies using Open Policy Agent constraints.
+* [kube-linter](https://github.com/stackrox/kube-linter) ⭐ 3,531 | 🐛 100 | 🌐 Go | 📅 2026-11-18 - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+* [pluto](https://github.com/FairwindsOps/pluto) ⭐ 2,608 | 🐛 11 | 🌐 Go | 📅 2026-11-18 - A cli tool to help discover deprecated apiVersions in Kubernetes.
+* [kapitan](https://github.com/kapicorp/kapitan) ⭐ 1,933 | 🐛 213 | 🌐 Python | 📅 2026-11-07 - Inventory-driven configuration generator for Kubernetes and infrastructure, using Jsonnet, Jinja2, Kadet, Helm, Kustomize, and CUE inputs.
 * [container-transform](https://github.com/micahhausler/container-transform) ⭐ 1,409 | 🐛 29 | 🌐 Python | 📅 2020-05-11 - Transforms docker-compose, ECS, and Marathon configurations.
-* [openfeature](https://github.com/open-feature/spec) ⭐ 1,295 | 🐛 50 | 🌐 Gherkin | 📅 2026-11-16 - Vendor-neutral feature flag standard and SDKs for cloud native apps.
+* [openfeature](https://github.com/open-feature/spec) ⭐ 1,296 | 🐛 50 | 🌐 Gherkin | 📅 2026-11-17 - Vendor-neutral feature flag standard and SDKs for cloud native apps.
 * [ksonnet](https://github.com/ksonnet/ksonnet) ⚠️ Archived - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
 * [kubecfg](https://github.com/bitnami/kubecfg) ⚠️ Archived - A tool for managing complex enterprise Kubernetes environments as code.
 * [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) ⚠️ Archived - (technical preview) Simplify working with Kubernetes.
 * [microconfig](https://github.com/microconfig/microconfig) ⭐ 319 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-09 - Modern and simple way of microservice configuration management.
-* [kubewarden](https://github.com/kubewarden/kubewarden-controller) ⭐ 246 | 🐛 135 | 🌐 Rust | 📅 2026-11-17 - Policy as code for Kubernetes powered by WebAssembly modules.
+* [kubewarden](https://github.com/kubewarden/kubewarden-controller) ⭐ 246 | 🐛 133 | 🌐 Rust | 📅 2026-11-18 - Policy as code for Kubernetes powered by WebAssembly modules.
 * [ktmpl](https://github.com/InQuicker/ktmpl) ⭐ 151 | 🐛 8 | 🌐 Rust | 📅 2017-10-20 - Parameterized templates for Kubernetes manifests.
 * [kcg](https://github.com/bit-cloner/kcg) ⭐ 19 | 🐛 1 | 🌐 Go | 📅 2021-04-29 - Kubernetes config generator.
 * [k8s-namespace-sync](https://github.com/somaz94/k8s-namespace-sync) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2026-11-09 - Kubernetes operator that copies Secrets and ConfigMaps from a source namespace to other namespaces and keeps them in sync, including namespaces created later, with glob filters on resource names.
@@ -255,35 +255,35 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Cluster Provisioning & Lifecycle
 
-* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,257 | 🐛 638 | 🌐 Go | 📅 2026-11-17 - Run Kubernetes locally.
-* [vagrant](https://github.com/hashicorp/vagrant) ⭐ 27,231 | 🐛 760 | 🌐 Ruby | 📅 2026-11-12 - Vagrant is a tool for building and distributing development environments.
-* [kubespray](https://github.com/kubernetes-sigs/kubespray) ⭐ 18,844 | 🐛 184 | 🌐 Jinja | 📅 2026-11-17 - Setup a kubernetes cluster also mentioned as kargo.
-* [sealos](https://github.com/labring/sealos) ⭐ 18,396 | 🐛 53 | 🌐 Go | 📅 2026-11-16 - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
-* [kops](https://github.com/kubernetes/kops) ⭐ 16,710 | 🐛 137 | 🌐 Go | 📅 2026-11-17 - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
-* [kind](https://github.com/kubernetes-sigs/kind) ⭐ 15,623 | 🐛 253 | 🌐 Go | 📅 2026-11-16 - Kubernetes IN Docker - local clusters for testing Kubernetes.
-* [talos](https://github.com/talos-systems/talos) ⭐ 11,547 | 🐛 303 | 🌐 Go | 📅 2026-11-17 - A modern OS for Kubernetes.
-* [kubeasz](https://github.com/easzlab/kubeasz) ⭐ 11,454 | 🐛 4 | 🌐 Jinja | 📅 2026-11-14 - Install K8s clusters with Ansible playbooks, explains component interaction principles, simple to use, and unaffected by the network environment in China.
-* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,388 | 🐛 165 | 🌐 Python | 📅 2026-11-17 - A kubernetes cluster in a snap.
-* [eksctl](https://github.com/weaveworks/eksctl) ⭐ 5,220 | 🐛 93 | 🌐 Go | 📅 2026-11-17 - A CLI for Amazon EKS.
-* [cluster-api](https://github.com/kubernetes-sigs/cluster-api) ⭐ 4,351 | 🐛 175 | 🌐 Go | 📅 2026-11-17 - Kubernetes-style APIs for declaratively managing cluster lifecycle across providers.
+* [minikube](https://github.com/kubernetes/minikube) ⭐ 32,258 | 🐛 637 | 🌐 Go | 📅 2026-11-18 - Run Kubernetes locally.
+* [vagrant](https://github.com/hashicorp/vagrant) ⭐ 27,233 | 🐛 760 | 🌐 Ruby | 📅 2026-11-12 - Vagrant is a tool for building and distributing development environments.
+* [kubespray](https://github.com/kubernetes-sigs/kubespray) ⭐ 18,847 | 🐛 180 | 🌐 Jinja | 📅 2026-11-18 - Setup a kubernetes cluster also mentioned as kargo.
+* [sealos](https://github.com/labring/sealos) ⭐ 18,399 | 🐛 52 | 🌐 Go | 📅 2026-11-18 - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
+* [kops](https://github.com/kubernetes/kops) ⭐ 16,710 | 🐛 139 | 🌐 Go | 📅 2026-11-18 - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
+* [kind](https://github.com/kubernetes-sigs/kind) ⭐ 15,627 | 🐛 255 | 🌐 Go | 📅 2026-11-18 - Kubernetes IN Docker - local clusters for testing Kubernetes.
+* [talos](https://github.com/talos-systems/talos) ⭐ 11,562 | 🐛 301 | 🌐 Go | 📅 2026-11-18 - A modern OS for Kubernetes.
+* [kubeasz](https://github.com/easzlab/kubeasz) ⭐ 11,456 | 🐛 2 | 🌐 Jinja | 📅 2026-11-14 - Install K8s clusters with Ansible playbooks, explains component interaction principles, simple to use, and unaffected by the network environment in China.
+* [microk8s](https://github.com/ubuntu/microk8s) ⭐ 9,388 | 🐛 166 | 🌐 Python | 📅 2026-11-18 - A kubernetes cluster in a snap.
+* [eksctl](https://github.com/weaveworks/eksctl) ⭐ 5,220 | 🐛 92 | 🌐 Go | 📅 2026-11-18 - A CLI for Amazon EKS.
+* [cluster-api](https://github.com/kubernetes-sigs/cluster-api) ⭐ 4,351 | 🐛 173 | 🌐 Go | 📅 2026-11-18 - Kubernetes-style APIs for declaratively managing cluster lifecycle across providers.
 * [kubeadm](https://github.com/kubernetes/kubeadm) ⭐ 4,001 | 🐛 35 | 🌐 Go | 📅 2026-10-29 - Aggregator for issues filed against kubeadm.
-* [gardener](https://github.com/gardener/gardener) ⭐ 3,488 | 🐛 249 | 🌐 Go | 📅 2026-11-17 - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (a.k.a. (off)shoot clusters) as a service (with day-2 ops) on Alibaba, AWS, Azure, GCP, and OpenStack.
-* [cloudpods](https://github.com/yunionio/cloudpods) ⭐ 2,973 | 🐛 202 | 🌐 Go | 📅 2026-11-17 - A cloud-native open-source unified multi-cloud and hybrid-cloud platform.
+* [gardener](https://github.com/gardener/gardener) ⭐ 3,488 | 🐛 242 | 🌐 Go | 📅 2026-11-18 - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (a.k.a. (off)shoot clusters) as a service (with day-2 ops) on Alibaba, AWS, Azure, GCP, and OpenStack.
+* [cloudpods](https://github.com/yunionio/cloudpods) ⭐ 2,974 | 🐛 207 | 🌐 Go | 📅 2026-11-18 - A cloud-native open-source unified multi-cloud and hybrid-cloud platform.
 * [kubefirst](https://github.com/kubefirst/kubefirst) ⭐ 2,062 | 🐛 289 | 🌐 Go | 📅 2026-11-15 - The Kubefirst Open Source Platform.
-* [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) ⭐ 1,912 | 🐛 17 | 🌐 Shell | 📅 2022-08-17 - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
-* [fleet](https://github.com/rancher/fleet) ⭐ 1,741 | 🐛 194 | 🌐 Go | 📅 2026-11-17 - Manage large fleets of Kubernetes clusters.
-* [clusternet](https://github.com/clusternet/clusternet) ⭐ 1,461 | 🐛 72 | 🌐 Go | 📅 2026-10-20 - Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet.
-* [kube-fledged](https://github.com/senthilrch/kube-fledged) ⭐ 1,386 | 🐛 25 | 🌐 Go | 📅 2026-11-14 - A kubernetes add-on for creating and managing a cache of container images in a kubernetes cluster.
+* [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) ⭐ 1,911 | 🐛 17 | 🌐 Shell | 📅 2022-08-17 - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
+* [fleet](https://github.com/rancher/fleet) ⭐ 1,741 | 🐛 193 | 🌐 Go | 📅 2026-11-17 - Manage large fleets of Kubernetes clusters.
+* [clusternet](https://github.com/clusternet/clusternet) ⭐ 1,461 | 🐛 73 | 🌐 Go | 📅 2026-10-20 - Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet.
+* [kube-fledged](https://github.com/senthilrch/kube-fledged) ⭐ 1,388 | 🐛 25 | 🌐 Go | 📅 2026-11-14 - A kubernetes add-on for creating and managing a cache of container images in a kubernetes cluster.
 * [usernetes](https://github.com/rootless-containers/usernetes) ⭐ 997 | 🐛 21 | 🌐 Shell | 📅 2026-11-15 - Kubernetes installable under $HOME, without the root privileges.
-* [claudie](https://github.com/berops/claudie) ⭐ 795 | 🐛 64 | 🌐 Go | 📅 2026-11-17 - Cloud-agnostic managed Kubernetes.
+* [claudie](https://github.com/berops/claudie) ⭐ 795 | 🐛 65 | 🌐 Go | 📅 2026-11-18 - Cloud-agnostic managed Kubernetes.
 * [kstone](https://github.com/tkestack/kstone) ⭐ 693 | 🐛 23 | 🌐 Go | 📅 2022-09-02 - Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.
 * [tectonic-installer](https://github.com/coreos/tectonic-installer) ⚠️ Archived - Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more.
-* [kubean](https://github.com/kubean-io/kubean) ⭐ 535 | 🐛 19 | 🌐 Go | 📅 2026-11-09 - Kubernetes lifecycle management operator based on kubespray.
-* [spinifex](https://github.com/mulgadc/spinifex) ⭐ 422 | 🐛 11 | 🌐 Go | 📅 2026-11-17 - Open source AWS-compatible platform for bare-metal, on-prem, and edge deployments. Run EC2, S3, EBS, and VPC-compatible services on your own hardware — no managed cloud required.
+* [kubean](https://github.com/kubean-io/kubean) ⭐ 536 | 🐛 19 | 🌐 Go | 📅 2026-11-09 - Kubernetes lifecycle management operator based on kubespray.
+* [spinifex](https://github.com/mulgadc/spinifex) ⭐ 428 | 🐛 9 | 🌐 Go | 📅 2026-11-18 - Open source AWS-compatible platform for bare-metal, on-prem, and edge deployments. Run EC2, S3, EBS, and VPC-compatible services on your own hardware — no managed cloud required.
 * [wksctl](https://github.com/weaveworks/wksctl) ⚠️ Archived - Open Source Weaveworks Kubernetes System.
 * [tensile-kube](https://github.com/virtual-kubelet/tensile-kube) ⭐ 288 | 🐛 4 | 🌐 Go | 📅 2025-12-05 - A Kubernetes Provider.
 * [ksctl](https://github.com/kubesimplify/ksctl) ⚠️ Archived - A Generic Kubernetes Management CLI tool for multi-cloud Kubernetes clusters.
-* [cluster-lifecycle-manager](https://github.com/zalando-incubator/cluster-lifecycle-manager) ⭐ 249 | 🐛 18 | 🌐 Go | 📅 2026-11-16 - Cluster Lifecycle Manager (CLM) to provision and update multiple Kubernetes clusters.
+* [cluster-lifecycle-manager](https://github.com/zalando-incubator/cluster-lifecycle-manager) ⭐ 249 | 🐛 18 | 🌐 Go | 📅 2026-11-18 - Cluster Lifecycle Manager (CLM) to provision and update multiple Kubernetes clusters.
 * [kip](https://github.com/elotl/kip) ⭐ 232 | 🐛 34 | 🌐 Go | 📅 2023-02-25 - Virtual-kubelet provider running pods in cloud instances.
 * [kubeup](https://github.com/kubeup/archon) ⭐ 195 | 🐛 8 | 🌐 Go | 📅 2017-11-01 - Cluster operation the Kubernetes way.
 * [cloud-native-sandbox](https://github.com/rootsongjc/cloud-native-sandbox) ⭐ 128 | 🐛 3 | 📅 2021-04-13 - Cloud Native Sandbox can help you setup a standalone Kubernetes and Istio environment with Docker on you own laptop.
@@ -292,22 +292,22 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Developer Workspaces & Productivity
 
-* [client-go](https://github.com/kubernetes/client-go) ⭐ 9,915 | 🐛 0 | 🌐 Go | 📅 2026-11-17 - Go client for Kubernetes.
-* [telepresence](https://github.com/telepresenceio/telepresence) ⭐ 7,333 | 🐛 12 | 🌐 Go | 📅 2026-11-15 - Local development against a remote Kubernetes or OpenShift cluster.
-* [che](https://github.com/eclipse/che) ⭐ 7,176 | 🐛 199 | 🌐 TypeScript | 📅 2026-11-17 - Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
-* [devspace](https://github.com/devspace-cloud/devspace) ⭐ 5,244 | 🐛 135 | 🌐 Go | 📅 2026-11-11 - Cloud Native Software Development with Kubernetes and Docker - simply run "devspace up" in any of your projects and start coding directly on top of Kubernetes (works with minikube, self-hosted and cloud-based clusters).
-* [kubefwd](https://github.com/txn2/kubefwd) ⭐ 4,188 | 🐛 7 | 🌐 Go | 📅 2026-11-10 - Bulk port forwarding Kubernetes services for local development.
+* [client-go](https://github.com/kubernetes/client-go) ⭐ 9,916 | 🐛 0 | 🌐 Go | 📅 2026-11-18 - Go client for Kubernetes.
+* [telepresence](https://github.com/telepresenceio/telepresence) ⭐ 7,333 | 🐛 12 | 🌐 Go | 📅 2026-11-18 - Local development against a remote Kubernetes or OpenShift cluster.
+* [che](https://github.com/eclipse/che) ⭐ 7,175 | 🐛 198 | 🌐 TypeScript | 📅 2026-11-17 - Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
+* [devspace](https://github.com/devspace-cloud/devspace) ⭐ 5,246 | 🐛 135 | 🌐 Go | 📅 2026-11-11 - Cloud Native Software Development with Kubernetes and Docker - simply run "devspace up" in any of your projects and start coding directly on top of Kubernetes (works with minikube, self-hosted and cloud-based clusters).
+* [kubefwd](https://github.com/txn2/kubefwd) ⭐ 4,189 | 🐛 7 | 🌐 Go | 📅 2026-11-17 - Bulk port forwarding Kubernetes services for local development.
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) ⭐ 3,815 | 🐛 3 | 🌐 Shell | 📅 2026-09-25 - Kubernetes prompt info for bash and zsh.
 * [kubernetes-client](https://github.com/fabric8io/kubernetes-client) ⭐ 3,690 | 🐛 121 | 🌐 Java | 📅 2026-11-17 - Java client for Kubernetes & OpenShift 3.
-* [okteto](https://github.com/okteto/okteto) ⭐ 3,557 | 🐛 44 | 🌐 Go | 📅 2026-11-17 - Local development experience for Kubernetes apps.
+* [okteto](https://github.com/okteto/okteto) ⭐ 3,558 | 🐛 39 | 🌐 Go | 📅 2026-11-18 - Local development experience for Kubernetes apps.
 * [kubectl-tree](https://github.com/ahmetb/kubectl-tree) ⭐ 3,449 | 🐛 19 | 🌐 Go | 📅 2026-11-09 - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
-* [kubie](https://github.com/sbstp/kubie) ⭐ 2,669 | 🐛 66 | 🌐 Rust | 📅 2026-10-24 - A more powerful alternative to kubectx and kubens.
+* [kubie](https://github.com/sbstp/kubie) ⭐ 2,670 | 🐛 66 | 🌐 Rust | 📅 2026-10-24 - A more powerful alternative to kubectx and kubens.
 * [kube-shell](https://github.com/cloudnativelabs/kube-shell) ⭐ 2,393 | 🐛 67 | 🌐 Python | 📅 2022-11-02 - Kubernetes shell: An integrated shell for working with the Kubernetes CLI.
 * [kubebox](https://github.com/astefanutti/kubebox) ⭐ 2,227 | 🐛 41 | 🌐 JavaScript | 📅 2024-06-17 - Terminal console for Kubernetes clusters.
 * [xlskubectl](https://github.com/learnk8s/xlskubectl) ⭐ 2,004 | 🐛 7 | 🌐 JavaScript | 📅 2022-09-23 - A spreadsheet to control your Kubernetes cluster.
 * [nocalhost](https://github.com/nocalhost/nocalhost) ⭐ 1,893 | 🐛 82 | 🌐 Go | 📅 2026-08-19 - Nocalhost is Cloud Native Dev Environment.
 * [wa](https://github.com/wa-lang/wa/) ⭐ 1,771 | 🐛 6 | 🌐 Go | 📅 2026-04-30 - The Wa Programming Language: Simple, maintainable, compiled language for developing WebAssembly software.
-* [kftray](https://github.com/hcavarsan/kftray) ⭐ 1,579 | 🐛 25 | 🌐 Rust | 📅 2026-11-17 - Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories.
+* [kftray](https://github.com/hcavarsan/kftray) ⭐ 1,581 | 🐛 27 | 🌐 Rust | 📅 2026-11-18 - Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories.
 * [ksync](https://github.com/ksync/ksync) ⚠️ Archived - Sync files between your local system and a kubernetes cluster.
 * [dockersh](https://github.com/Yelp/dockersh) ⚠️ Archived - A shell which places users into individual docker containers.
 * [fubectl](https://github.com/kubermatic/fubectl) ⭐ 1,014 | 🐛 9 | 🌐 Go | 📅 2026-11-06 - Reduces repetitive interactions with kubectl.
@@ -325,27 +325,27 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Diagnostics & Troubleshooting
 
-* [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,333 | 🐛 85 | 🌐 Go | 📅 2026-11-17 - Giving Kubernetes Superpowers to everyone.
-* [stern](https://github.com/stern/stern) ⭐ 4,925 | 🐛 33 | 🌐 Go | 📅 2026-11-16 - Multi pod and container log tailing for Kubernetes.
+* [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,338 | 🐛 70 | 🌐 Go | 📅 2026-11-18 - Giving Kubernetes Superpowers to everyone.
+* [stern](https://github.com/stern/stern) ⭐ 4,925 | 🐛 34 | 🌐 Go | 📅 2026-11-16 - Multi pod and container log tailing for Kubernetes.
 * [kube-no-trouble](https://github.com/doitintl/kube-no-trouble) ⭐ 3,701 | 🐛 30 | 🌐 Go | 📅 2026-09-17 - Easily check your clusters for use of deprecated APIs.
-* [ksniff](https://github.com/eldadru/ksniff) ⭐ 3,475 | 🐛 68 | 🌐 Go | 📅 2024-08-02 - Kubectl plugin to ease sniffing on Kubernetes pods using tcpdump and Wireshark.
-* [robusta](https://github.com/robusta-dev/robusta) ⭐ 3,144 | 🐛 212 | 🌐 Python | 📅 2026-11-16 - Open source Kubernetes troubleshooting and automation platform.
-* [kubespy](https://github.com/pulumi/kubespy) ⭐ 3,087 | 🐛 15 | 🌐 Go | 📅 2026-11-17 - Tools for observing Kubernetes resources in real time, powered by Pulumi.
+* [ksniff](https://github.com/eldadru/ksniff) ⭐ 3,474 | 🐛 68 | 🌐 Go | 📅 2024-08-02 - Kubectl plugin to ease sniffing on Kubernetes pods using tcpdump and Wireshark.
+* [robusta](https://github.com/robusta-dev/robusta) ⭐ 3,144 | 🐛 211 | 🌐 Python | 📅 2026-11-18 - Open source Kubernetes troubleshooting and automation platform.
+* [kubespy](https://github.com/pulumi/kubespy) ⭐ 3,087 | 🐛 15 | 🌐 Go | 📅 2026-11-18 - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 * [kube-capacity](https://github.com/robscott/kube-capacity) ⭐ 2,678 | 🐛 52 | 🌐 Go | 📅 2025-11-21 - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 * [kubectl-trace](https://github.com/iovisor/kubectl-trace) ⭐ 2,188 | 🐛 49 | 🌐 Go | 📅 2026-04-16 - Schedule bpftrace programs on your kubernetes cluster using the kubectl.
 * [kail](https://github.com/boz/kail) ⭐ 2,068 | 🐛 34 | 🌐 Go | 📅 2025-07-03 - Kubernetes log viewer.
-* [cri-tools](https://github.com/kubernetes-sigs/cri-tools) ⭐ 2,028 | 🐛 15 | 🌐 Go | 📅 2026-11-13 - CLI and validation tools for Kubelet Container Runtime Interface (CRI).
-* [terminus](https://github.com/godaddy/terminus) ⭐ 1,911 | 🐛 17 | 🌐 JavaScript | 📅 2025-08-20 - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications.
+* [cri-tools](https://github.com/kubernetes-sigs/cri-tools) ⭐ 2,029 | 🐛 15 | 🌐 Go | 📅 2026-11-13 - CLI and validation tools for Kubelet Container Runtime Interface (CRI).
+* [terminus](https://github.com/godaddy/terminus) ⭐ 1,912 | 🐛 17 | 🌐 JavaScript | 📅 2025-08-20 - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications.
 * [squash](https://github.com/solo-io/squash) ⭐ 1,756 | 🐛 87 | 🌐 Go | 📅 2022-06-09 - The debugger for microservices.
-* [memfree](https://github.com/memfreeme/memfree) ⭐ 1,512 | 🐛 24 | 🌐 TypeScript | 📅 2026-07-06 - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
-* [kubeletctl](https://github.com/cyberark/kubeletctl) ⭐ 918 | 🐛 7 | 🌐 Go | 📅 2025-08-06 - A client for kubelet.
+* [memfree](https://github.com/memfreeme/memfree) ⭐ 1,513 | 🐛 24 | 🌐 TypeScript | 📅 2026-07-06 - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
+* [kubeletctl](https://github.com/cyberark/kubeletctl) ⭐ 919 | 🐛 7 | 🌐 Go | 📅 2025-08-06 - A client for kubelet.
 * [kubetap](https://github.com/soluble-ai/kubetap) ⭐ 653 | 🐛 19 | 🌐 Go | 📅 2023-08-30 - Kubectl plugin to interactively proxy Kubernetes Services with ease.
 * [kube-lineage](https://github.com/tohjustin/kube-lineage) ⭐ 461 | 🐛 9 | 🌐 Go | 📅 2024-07-07 - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster.
 * [kubectl-doctor](https://github.com/emirozer/kubectl-doctor) ⭐ 365 | 🐛 10 | 🌐 Go | 📅 2022-10-06 - Kubectl cluster triage plugin for Kubernetes (brew doctor equivalent).
 * [crashcart](https://github.com/oracle/crashcart) ⚠️ Archived - CrashCart: sideload binaries into a running container.
 * [pangolin](https://github.com/dpeckett/pangolin) ⚠️ Archived - An enhanced Horizontal Pod Autoscaler for Kubernetes.
 * [kubeutr](https://github.com/mr-karan/kubekutr) ⚠️ Archived - Cookie cutter templating tool for scaffolding K8s manifests.
-* [akmatori](https://github.com/akmatori/akmatori) ⭐ 53 | 🐛 15 | 🌐 Go | 📅 2026-11-16 - Self-hosted AIOps platform that investigates Alertmanager, PagerDuty, Grafana, Datadog and Zabbix alerts with LLM agents through Kubernetes, SSH and monitoring tools, and puts risky remediation actions behind human approval.
+* [akmatori](https://github.com/akmatori/akmatori) ⭐ 55 | 🐛 17 | 🌐 Go | 📅 2026-11-18 - Self-hosted AIOps platform that investigates Alertmanager, PagerDuty, Grafana, Datadog and Zabbix alerts with LLM agents through Kubernetes, SSH and monitoring tools, and puts risky remediation actions behind human approval.
 * [kubehandler](https://github.com/gojektech/kubehandler) ⭐ 29 | 🐛 0 | 🌐 Go | 📅 2022-08-05 - A framework for writing Kubernetes controllers.
 * [kubeload](https://github.com/Efrat19/kubeload) ⭐ 24 | 🐛 3 | 🌐 Go | 📅 2024-03-03 - Jobs managing K8S operator for IAC-oriented load tests.
 * [groot](https://github.com/hrodrig/groot) ⭐ 23 | 🐛 10 | 🌐 Go | 📅 2026-11-17 - Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.
@@ -357,18 +357,18 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Testing & Conformance
 
-* [keploy](https://github.com/keploy/keploy) ⭐ 19,874 | 🐛 868 | 🌐 Go | 📅 2026-11-17 - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
-* [test-infra](https://github.com/kubernetes/test-infra) ⭐ 4,026 | 🐛 127 | 🌐 Go | 📅 2026-11-17 - Test infrastructure for the Kubernetes project.
-* [kwok](https://github.com/kubernetes-sigs/kwok) ⭐ 3,227 | 🐛 48 | 🌐 Go | 📅 2026-11-17 - Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.
-* [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) ⭐ 3,053 | 🐛 34 | 🌐 Go | 📅 2026-11-06 - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.
-* [jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 234 | 🐛 58 | 🌐 Python | 📅 2026-11-17 - Open source hardware-in-the-loop testing framework with Kubernetes-native device management and CI/CD integration.
+* [keploy](https://github.com/keploy/keploy) ⭐ 19,886 | 🐛 869 | 🌐 Go | 📅 2026-11-18 - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
+* [test-infra](https://github.com/kubernetes/test-infra) ⭐ 4,026 | 🐛 125 | 🌐 Go | 📅 2026-11-18 - Test infrastructure for the Kubernetes project.
+* [kwok](https://github.com/kubernetes-sigs/kwok) ⭐ 3,228 | 🐛 51 | 🌐 Go | 📅 2026-11-17 - Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.
+* [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) ⭐ 3,052 | 🐛 34 | 🌐 Go | 📅 2026-11-06 - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.
+* [jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 234 | 🐛 59 | 🌐 Python | 📅 2026-11-18 - Open source hardware-in-the-loop testing framework with Kubernetes-native device management and CI/CD integration.
 * [seaworthy](https://github.com/cakehappens/seaworthy) ⭐ 39 | 🐛 0 | 🌐 Go | 📅 2020-08-10 - A CLI to verify Kubernetes resource health.
 
 [↑ Back to top](#table-of-contents)
 
 ## Data Protection & Backup
 
-* [ark](https://github.com/vmware-tanzu/velero) ⭐ 10,380 | 🐛 815 | 🌐 Go | 📅 2026-11-17 - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.
+* [ark](https://github.com/vmware-tanzu/velero) ⭐ 10,381 | 🐛 812 | 🌐 Go | 📅 2026-11-18 - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.
 * [stash](https://github.com/stashed/stash) ⭐ 1,424 | 🐛 125 | 🌐 Go | 📅 2026-11-13 - Backup your Kubernetes Volumes.
 * [dotmesh](https://github.com/dotmesh-io/dotmesh) ⭐ 534 | 🐛 221 | 🌐 Go | 📅 2023-09-01 - Dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes.
 * [k8s-snapshots](https://github.com/miracle2k/k8s-snapshots) ⭐ 348 | 🐛 21 | 🌐 Python | 📅 2026-01-05 - Automatic Volume Snapshots on Kubernetes.
@@ -377,24 +377,24 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Cost & Governance
 
-* [karpenter](https://github.com/aws/karpenter) ⭐ 7,736 | 🐛 287 | 🌐 Go | 📅 2026-11-17 - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
-* [cost-model](https://github.com/kubecost/cost-model) ⭐ 6,824 | 🐛 373 | 🌐 Go | 📅 2026-11-17 - Cross-cloud cost allocation models for workloads running on Kubernetes.
-* [opencost](https://github.com/opencost/opencost) ⭐ 6,824 | 🐛 373 | 🌐 Go | 📅 2026-11-17 - Kubernetes cost monitoring powered by open allocation models.
+* [karpenter](https://github.com/aws/karpenter) ⭐ 7,736 | 🐛 305 | 🌐 Go | 📅 2026-11-18 - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
+* [cost-model](https://github.com/kubecost/cost-model) ⭐ 6,824 | 🐛 375 | 🌐 Go | 📅 2026-11-18 - Cross-cloud cost allocation models for workloads running on Kubernetes.
+* [opencost](https://github.com/opencost/opencost) ⭐ 6,824 | 🐛 375 | 🌐 Go | 📅 2026-11-18 - Kubernetes cost monitoring powered by open allocation models.
 * [resoto](https://github.com/someengineering/resoto) ⭐ 2,088 | 🐛 27 | 🌐 Python | 📅 2026-03-28 - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure.
 * [lotus](https://github.com/uselotus/lotus) ⭐ 1,844 | 🐛 36 | 🌐 Python | 📅 2026-11-17 - Open Source Pricing & Packaging Infrastructure for SaaS.
 * [escalator](https://github.com/atlassian/escalator) ⭐ 690 | 🐛 19 | 🌐 Go | 📅 2026-09-11 - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes.
 * [kube-downscaler](https://github.com/hjacobs/kube-downscaler) ⚠️ Archived - Scale down Kubernetes deployments after work hours. GoKubeDownscaler is the actively maintained modern successor to this project.
 * [gokubedownscaler](https://github.com/caas-team/gokubedownscaler) ⭐ 137 | 🐛 17 | 🌐 Go | 📅 2026-11-17 - Scale down Kubernetes resources and CRDs after work hours, modern rewrite and successor of kube-downscaler.
-* [burn](https://github.com/tanrikuluozlem/burn) ⭐ 104 | 🐛 3 | 🌐 Go | 📅 2026-11-16 - CLI tool for Kubernetes cost analysis with per-namespace breakdown, real cloud pricing, and AI-powered recommendations.
-* [attune](https://github.com/attune-io/attune) ⭐ 83 | 🐛 2 | 🌐 Go | 📅 2026-11-17 - Kubernetes operator for in-place pod resource right-sizing from Prometheus metrics.
+* [burn](https://github.com/tanrikuluozlem/burn) ⭐ 105 | 🐛 3 | 🌐 Go | 📅 2026-11-16 - CLI tool for Kubernetes cost analysis with per-namespace breakdown, real cloud pricing, and AI-powered recommendations.
+* [attune](https://github.com/attune-io/attune) ⭐ 83 | 🐛 1 | 🌐 Go | 📅 2026-11-18 - Kubernetes operator for in-place pod resource right-sizing from Prometheus metrics.
 * [mnemo-jvm-warden](https://github.com/baokhang83/mnemo-jvm-warden) ⭐ 15 | 🐛 41 | 🌐 Java | 📅 2026-11-15 - Kubernetes controller and sidecar that resize JVM pod memory on a schedule with in-place resize, releasing heap before shrinking the pod.
 
 [↑ Back to top](#table-of-contents)
 
 ## Networking Utilities
 
-* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 11,103 | 🐛 44 | 🌐 Shell | 📅 2026-11-11 - A Docker + Kubernetes network trouble-shooting swiss-army container.
-* [dragonfly2](https://github.com/dragonflyoss/Dragonfly2) ⭐ 3,364 | 🐛 29 | 🌐 Go | 📅 2026-11-17 - Dragonfly is an intelligent P2P based file distribution system.
+* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 11,106 | 🐛 45 | 🌐 Shell | 📅 2026-11-11 - A Docker + Kubernetes network trouble-shooting swiss-army container.
+* [dragonfly2](https://github.com/dragonflyoss/Dragonfly2) ⭐ 3,363 | 🐛 29 | 🌐 Go | 📅 2026-11-18 - Dragonfly is an intelligent P2P based file distribution system.
 * [kt-connect](https://github.com/alibaba/kt-connect) ⭐ 1,678 | 🐛 112 | 🌐 Go | 📅 2024-06-18 - Manage and Integration with your Kubernetes dev environment more efficient.
 * [tor-controller](https://github.com/kragniz/tor-controller) ⭐ 532 | 🐛 10 | 🌐 Go | 📅 2021-09-26 - Run Tor onion services on Kubernetes.
 * [k8s-mirror](https://github.com/darkbitio/k8s-mirror) ⚠️ Archived - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing.
@@ -406,7 +406,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## API Design & Documentation
 
-* [swagger](https://github.com/swagger-api/swagger-ui) ⭐ 29,088 | 🐛 1,169 | 🌐 JavaScript | 📅 2026-11-17 - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+* [swagger](https://github.com/swagger-api/swagger-ui) ⭐ 29,088 | 🐛 1,169 | 🌐 JavaScript | 📅 2026-11-18 - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 * [aglio](https://github.com/danielgtaylor/aglio) ⭐ 4,738 | 🐛 135 | 🌐 CoffeeScript | 📅 2019-05-13 - An API Blueprint renderer with theme support that outputs static HTML.
 * [drakov](https://github.com/Aconex/drakov) ⭐ 476 | 🐛 52 | 🌐 JavaScript | 📅 2023-04-24 - Mock Server that implements the API Blueprint specification.
 
@@ -414,34 +414,34 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Databases
 
-* [redis](https://github.com/redis/redis) ⭐ 77,701 | 🐛 3,121 | 🌐 C | 📅 2026-11-17 - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
-* [nocodb](https://github.com/nocodb/nocodb) ⭐ 65,558 | 🐛 528 | 🌐 TypeScript | 📅 2026-11-17 - The Open Source Airtable alternative.
-* [etcd](https://github.com/etcd-io/etcd) ⭐ 52,617 | 🐛 474 | 🌐 Go | 📅 2026-11-17 - Distributed reliable key-value store for the most critical data of a distributed system.
-* [milvus](https://github.com/milvus-io/milvus) ⭐ 46,679 | 🐛 1,436 | 🌐 Go | 📅 2026-11-17 - Vector database for scalable similarity search and AI applications.
-* [tidb](https://github.com/pingcap/tidb) ⭐ 40,741 | 🐛 7,731 | 🌐 Go | 📅 2026-11-17 - TiDB is a distributed NewSQL database compatible with MySQL protocol.
-* [leveldb](https://github.com/google/leveldb) ⭐ 39,557 | 🐛 438 | 🌐 C++ | 📅 2026-11-12 - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-* [cockroachdb](https://github.com/cockroachdb/cockroach/) ⭐ 32,624 | 🐛 8,042 | 🌐 Go | 📅 2026-11-11 - CockroachDB - the open source, cloud-native SQL database.
-* [influxdb](https://github.com/influxdata/influxdb) ⭐ 31,817 | 🐛 2,176 | 🌐 Rust | 📅 2026-11-17 - Scalable datastore for metrics, events, and real-time analytics.
-* [mongodb](https://github.com/mongodb/mongo) ⭐ 28,684 | 🐛 45 | 🌐 C++ | 📅 2026-11-17 - MongoDB is an open source database that uses a document-oriented data model.
-* [rethinkdb](https://github.com/rethinkdb/rethinkdb) ⭐ 27,013 | 🐛 1,336 | 🌐 C++ | 📅 2026-11-16 - The open-source database for the realtime web.
-* [timescaledb](https://github.com/timescale/timescaledb) ⭐ 23,867 | 🐛 479 | 🌐 C | 📅 2026-11-17 - An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
-* [sharding-sphere](https://github.com/apache/shardingsphere) ⭐ 20,830 | 🐛 267 | 🌐 Java | 📅 2026-11-17 - Distributed database middleware.
-* [tikv](https://github.com/tikv/tikv) ⭐ 16,956 | 🐛 2,002 | 🌐 Rust | 📅 2026-11-17 - Distributed transactional key-value database, originally created to complement TiDB.
-* [arangodb](https://github.com/arangodb/arangodb) ⭐ 14,302 | 🐛 824 | 🌐 C++ | 📅 2026-11-17 - ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
-* [nebula](https://github.com/vesoft-inc/nebula) ⭐ 12,470 | 🐛 694 | 🌐 C++ | 📅 2026-09-08 - A distributed, fast open-source graph database featuring horizontal scalability and high availability.
-* [oceanbase](https://github.com/oceanbase/oceanbase) ⭐ 10,422 | 🐛 610 | 🌐 C++ | 📅 2026-11-17 - A distributed, banking suitable, open-source related database featuring high scalability and high compatibility.
-* [databend](https://github.com/datafuselabs/databend) ⭐ 9,497 | 🐛 477 | 🌐 Rust | 📅 2026-11-17 - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy.
+* [redis](https://github.com/redis/redis) ⭐ 77,519 | 🐛 3,130 | 🌐 C | 📅 2026-11-18 - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+* [nocodb](https://github.com/nocodb/nocodb) ⭐ 65,572 | 🐛 483 | 🌐 TypeScript | 📅 2026-11-18 - The Open Source Airtable alternative.
+* [etcd](https://github.com/etcd-io/etcd) ⭐ 52,626 | 🐛 475 | 🌐 Go | 📅 2026-11-18 - Distributed reliable key-value store for the most critical data of a distributed system.
+* [milvus](https://github.com/milvus-io/milvus) ⭐ 46,687 | 🐛 1,354 | 🌐 Go | 📅 2026-11-18 - Vector database for scalable similarity search and AI applications.
+* [tidb](https://github.com/pingcap/tidb) ⭐ 40,747 | 🐛 7,732 | 🌐 Go | 📅 2026-11-18 - TiDB is a distributed NewSQL database compatible with MySQL protocol.
+* [leveldb](https://github.com/google/leveldb) ⭐ 39,560 | 🐛 439 | 🌐 C++ | 📅 2026-11-12 - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+* [cockroachdb](https://github.com/cockroachdb/cockroach/) ⭐ 32,625 | 🐛 8,036 | 🌐 Go | 📅 2026-11-18 - CockroachDB - the open source, cloud-native SQL database.
+* [influxdb](https://github.com/influxdata/influxdb) ⭐ 31,820 | 🐛 2,178 | 🌐 Rust | 📅 2026-11-18 - Scalable datastore for metrics, events, and real-time analytics.
+* [mongodb](https://github.com/mongodb/mongo) ⭐ 28,709 | 🐛 46 | 🌐 C++ | 📅 2026-11-18 - MongoDB is an open source database that uses a document-oriented data model.
+* [rethinkdb](https://github.com/rethinkdb/rethinkdb) ⭐ 27,014 | 🐛 1,336 | 🌐 C++ | 📅 2026-11-16 - The open-source database for the realtime web.
+* [timescaledb](https://github.com/timescale/timescaledb) ⭐ 23,873 | 🐛 486 | 🌐 C | 📅 2026-11-18 - An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
+* [sharding-sphere](https://github.com/apache/shardingsphere) ⭐ 20,832 | 🐛 270 | 🌐 Java | 📅 2026-11-18 - Distributed database middleware.
+* [tikv](https://github.com/tikv/tikv) ⭐ 16,960 | 🐛 2,009 | 🌐 Rust | 📅 2026-11-18 - Distributed transactional key-value database, originally created to complement TiDB.
+* [arangodb](https://github.com/arangodb/arangodb) ⭐ 14,302 | 🐛 828 | 🌐 C++ | 📅 2026-11-18 - ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+* [nebula](https://github.com/vesoft-inc/nebula) ⭐ 12,471 | 🐛 694 | 🌐 C++ | 📅 2026-09-08 - A distributed, fast open-source graph database featuring horizontal scalability and high availability.
+* [oceanbase](https://github.com/oceanbase/oceanbase) ⭐ 10,424 | 🐛 610 | 🌐 C++ | 📅 2026-11-18 - A distributed, banking suitable, open-source related database featuring high scalability and high compatibility.
+* [databend](https://github.com/datafuselabs/databend) ⭐ 9,500 | 🐛 472 | 🌐 Rust | 📅 2026-11-18 - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy.
 * [tinydb](https://github.com/msiemens/tinydb) ⭐ 7,581 | 🐛 9 | 🌐 Python | 📅 2026-10-26 - TinyDB is a lightweight document oriented database optimized for your happiness.
-* [spicedb](https://github.com/authzed/spicedb) ⭐ 7,224 | 🐛 185 | 🌐 Go | 📅 2026-11-17 - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
-* [couchdb](https://github.com/apache/couchdb) ⭐ 7,014 | 🐛 372 | 🌐 Erlang | 📅 2026-11-16 - Apache CouchDB is one of a new breed of database management systems.
+* [spicedb](https://github.com/authzed/spicedb) ⭐ 7,227 | 🐛 184 | 🌐 Go | 📅 2026-11-18 - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
+* [couchdb](https://github.com/apache/couchdb) ⭐ 7,015 | 🐛 373 | 🌐 Erlang | 📅 2026-11-18 - Apache CouchDB is one of a new breed of database management systems.
 * [opentsdb](https://github.com/OpenTSDB/opentsdb) ⭐ 5,067 | 🐛 541 | 🌐 Java | 📅 2024-12-12 - A scalable, distributed Time Series Database.
-* [m3](https://github.com/m3db/m3) ⭐ 4,909 | 🐛 175 | 🌐 Go | 📅 2026-11-14 - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform.
+* [m3](https://github.com/m3db/m3) ⭐ 4,908 | 🐛 175 | 🌐 Go | 📅 2026-11-14 - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform.
 * [stolon](https://github.com/sorintlab/stolon) ⭐ 4,830 | 🐛 154 | 🌐 Go | 📅 2024-07-08 - PostgreSQL cloud native High Availability and more.
-* [kvrocks](https://github.com/KvrocksLabs/kvrocks) ⭐ 4,507 | 🐛 296 | 🌐 C++ | 📅 2026-11-16 - Kvrocks is a distributed key value NoSQL database based on RocksDB and compatible with Redis protocol.
-* [polardb-for-postgresql](https://github.com/alibaba/PolarDB-for-PostgreSQL) ⭐ 3,210 | 🐛 2 | 🌐 C | 📅 2026-11-16 - PolarDB for PostgreSQL (PolarDB for short) is an open source database system based on PostgreSQL.
-* [kubeblocks](https://github.com/apecloud/kubeblocks) ⭐ 3,173 | 🐛 262 | 🌐 Go | 📅 2026-11-17 - KubeBlocks is an open source system software that runs and manages data infrastructure on K8s. It helps developers, SREs, and platform engineers deploy and maintain dedicated DBPaaS, and supports a variety of public clouds and on-premise environments.
+* [kvrocks](https://github.com/KvrocksLabs/kvrocks) ⭐ 4,507 | 🐛 301 | 🌐 C++ | 📅 2026-11-18 - Kvrocks is a distributed key value NoSQL database based on RocksDB and compatible with Redis protocol.
+* [polardb-for-postgresql](https://github.com/alibaba/PolarDB-for-PostgreSQL) ⭐ 3,210 | 🐛 2 | 🌐 C | 📅 2026-11-18 - PolarDB for PostgreSQL (PolarDB for short) is an open source database system based on PostgreSQL.
+* [kubeblocks](https://github.com/apecloud/kubeblocks) ⭐ 3,174 | 🐛 267 | 🌐 Go | 📅 2026-11-18 - KubeBlocks is an open source system software that runs and manages data infrastructure on K8s. It helps developers, SREs, and platform engineers deploy and maintain dedicated DBPaaS, and supports a variety of public clouds and on-premise environments.
 * [beringei](https://github.com/facebookarchive/beringei) ⚠️ Archived - Beringei is a high performance, in-memory storage engine for time series data.
-* [libredb-studio](https://github.com/libredb/libredb-studio) ⭐ 1,341 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-16 - A web-based SQL IDE that runs next to your data in Kubernetes, with an official Helm chart and an OLM operator, covering PostgreSQL, MySQL, MongoDB, Redis, ClickHouse and other engines.
+* [libredb-studio](https://github.com/libredb/libredb-studio) ⭐ 1,347 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-16 - A web-based SQL IDE that runs next to your data in Kubernetes, with an official Helm chart and an OLM operator, covering PostgreSQL, MySQL, MongoDB, Redis, ClickHouse and other engines.
 * [promscale](https://github.com/timescale/promscale) ⚠️ Archived - Unified observability backend for metrics and traces powered by SQL and built on PostgreSQL and TimescaleDB.
 * [xline](https://github.com/xline-kv/Xline) ⭐ 717 | 🐛 37 | 🌐 Rust | 📅 2026-11-13 - A geo-distributed KV store for metadata management.
 * [montydb](https://github.com/davidlatwe/montydb) ⭐ 619 | 🐛 27 | 🌐 Python | 📅 2026-11-15 - Monty, Mongo tinified. MongoDB implemented in Python.
@@ -454,44 +454,44 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## Storage & Data Management
 
 * [minio](https://github.com/minio/minio) ⚠️ Archived - Minio is an open source object storage server compatible with Amazon S3 APIs.
-* [harbor](https://github.com/goharbor/harbor) ⭐ 29,750 | 🐛 1,067 | 🌐 Go | 📅 2026-11-13 - An open source trusted cloud native registry project that stores, signs, and scans content.
-* [vitess](https://github.com/vitessio/vitess) ⭐ 21,426 | 🐛 1,133 | 🌐 Go | 📅 2026-11-17 - Vitess is a database clustering system for horizontal scaling of MySQL.
-* [ceph](https://github.com/ceph/ceph) ⭐ 17,238 | 🐛 2,042 | 🌐 C++ | 📅 2026-11-17 - Ceph is a distributed object, block, and file storage platform.
-* [juicefs](https://github.com/juicedata/juicefs) ⭐ 14,746 | 🐛 261 | 🌐 Go | 📅 2026-11-17 - A distributed POSIX file system built on top of Redis and S3.
-* [rook](https://github.com/rook/rook) ⭐ 13,709 | 🐛 129 | 🌐 Go | 📅 2026-11-17 - File, Block, and Object Storage Services for your Cloud-Native Environment.
-* [openebs](https://github.com/openebs/openebs) ⭐ 9,847 | 🐛 44 | 📅 2026-11-17 - OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
+* [harbor](https://github.com/goharbor/harbor) ⭐ 29,756 | 🐛 1,063 | 🌐 Go | 📅 2026-11-18 - An open source trusted cloud native registry project that stores, signs, and scans content.
+* [vitess](https://github.com/vitessio/vitess) ⭐ 21,427 | 🐛 1,139 | 🌐 Go | 📅 2026-11-18 - Vitess is a database clustering system for horizontal scaling of MySQL.
+* [ceph](https://github.com/ceph/ceph) ⭐ 17,245 | 🐛 2,065 | 🌐 C++ | 📅 2026-11-18 - Ceph is a distributed object, block, and file storage platform.
+* [juicefs](https://github.com/juicedata/juicefs) ⭐ 14,752 | 🐛 262 | 🌐 Go | 📅 2026-11-18 - A distributed POSIX file system built on top of Redis and S3.
+* [rook](https://github.com/rook/rook) ⭐ 13,713 | 🐛 129 | 🌐 Go | 📅 2026-11-18 - File, Block, and Object Storage Services for your Cloud-Native Environment.
+* [openebs](https://github.com/openebs/openebs) ⭐ 9,848 | 🐛 44 | 📅 2026-11-18 - OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
 * [fastdfs](https://github.com/happyfish100/fastdfs) ⭐ 9,263 | 🐛 469 | 🌐 C | 📅 2026-11-17 - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.
-* [longhorn](https://github.com/longhorn/longhorn) ⭐ 8,071 | 🐛 1,928 | 🌐 Shell | 📅 2026-11-16 - We put storage on cows and move them around from rancher.
-* [chubaofs](https://github.com/chubaofs/chubaofs) ⭐ 5,698 | 🐛 273 | 🌐 Go | 📅 2026-11-13 - A distributed storage system for cloud native applications.
+* [longhorn](https://github.com/longhorn/longhorn) ⭐ 8,072 | 🐛 1,922 | 🌐 Shell | 📅 2026-11-18 - We put storage on cows and move them around from rancher.
+* [chubaofs](https://github.com/chubaofs/chubaofs) ⭐ 5,698 | 🐛 275 | 🌐 Go | 📅 2026-11-13 - A distributed storage system for cloud native applications.
 * [glusterfs](https://github.com/gluster/glusterfs) ⭐ 5,272 | 🐛 337 | 🌐 C | 📅 2026-11-13 - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
 * [flocker](https://github.com/ClusterHQ/flocker) ⭐ 3,382 | 🐛 80 | 🌐 Python | 📅 2017-05-18 - Container data volume manager for your Dockerized application.
-* [zot](https://github.com/project-zot/zot) ⭐ 3,032 | 🐛 75 | 🌐 Go | 📅 2026-11-17 - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification).
-* [oras](https://github.com/oras-project/oras) ⭐ 2,511 | 🐛 58 | 🌐 Go | 📅 2026-11-17 - OCI registry client, managing content like artifacts, images, packages.
+* [zot](https://github.com/project-zot/zot) ⭐ 3,043 | 🐛 73 | 🌐 Go | 📅 2026-11-18 - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification).
+* [oras](https://github.com/oras-project/oras) ⭐ 2,511 | 🐛 56 | 🌐 Go | 📅 2026-11-18 - OCI registry client, managing content like artifacts, images, packages.
 * [curve](https://github.com/opencurve/curve) ⭐ 2,389 | 🐛 134 | 🌐 C++ | 📅 2024-08-13 - Curve is a better-used cloud-native SDS storage system, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS and CurveFS based on Raft.
 * [torus](https://github.com/coreos/torus) ⚠️ Archived - Torus Distributed Storage.
 * [convoy](https://github.com/rancher/convoy) ⚠️ Archived - A Docker volume plugin, managing persistent container volumes.
 * [heketi](https://github.com/heketi/heketi) ⚠️ Archived - RESTful based volume management framework for GlusterFS.
-* [zenko](https://github.com/scality/Zenko) ⭐ 675 | 🐛 15 | 🌐 Gherkin | 📅 2026-11-17 - Because everyone should be in control of their data.
-* [hwameistor](https://github.com/hwameistor/hwameistor) ⭐ 661 | 🐛 4 | 🌐 Go | 📅 2026-11-03 - Hwameistor is an HA local storage system for cloud-native stateful workloads.
-* [k8ssandra](https://github.com/k8ssandra/k8ssandra) ⭐ 462 | 🐛 247 | 🌐 YAML | 📅 2026-10-27 - K8ssandra is a collection of Helm charts for running Apache Cassandra on Kubernetes in production.
+* [zenko](https://github.com/scality/Zenko) ⭐ 674 | 🐛 15 | 🌐 Gherkin | 📅 2026-11-18 - Because everyone should be in control of their data.
+* [hwameistor](https://github.com/hwameistor/hwameistor) ⭐ 660 | 🐛 4 | 🌐 Go | 📅 2026-11-03 - Hwameistor is an HA local storage system for cloud-native stateful workloads.
+* [k8ssandra](https://github.com/k8ssandra/k8ssandra) ⭐ 461 | 🐛 247 | 🌐 YAML | 📅 2026-10-27 - K8ssandra is a collection of Helm charts for running Apache Cassandra on Kubernetes in production.
 * [infinit](https://github.com/infinit/infinit) ⭐ 369 | 🐛 29 | 📅 2016-10-30 - The Infinit policy-based software-defined storage platform.
 * [glusterd2](https://github.com/gluster/glusterd2) ⚠️ Archived - GlusterD-2.0 is the distributed management framework to be used for GlusterFS-4.0.
 * [kubefs](https://github.com/configurator/kubefs) ⭐ 94 | 🐛 0 | 🌐 Go | 📅 2020-06-23 - Mount kubernetes metadata storage as a filesystem.
 * [cagnard](https://github.com/k3rnL/cagnard) ⭐ 63 | 🐛 1 | 🌐 Go | 📅 2026-10-22 - Self-hosted storage browser for Unix filesystems and S3-compatible object storage with Docker and Kubernetes deployment support.
-* [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) ⭐ 38 | 🐛 11 | 📅 2026-05-21 - Curated comparison of 21 S3-compatible object storage providers with pricing, gotchas, and tools.
+* [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) ⭐ 38 | 🐛 12 | 📅 2026-11-18 - Curated comparison of 21 S3-compatible object storage providers with pricing, gotchas, and tools.
 * [leofs](https://leo-project.net/leofs/) - The LeoFS Storage System.
 
 [↑ Back to top](#table-of-contents)
 
 ## Streaming & Messaging
 
-* [kafka](https://github.com/apache/kafka) ⭐ 34,227 | 🐛 734 | 🌐 Java | 📅 2026-11-17 - A distributed streaming platform.
-* [nsq](https://github.com/nsqio/nsq) ⭐ 25,778 | 🐛 82 | 🌐 Go | 📅 2026-08-11 - A realtime distributed messaging platform.
-* [rocketmq](https://github.com/apache/rocketmq) ⭐ 22,654 | 🐛 811 | 🌐 Java | 📅 2026-11-17 - Apache RocketMQ is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
-* [gnatsd](https://github.com/nats-io/nats-server) ⭐ 21,053 | 🐛 475 | 🌐 Go | 📅 2026-11-17 - High-Performance server for NATS, the cloud native messaging system.
-* [emqx](https://github.com/emqx/emqx) ⭐ 16,918 | 🐛 276 | 🌐 Erlang | 📅 2026-11-17 - EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era.
-* [pulsar](https://github.com/apache/pulsar) ⭐ 15,362 | 🐛 511 | 🌐 Java | 📅 2026-11-17 - A distributed messaging and streaming platform.
-* [automq](https://github.com/AutoMQ/automq) ⭐ 10,929 | 🐛 70 | 🌐 Java | 📅 2026-11-17 - A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.
+* [kafka](https://github.com/apache/kafka) ⭐ 34,231 | 🐛 730 | 🌐 Java | 📅 2026-11-18 - A distributed streaming platform.
+* [nsq](https://github.com/nsqio/nsq) ⭐ 25,778 | 🐛 81 | 🌐 Go | 📅 2026-08-11 - A realtime distributed messaging platform.
+* [rocketmq](https://github.com/apache/rocketmq) ⭐ 22,656 | 🐛 726 | 🌐 Java | 📅 2026-11-18 - Apache RocketMQ is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
+* [gnatsd](https://github.com/nats-io/nats-server) ⭐ 21,059 | 🐛 471 | 🌐 Go | 📅 2026-11-18 - High-Performance server for NATS, the cloud native messaging system.
+* [emqx](https://github.com/emqx/emqx) ⭐ 16,923 | 🐛 277 | 🌐 Erlang | 📅 2026-11-18 - EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era.
+* [pulsar](https://github.com/apache/pulsar) ⭐ 15,365 | 🐛 507 | 🌐 Java | 📅 2026-11-18 - A distributed messaging and streaming platform.
+* [automq](https://github.com/AutoMQ/automq) ⭐ 10,932 | 🐛 70 | 🌐 Java | 📅 2026-11-18 - A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.
 * [jocko](https://github.com/travisjeffery/jocko) ⭐ 5,006 | 🐛 64 | 🌐 Go | 📅 2026-05-20 - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native).
 * [flume](https://github.com/apache/flume) ⭐ 2,571 | 🐛 79 | 🌐 Java | 📅 2026-11-10 - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 * [eventmesh](https://github.com/WeBankFinTech/EventMesh) ⭐ 1,760 | 🐛 252 | 🌐 Java | 📅 2026-11-16 - EventMesh is a dynamic cloud-native eventing infrastructure used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.
@@ -502,9 +502,9 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Service Mesh
 
-* [istio](https://github.com/istio/istio) ⭐ 38,519 | 🐛 526 | 🌐 Go | 📅 2026-11-17 - Connect, secure, control, and observe services.
-* [consul](https://github.com/hashicorp/consul) ⭐ 30,115 | 🐛 1,459 | 🌐 Go | 📅 2026-11-17 - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-* [linkerd2](https://github.com/linkerd/linkerd2) ⭐ 11,537 | 🐛 257 | 🌐 Go | 📅 2026-11-16 - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+* [istio](https://github.com/istio/istio) ⭐ 38,518 | 🐛 526 | 🌐 Go | 📅 2026-11-18 - Connect, secure, control, and observe services.
+* [consul](https://github.com/hashicorp/consul) ⭐ 30,115 | 🐛 1,461 | 🌐 Go | 📅 2026-11-18 - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+* [linkerd2](https://github.com/linkerd/linkerd2) ⭐ 11,539 | 🐛 258 | 🌐 Go | 📅 2026-11-16 - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 * [nginx-unit](https://github.com/nginx/unit) ⚠️ Archived - NGINX Unit is a new, lightweight, open source application server built to meet the demands of dynamic and distributed applications.
 * [linkerd](https://github.com/linkerd/linkerd) ⭐ 5,305 | 🐛 147 | 🌐 Scala | 📅 2023-03-04 - Resilient service mesh for cloud native apps.
 * [kuma](https://github.com/kumahq/kuma) ⭐ 4,021 | 🐛 101 | 🌐 Go | 📅 2026-11-17 - Universal Control Plane for your Service Mesh.
@@ -514,7 +514,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 * [sermant](https://github.com/sermant-io/Sermant) ⭐ 1,342 | 🐛 31 | 🌐 Java | 📅 2026-02-06 - A Cloud-Native Proxyless Service Mesh based on Java Bytecode Enhancement Technology.
 * [merbridge](https://github.com/merbridge/merbridge) ⭐ 806 | 🐛 37 | 🌐 Go | 📅 2025-05-19 - Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
 * [opensergo-specification](https://github.com/opensergo/opensergo-specification) ⭐ 790 | 🐛 28 | 🌐 Makefile | 📅 2024-05-22 - OpenSergo is an open, language-agnostic cloud-native service governance specification.
-* [kmesh](https://github.com/kmesh-net/kmesh) ⭐ 769 | 🐛 518 | 🌐 Go | 📅 2026-11-12 - High Performance Service Mesh Data Plane Based on Programmable Kernel.
+* [kmesh](https://github.com/kmesh-net/kmesh) ⭐ 769 | 🐛 520 | 🌐 Go | 📅 2026-11-12 - High Performance Service Mesh Data Plane Based on Programmable Kernel.
 * [aeraki](https://github.com/aeraki-framework/aeraki) ⭐ 758 | 🐛 20 | 🌐 Go | 📅 2025-12-05 - Manage any layer 7 traffic in an Istio service mesh.
 * [nginmesh](https://github.com/nginxinc/nginmesh) ⚠️ Archived - Service Mesh using Nginx.
 * [easemesh](https://github.com/megaease/easemesh) ⭐ 519 | 🐛 14 | 🌐 Go | 📅 2024-04-01 - A service mesh implementation for connecting, control, and observe services in spring-cloud.
@@ -527,18 +527,18 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Service Discovery & Registry
 
-* [apollo](https://github.com/ctripcorp/apollo) ⭐ 29,813 | 🐛 155 | 🌐 Java | 📅 2026-11-15 - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,437 | 🐛 279 | 🌐 Go | 📅 2026-11-15 - CoreDNS is a DNS server that chains middleware.
-* [zookeeper](https://github.com/apache/zookeeper) ⭐ 12,828 | 🐛 258 | 🌐 Java | 📅 2026-11-17 - Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+* [apollo](https://github.com/ctripcorp/apollo) ⭐ 29,813 | 🐛 156 | 🌐 Java | 📅 2026-11-15 - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,439 | 🐛 279 | 🌐 Go | 📅 2026-11-18 - CoreDNS is a DNS server that chains middleware.
+* [zookeeper](https://github.com/apache/zookeeper) ⭐ 12,832 | 🐛 257 | 🌐 Java | 📅 2026-11-18 - Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
 * [eureka](https://github.com/Netflix/eureka) ⭐ 12,752 | 🐛 140 | 🌐 Java | 📅 2026-08-24 - AWS Service registry for resilient mid-tier load balancing and failover.
 * [confd](https://github.com/kelseyhightower/confd) ⭐ 8,414 | 🐛 178 | 🌐 Go | 📅 2024-07-16 - Manage local application configuration files using templates and data from etcd or consul.
-* [registrator](https://github.com/gliderlabs/registrator) ⭐ 4,675 | 🐛 257 | 🌐 Go | 📅 2025-05-22 - Service registry bridge for Docker with pluggable adapters.
+* [registrator](https://github.com/gliderlabs/registrator) ⭐ 4,676 | 🐛 257 | 🌐 Go | 📅 2025-05-22 - Service registry bridge for Docker with pluggable adapters.
 * [vulcand](https://github.com/vulcand/vulcand) ⭐ 3,088 | 🐛 71 | 🌐 Go | 📅 2024-07-27 - Programmatic load balancer backed by Etcd.
 * [polaris](https://github.com/polarismesh/polaris) ⭐ 2,569 | 🐛 110 | 🌐 Go | 📅 2025-10-14 - Service discovery and governance center for distributed and microservice architecture.
 * [synapse](https://github.com/airbnb/synapse) ⭐ 2,057 | 🐛 46 | 🌐 Ruby | 📅 2023-10-21 - A transparent service discovery framework for connecting an SOA.
-* [service-broker](https://github.com/openservicebrokerapi/servicebroker) ⭐ 1,486 | 🐛 28 | 🌐 Shell | 📅 2026-04-15 - Open Service Broker API Specification.
+* [service-broker](https://github.com/openservicebrokerapi/servicebroker) ⭐ 1,487 | 🐛 28 | 🌐 Shell | 📅 2026-04-15 - Open Service Broker API Specification.
 * [service-catalog](https://github.com/kubernetes-sigs/service-catalog) ⚠️ Archived - Consume services in Kubernetes using the Open Service Broker API.
-* [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) ⭐ 885 | 🐛 60 | 🌐 Go | 📅 2026-11-12 - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
+* [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) ⭐ 885 | 🐛 59 | 🌐 Go | 📅 2026-11-18 - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
 * [admiral](https://github.com/istio-ecosystem/admiral) ⭐ 637 | 🐛 21 | 🌐 Go | 📅 2025-10-15 - Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh.
 * [skydns](https://github.com/skynetservices/skydns1) ⭐ 522 | 🐛 5 | 🌐 Go | 📅 2017-07-08 - DNS for skynet or any other service discovery.
 * [rotor](https://github.com/turbinelabs/rotor) ⭐ 306 | 🐛 3 | 🌐 Go | 📅 2019-08-08 - Rotor is a fast, lightweight bridge between your service discovery and the configuration APIs of Envoy. Rotor supports Kubernetes, Consul, AWS (EC2 and ECS), DC/OS, flat files, and even other EDS/CDS implementations.
@@ -550,19 +550,19 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Networking & Connectivity
 
-* [pingora](https://github.com/cloudflare/pingora) ⭐ 27,932 | 🐛 332 | 🌐 Rust | 📅 2026-11-09 - A library for building fast, reliable and evolvable network services.
-* [cilium](https://github.com/cilium/cilium) ⭐ 25,860 | 🐛 1,050 | 🌐 Go | 📅 2026-11-17 - API-aware Networking and Security using eBPF and XDP.
-* [flannel](https://github.com/coreos/flannel) ⭐ 9,569 | 🐛 30 | 🌐 Go | 📅 2026-11-17 - Flannel is a network fabric for containers, designed for Kubernetes.
+* [pingora](https://github.com/cloudflare/pingora) ⭐ 27,939 | 🐛 333 | 🌐 Rust | 📅 2026-11-09 - A library for building fast, reliable and evolvable network services.
+* [cilium](https://github.com/cilium/cilium) ⭐ 25,867 | 🐛 1,057 | 🌐 Go | 📅 2026-11-18 - API-aware Networking and Security using eBPF and XDP.
+* [flannel](https://github.com/coreos/flannel) ⭐ 9,569 | 🐛 26 | 🌐 Go | 📅 2026-11-18 - Flannel is a network fabric for containers, designed for Kubernetes.
 * [weave](https://github.com/weaveworks/weave) ⚠️ Archived - Simple, resilient multi-host Docker networking and more.
 * [cni](https://github.com/containernetworking/cni) ⭐ 6,161 | 🐛 157 | 🌐 Go | 📅 2026-10-26 - Container Network Interface - networking for Linux containers.
-* [ziti](https://github.com/openziti/ziti) ⭐ 4,492 | 🐛 402 | 🌐 Go | 📅 2026-11-17 - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network.
-* [hubble](https://github.com/cilium/hubble) ⭐ 4,390 | 🐛 43 | 🌐 Makefile | 📅 2026-11-16 - Hubble - Network, Service & Security Observability for Kubernetes.
-* [multus](https://github.com/k8snetworkplumbingwg/multus-cni) ⭐ 2,973 | 🐛 30 | 🌐 Go | 📅 2026-11-05 - A CNI meta-plugin for multi-homed pods in Kubernetes.
-* [submariner](https://github.com/submariner-io/submariner) ⭐ 2,711 | 🐛 18 | 🌐 Go | 📅 2026-11-17 - Connect all your Kubernetes clusters, no matter where they are in the world.
-* [kube-router](https://github.com/cloudnativelabs/kube-router) ⭐ 2,514 | 🐛 21 | 🌐 Go | 📅 2026-11-16 - Kube-router, a turnkey solution for Kubernetes networking.
-* [kube-ovn](https://github.com/alauda/kube-ovn) ⭐ 2,423 | 🐛 49 | 🌐 Go | 📅 2026-11-17 - Kube-OVN, a Kubernetes network fabric for enterprises that is rich in functions and easy in operations.
-* [antrea](https://github.com/antrea-io/antrea) ⭐ 1,815 | 🐛 250 | 🌐 Go | 📅 2026-11-17 - Antrea is a Kubernetes networking based on Open vSwitch.
-* [matchbox](https://github.com/poseidon/matchbox) ⭐ 1,430 | 🐛 7 | 🌐 Go | 📅 2026-11-12 - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
+* [ziti](https://github.com/openziti/ziti) ⭐ 4,493 | 🐛 402 | 🌐 Go | 📅 2026-11-18 - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network.
+* [hubble](https://github.com/cilium/hubble) ⭐ 4,393 | 🐛 43 | 🌐 Makefile | 📅 2026-11-16 - Hubble - Network, Service & Security Observability for Kubernetes.
+* [multus](https://github.com/k8snetworkplumbingwg/multus-cni) ⭐ 2,973 | 🐛 31 | 🌐 Go | 📅 2026-11-05 - A CNI meta-plugin for multi-homed pods in Kubernetes.
+* [submariner](https://github.com/submariner-io/submariner) ⭐ 2,711 | 🐛 18 | 🌐 Go | 📅 2026-11-18 - Connect all your Kubernetes clusters, no matter where they are in the world.
+* [kube-router](https://github.com/cloudnativelabs/kube-router) ⭐ 2,515 | 🐛 23 | 🌐 Go | 📅 2026-11-16 - Kube-router, a turnkey solution for Kubernetes networking.
+* [kube-ovn](https://github.com/alauda/kube-ovn) ⭐ 2,423 | 🐛 50 | 🌐 Go | 📅 2026-11-18 - Kube-OVN, a Kubernetes network fabric for enterprises that is rich in functions and easy in operations.
+* [antrea](https://github.com/antrea-io/antrea) ⭐ 1,815 | 🐛 247 | 🌐 Go | 📅 2026-11-18 - Antrea is a Kubernetes networking based on Open vSwitch.
+* [matchbox](https://github.com/poseidon/matchbox) ⭐ 1,430 | 🐛 7 | 🌐 Go | 📅 2026-11-18 - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 * [bumblebee](https://github.com/solo-io/bumblebee) ⭐ 1,304 | 🐛 31 | 🌐 C | 📅 2026-10-30 - Get eBPF programs running from the cloud to the kernel in 1 line of bash.
 * [spiderpool](https://github.com/spidernet-io/spiderpool) ⭐ 684 | 🐛 108 | 🌐 Go | 📅 2026-11-13 - Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud.
 * [cni-genie](https://github.com/cni-genie/CNI-Genie) ⚠️ Archived - CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave.
@@ -577,28 +577,28 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Load Balancing & Ingress
 
-* [caddy](https://github.com/caddyserver/caddy) ⭐ 79,137 | 🐛 285 | 🌐 Go | 📅 2026-11-14 - Fast, cross-platform HTTP/2 web server with automatic HTTPS.
-* [traefik](https://github.com/containous/traefik) ⭐ 65,584 | 🐛 993 | 🌐 Go | 📅 2026-11-17 - Træfik, a modern reverse proxy.
-* [nginx](https://github.com/nginx/nginx) ⭐ 32,146 | 🐛 483 | 🌐 C | 📅 2026-11-09 - Nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
-* [envoy](https://github.com/envoyproxy/envoy) ⭐ 29,253 | 🐛 1,932 | 🌐 C++ | 📅 2026-11-17 - C++ front/service proxy.
-* [cloudflared](https://github.com/cloudflare/cloudflared) ⭐ 16,630 | 🐛 592 | 🌐 Go | 📅 2026-11-17 - Cloudflare Tunnel client (formerly Argo Tunnel).
-* [bunkerweb](https://github.com/bunkerity/bunkerweb) ⭐ 11,278 | 🐛 183 | 🌐 Python | 📅 2026-11-17 - Open-source Web Application Firewall and reverse proxy with Kubernetes integration.
-* [reverse-proxy](https://github.com/microsoft/reverse-proxy) ⭐ 9,659 | 🐛 196 | 🌐 C# | 📅 2026-11-16 - A toolkit for developing high-performance HTTP reverse proxy applications.
-* [metallb](https://github.com/metallb/metallb) ⭐ 8,411 | 🐛 101 | 📅 2026-11-14 - A network load-balancer implementation for Kubernetes using standard routing protocols.
-* [haproxy](https://github.com/haproxy/haproxy) ⭐ 7,006 | 🐛 414 | 🌐 C | 📅 2026-11-17 - HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
-* [katran](https://github.com/facebookincubator/katran) ⭐ 5,388 | 🐛 0 | 🌐 C | 📅 2026-11-17 - A high performance layer 4 load balancer.
-* [nginx-kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) ⭐ 5,097 | 🐛 181 | 🌐 Go | 📅 2026-11-17 - NGINX and NGINX Plus Ingress Controllers for Kubernetes.
+* [caddy](https://github.com/caddyserver/caddy) ⭐ 79,222 | 🐛 288 | 🌐 Go | 📅 2026-11-18 - Fast, cross-platform HTTP/2 web server with automatic HTTPS.
+* [traefik](https://github.com/containous/traefik) ⭐ 65,592 | 🐛 995 | 🌐 Go | 📅 2026-11-18 - Træfik, a modern reverse proxy.
+* [nginx](https://github.com/nginx/nginx) ⭐ 32,159 | 🐛 484 | 🌐 C | 📅 2026-11-18 - Nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
+* [envoy](https://github.com/envoyproxy/envoy) ⭐ 29,259 | 🐛 1,938 | 🌐 C++ | 📅 2026-11-18 - C++ front/service proxy.
+* [cloudflared](https://github.com/cloudflare/cloudflared) ⭐ 16,639 | 🐛 592 | 🌐 Go | 📅 2026-11-17 - Cloudflare Tunnel client (formerly Argo Tunnel).
+* [bunkerweb](https://github.com/bunkerity/bunkerweb) ⭐ 11,282 | 🐛 180 | 🌐 Python | 📅 2026-11-18 - Open-source Web Application Firewall and reverse proxy with Kubernetes integration.
+* [reverse-proxy](https://github.com/microsoft/reverse-proxy) ⭐ 9,659 | 🐛 195 | 🌐 C# | 📅 2026-11-18 - A toolkit for developing high-performance HTTP reverse proxy applications.
+* [metallb](https://github.com/metallb/metallb) ⭐ 8,413 | 🐛 101 | 📅 2026-11-14 - A network load-balancer implementation for Kubernetes using standard routing protocols.
+* [haproxy](https://github.com/haproxy/haproxy) ⭐ 7,009 | 🐛 416 | 🌐 C | 📅 2026-11-18 - HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
+* [katran](https://github.com/facebookincubator/katran) ⭐ 5,388 | 🐛 0 | 🌐 C | 📅 2026-11-18 - A high performance layer 4 load balancer.
+* [nginx-kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) ⭐ 5,099 | 🐛 194 | 🌐 Go | 📅 2026-11-18 - NGINX and NGINX Plus Ingress Controllers for Kubernetes.
 * [ribbon](https://github.com/Netflix/ribbon) ⭐ 4,612 | 🐛 216 | 🌐 Java | 📅 2025-12-17 - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
 * [mosn](https://github.com/mosn/mosn) ⭐ 4,509 | 🐛 298 | 🌐 Go | 📅 2026-07-14 - MOSN is a cloud native proxy for edge or service mesh.
-* [contour](https://github.com/projectcontour/contour) ⭐ 3,954 | 🐛 125 | 🌐 HTML | 📅 2026-11-17 - Contour is a Kubernetes ingress controller for Lyft's Envoy proxy.
-* [skipper](https://github.com/zalando/skipper) ⭐ 3,335 | 🐛 319 | 🌐 Go | 📅 2026-11-17 - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress.
-* [kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) ⭐ 2,415 | 🐛 292 | 🌐 Go | 📅 2026-11-16 - Deploy Kong in a native Kubernetes Ingress Controller.
+* [contour](https://github.com/projectcontour/contour) ⭐ 3,971 | 🐛 124 | 🌐 HTML | 📅 2026-11-17 - Contour is a Kubernetes ingress controller for Lyft's Envoy proxy.
+* [skipper](https://github.com/zalando/skipper) ⭐ 3,335 | 🐛 320 | 🌐 Go | 📅 2026-11-18 - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress.
+* [kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) ⭐ 2,415 | 🐛 292 | 🌐 Go | 📅 2026-11-18 - Deploy Kong in a native Kubernetes Ingress Controller.
 * [gobetween](https://github.com/yyyar/gobetween) ⭐ 1,987 | 🐛 101 | 🌐 Go | 📅 2025-08-16 - Modern & minimalistic load balancer for the Cloud era.
-* [loxilb](https://github.com/loxilb-io/loxilb) ⭐ 1,886 | 🐛 49 | 🌐 Go | 📅 2026-11-17 - eBPF powered cloud-native load-balancer providing efficient externalLB, clusterIP and nodePort services for Kubernetes.
+* [loxilb](https://github.com/loxilb-io/loxilb) ⭐ 1,887 | 🐛 51 | 🌐 Go | 📅 2026-11-17 - eBPF powered cloud-native load-balancer providing efficient externalLB, clusterIP and nodePort services for Kubernetes.
 * [inlets-operator](https://github.com/inlets/inlets-operator) ⭐ 1,439 | 🐛 8 | 🌐 Go | 📅 2026-10-23 - Add public LoadBalancers to your local Kubernetes clusters.
 * [voyager](https://github.com/voyagermesh/voyager) ⭐ 1,351 | 🐛 118 | 🌐 Shell | 📅 2026-10-10 - Secure Ingress Controller for Kubernetes.
-* [apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller) ⭐ 1,152 | 🐛 29 | 🌐 Go | 📅 2026-11-14 - Ingress controller for K8s.
-* [dev-proxy](https://github.com/microsoft/dev-proxy) ⭐ 848 | 🐛 60 | 🌐 C# | 📅 2026-11-16 - Dev Proxy is a command line tool that simulates real world behaviors of HTTP APIs, including Microsoft Graph, locally.
+* [apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller) ⭐ 1,153 | 🐛 30 | 🌐 Go | 📅 2026-11-14 - Ingress controller for K8s.
+* [dev-proxy](https://github.com/microsoft/dev-proxy) ⭐ 848 | 🐛 61 | 🌐 C# | 📅 2026-11-18 - Dev Proxy is a command line tool that simulates real world behaviors of HTTP APIs, including Microsoft Graph, locally.
 * [gimbal](https://github.com/projectcontour/gimbal) ⚠️ Archived - Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio.
 * [func-e](https://github.com/tetratelabs/func-e) ⭐ 383 | 🐛 1 | 🌐 Go | 📅 2026-11-04 - func-e (pronounced funky) makes running Envoy easy.
 * [kedge](https://github.com/improbable-eng/kedge) ⚠️ Archived - kEdge - Kubernetes Edge Proxy for gRPC and HTTP Microservices.
@@ -608,15 +608,15 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## RPC Frameworks
 
-* [brpc](https://github.com/apache/incubator-brpc) ⭐ 17,644 | 🐛 480 | 🌐 C++ | 📅 2026-11-17 - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
-* [thrift](https://github.com/apache/thrift) ⭐ 10,968 | 🐛 56 | 🌐 C++ | 📅 2026-11-17 - Apache thrift.
-* [tars](https://github.com/TarsCloud/Tars) ⭐ 10,080 | 🐛 48 | 🌐 C++ | 📅 2026-07-18 - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
-* [finagle](https://github.com/twitter/finagle) ⭐ 8,870 | 🐛 65 | 🌐 Scala | 📅 2026-08-13 - A fault tolerant, protocol-agnostic RPC system.
-* [proxygen](https://github.com/facebook/proxygen) ⭐ 8,386 | 🐛 54 | 🌐 C++ | 📅 2026-11-17 - A collection of C++ HTTP libraries including an easy to use HTTP server.
-* [kitex](https://github.com/cloudwego/kitex) ⭐ 8,075 | 🐛 87 | 🌐 Go | 📅 2026-11-17 - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
+* [brpc](https://github.com/apache/incubator-brpc) ⭐ 17,644 | 🐛 484 | 🌐 C++ | 📅 2026-11-18 - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
+* [thrift](https://github.com/apache/thrift) ⭐ 10,969 | 🐛 48 | 🌐 C++ | 📅 2026-11-18 - Apache thrift.
+* [tars](https://github.com/TarsCloud/Tars) ⭐ 10,081 | 🐛 48 | 🌐 C++ | 📅 2026-07-18 - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
+* [finagle](https://github.com/twitter/finagle) ⭐ 8,871 | 🐛 65 | 🌐 Scala | 📅 2026-08-13 - A fault tolerant, protocol-agnostic RPC system.
+* [proxygen](https://github.com/facebook/proxygen) ⭐ 8,386 | 🐛 52 | 🌐 C++ | 📅 2026-11-18 - A collection of C++ HTTP libraries including an easy to use HTTP server.
+* [kitex](https://github.com/cloudwego/kitex) ⭐ 8,077 | 🐛 87 | 🌐 Go | 📅 2026-11-18 - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 * [sofa-rpc](https://github.com/sofastack/sofa-rpc) ⭐ 3,917 | 🐛 23 | 🌐 Java | 📅 2026-11-02 - SOFARPC is a high-performance, high-extensibility, production-level Java RPC framework.
 * [sofa-bolt](https://github.com/sofastack/sofa-bolt) ⭐ 2,505 | 🐛 40 | 🌐 Java | 📅 2026-08-26 - SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty.
-* [drpc](https://github.com/storj/drpc) ⭐ 1,636 | 🐛 13 | 🌐 Go | 📅 2026-11-17 - drpc is a lightweight, drop-in replacement for gRPC.
+* [drpc](https://github.com/storj/drpc) ⭐ 1,637 | 🐛 13 | 🌐 Go | 📅 2026-11-17 - drpc is a lightweight, drop-in replacement for gRPC.
 * [grpc](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework.
 * [rsocket](https://github.com/rsocket) - Streaming message protocol with Reactive Extension/Stream semantics.
 
@@ -624,35 +624,35 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Runtimes & Platforms
 
-* [moby](https://github.com/moby/moby) ⭐ 72,275 | 🐛 3,940 | 🌐 Go | 📅 2026-11-17 - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems.
-* [podman](https://github.com/containers/podman) ⭐ 33,314 | 🐛 1,025 | 🌐 Go | 📅 2026-11-17 - A tool for managing OCI containers and pods.
-* [lima](https://github.com/AkihiroSuda/lima) ⭐ 22,386 | 🐛 527 | 🌐 Go | 📅 2026-11-17 - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially).
-* [containerd](https://github.com/containerd/containerd) ⭐ 21,499 | 🐛 559 | 🌐 Go | 📅 2026-11-17 - An open and reliable container runtime.
-* [gvisor](https://github.com/google/gvisor) ⭐ 20,035 | 🐛 1,192 | 🌐 Go | 📅 2026-11-17 - Sandboxed Container Runtime.
+* [moby](https://github.com/moby/moby) ⭐ 72,277 | 🐛 3,944 | 🌐 Go | 📅 2026-11-18 - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems.
+* [podman](https://github.com/containers/podman) ⭐ 33,324 | 🐛 1,025 | 🌐 Go | 📅 2026-11-18 - A tool for managing OCI containers and pods.
+* [lima](https://github.com/AkihiroSuda/lima) ⭐ 22,398 | 🐛 530 | 🌐 Go | 📅 2026-11-18 - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially).
+* [containerd](https://github.com/containerd/containerd) ⭐ 21,502 | 🐛 559 | 🌐 Go | 📅 2026-11-18 - An open and reliable container runtime.
+* [gvisor](https://github.com/google/gvisor) ⭐ 20,047 | 🐛 1,201 | 🌐 Go | 📅 2026-11-18 - Sandboxed Container Runtime.
 * [rkt](https://github.com/rkt/rkt) ⚠️ Archived - Rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
-* [agones](https://github.com/googleforgames/agones) ⭐ 7,107 | 🐛 61 | 🌐 Go | 📅 2026-11-17 - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
-* [spin](https://github.com/fermyon/spin) ⭐ 6,578 | 🐛 270 | 🌐 Rust | 📅 2026-11-17 - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
-* [wazero](https://github.com/tetratelabs/wazero) ⭐ 6,469 | 🐛 69 | 🌐 Go | 📅 2026-10-19 - The zero dependency WebAssembly runtime for Go developers.
-* [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,218 | 🐛 665 | 🌐 C | 📅 2026-11-17 - WebAssembly Micro Runtime (WAMR).
-* [cri-o](https://github.com/cri-o/cri-o) ⭐ 5,694 | 🐛 137 | 🌐 Go | 📅 2026-11-17 - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface.
-* [pouch](https://github.com/alibaba/pouch) ⭐ 4,637 | 🐛 10 | 🌐 Go | 📅 2024-08-22 - Pouch is an open-source project created to promote the container technology movement.
-* [crun](https://github.com/containers/crun) ⭐ 4,231 | 🐛 49 | 🌐 C | 📅 2026-11-16 - A fast and lightweight fully featured OCI runtime and C library for running containers.
+* [agones](https://github.com/googleforgames/agones) ⭐ 7,107 | 🐛 62 | 🌐 Go | 📅 2026-11-18 - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
+* [spin](https://github.com/fermyon/spin) ⭐ 6,578 | 🐛 268 | 🌐 Rust | 📅 2026-11-17 - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
+* [wazero](https://github.com/tetratelabs/wazero) ⭐ 6,470 | 🐛 70 | 🌐 Go | 📅 2026-10-19 - The zero dependency WebAssembly runtime for Go developers.
+* [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,220 | 🐛 658 | 🌐 C | 📅 2026-11-18 - WebAssembly Micro Runtime (WAMR).
+* [cri-o](https://github.com/cri-o/cri-o) ⭐ 5,694 | 🐛 134 | 🌐 Go | 📅 2026-11-18 - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface.
+* [pouch](https://github.com/alibaba/pouch) ⭐ 4,636 | 🐛 10 | 🌐 Go | 📅 2024-08-22 - Pouch is an open-source project created to promote the container technology movement.
+* [crun](https://github.com/containers/crun) ⭐ 4,234 | 🐛 50 | 🌐 C | 📅 2026-11-16 - A fast and lightweight fully featured OCI runtime and C library for running containers.
 * [img](https://github.com/genuinetools/img) ⭐ 3,989 | 🐛 110 | 🌐 Go | 📅 2024-05-19 - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-* [krustlet](https://github.com/deislabs/krustlet) ⭐ 3,600 | 🐛 156 | 🌐 Rust | 📅 2023-10-02 - Kubernetes Rust Kubelet.
+* [krustlet](https://github.com/deislabs/krustlet) ⭐ 3,600 | 🐛 158 | 🌐 Rust | 📅 2023-10-02 - Kubernetes Rust Kubelet.
 * [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) ⚠️ Archived - firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
-* [wasmcloud](https://github.com/wasmCloud/wasmCloud) ⭐ 2,487 | 🐛 109 | 🌐 Rust | 📅 2026-11-17 - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers.
+* [wasmcloud](https://github.com/wasmCloud/wasmCloud) ⭐ 2,489 | 🐛 106 | 🌐 Rust | 📅 2026-11-18 - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers.
 * [hyperd](https://github.com/hyperhq/hyperd) ⚠️ Archived - HyperContainer Daemon.
-* [openchoreo](https://github.com/openchoreo/openchoreo) ⭐ 1,910 | 🐛 328 | 🌐 Go | 📅 2026-11-17 - OpenChoreo is a developer platform for Kubernetes.
+* [openchoreo](https://github.com/openchoreo/openchoreo) ⭐ 1,914 | 🐛 327 | 🌐 Go | 📅 2026-11-18 - OpenChoreo is a developer platform for Kubernetes.
 * [kuasar](https://github.com/kuasar-io/kuasar) ⭐ 1,460 | 🐛 31 | 🌐 Rust | 📅 2026-06-05 - An efficient container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
-* [runwasi](https://github.com/containerd/runwasi) ⭐ 1,349 | 🐛 71 | 🌐 Rust | 📅 2026-11-17 - Facilitates running Wasm/WASI workloads managed by containerd.
-* [cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) ⭐ 1,249 | 🐛 22 | 🌐 Python | 📅 2026-11-17 - Self-hosted platform that builds Git-sourced apps into rootless Podman containers, each with its own subdomain and optional TCP/UDP ports.
+* [runwasi](https://github.com/containerd/runwasi) ⭐ 1,350 | 🐛 71 | 🌐 Rust | 📅 2026-11-18 - Facilitates running Wasm/WASI workloads managed by containerd.
+* [cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) ⭐ 1,248 | 🐛 19 | 🌐 Python | 📅 2026-11-18 - Self-hosted platform that builds Git-sourced apps into rootless Podman containers, each with its own subdomain and optional TCP/UDP ports.
 * [railcar](https://github.com/oracle/railcar) ⚠️ Archived - RailCar: Rust implementation of the Open Containers Initiative oci-runtime.
 * [virtlet](https://github.com/Mirantis/virtlet) ⭐ 764 | 🐛 7 | 🌐 Go | 📅 2020-04-18 - Kubernetes CRI implementation for running VM workloads.
 * [frakti](https://github.com/kubernetes/frakti) ⚠️ Archived - The hypervisor-based container runtime for Kubernetes.
-* [mocker](https://github.com/us/mocker) ⭐ 373 | 🐛 0 | 🌐 Swift | 📅 2026-10-28 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
+* [mocker](https://github.com/us/mocker) ⭐ 372 | 🐛 0 | 🌐 Swift | 📅 2026-10-28 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
 * [containerd-wasm-shims](https://github.com/deislabs/containerd-wasm-shims) ⚠️ Archived - Containerd shims for running WebAssembly workloads in Kubernetes.
 * [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) ⭐ 217 | 🐛 49 | 🌐 Shell | 📅 2026-09-30 - Kubernetes LTS(long term support).
-* [forge](https://github.com/reliant-labs/forge) ⭐ 10 | 🐛 49 | 🌐 Go | 📅 2026-11-17 - Go and React framework and CLI that generates Connect RPC services from protobuf and SQL migrations and deploys them to Kubernetes, Docker Compose or host processes.
+* [forge](https://github.com/reliant-labs/forge) ⭐ 10 | 🐛 43 | 🌐 Go | 📅 2026-11-18 - Go and React framework and CLI that generates Connect RPC services from protobuf and SQL migrations and deploys them to Kubernetes, Docker Compose or host processes.
 * [jokku](https://github.com/wes/jokku) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-10-17 - Self-hosted PaaS with Dokku's git push workflow that runs each app instance in a Firecracker microVM across a cluster.
 * [katacontainers](https://katacontainers.io/) - Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
 
@@ -660,27 +660,27 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Workload Orchestration & Scheduling
 
-* [kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 129,355 | 🐛 3,186 | 🌐 Go | 📅 2026-11-17 - Production-Grade Container Scheduling and Management.
-* [compose](https://github.com/docker/compose) ⭐ 39,116 | 🐛 114 | 🌐 Go | 📅 2026-11-17 - Define and run multi-container applications with Docker.
+* [kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 129,259 | 🐛 3,212 | 🌐 Go | 📅 2026-11-18 - Production-Grade Container Scheduling and Management.
+* [compose](https://github.com/docker/compose) ⭐ 38,994 | 🐛 111 | 🌐 Go | 📅 2026-11-18 - Define and run multi-container applications with Docker.
 * [conductor](https://github.com/Netflix/conductor) ⚠️ Archived - Conductor is a microservices orchestration engine.
-* [cluster-autoscaler](https://github.com/kubernetes/autoscaler) ⭐ 9,005 | 🐛 331 | 🌐 Go | 📅 2026-11-17 - Kubernetes Cluster Autoscaler for dynamic node scaling across cloud providers.
-* [volcano](https://github.com/volcano-sh/volcano) ⭐ 6,094 | 🐛 920 | 🌐 Go | 📅 2026-11-17 - A Kubernetes Native Batch System (Project under CNCF).
-* [serf](https://github.com/hashicorp/serf) ⭐ 6,080 | 🐛 106 | 🌐 Go | 📅 2026-10-15 - Service orchestration and management tool by hashicorp.
+* [cluster-autoscaler](https://github.com/kubernetes/autoscaler) ⭐ 9,006 | 🐛 330 | 🌐 Go | 📅 2026-11-17 - Kubernetes Cluster Autoscaler for dynamic node scaling across cloud providers.
+* [volcano](https://github.com/volcano-sh/volcano) ⭐ 6,099 | 🐛 927 | 🌐 Go | 📅 2026-11-18 - A Kubernetes Native Batch System (Project under CNCF).
+* [serf](https://github.com/hashicorp/serf) ⭐ 6,081 | 🐛 106 | 🌐 Go | 📅 2026-10-15 - Service orchestration and management tool by hashicorp.
 * [deis](https://github.com/deis/deis) ⚠️ Archived - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
-* [karmada](https://github.com/karmada-io/karmada) ⭐ 5,768 | 🐛 930 | 🌐 Go | 📅 2026-11-17 - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration.
+* [karmada](https://github.com/karmada-io/karmada) ⭐ 5,769 | 🐛 929 | 🌐 Go | 📅 2026-11-18 - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration.
 * [swarm](https://github.com/docker/classicswarm) ⚠️ Archived - Swarm: a Docker-native clustering system.
-* [descheduler](https://github.com/kubernetes-sigs/descheduler) ⭐ 5,578 | 🐛 73 | 🌐 Go | 📅 2026-10-05 - Descheduler for Kubernetes.
-* [kruise](https://github.com/openkruise/kruise) ⭐ 5,392 | 🐛 108 | 🌐 Go | 📅 2026-11-16 - Automate application workloads management on Kubernetes.
+* [descheduler](https://github.com/kubernetes-sigs/descheduler) ⭐ 5,578 | 🐛 75 | 🌐 Go | 📅 2026-11-18 - Descheduler for Kubernetes.
+* [kruise](https://github.com/openkruise/kruise) ⭐ 5,393 | 🐛 108 | 🌐 Go | 📅 2026-11-16 - Automate application workloads management on Kubernetes.
 * [mesos](https://github.com/apache/mesos) ⭐ 5,369 | 🐛 11 | 🌐 C++ | 📅 2026-05-15 - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-* [hami](https://github.com/Project-HAMi/HAMi) ⭐ 5,019 | 🐛 34 | 🌐 Go | 📅 2026-11-17 - Heterogeneous GPU Sharing on Kubernetes.
+* [hami](https://github.com/Project-HAMi/HAMi) ⭐ 5,027 | 🐛 33 | 🌐 Go | 📅 2026-11-18 - Heterogeneous GPU Sharing on Kubernetes.
 * [marathon](https://github.com/mesosphere/marathon) ⚠️ Archived - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
-* [kueue](https://github.com/kubernetes-sigs/kueue) ⭐ 3,167 | 🐛 943 | 🌐 Go | 📅 2026-11-17 - Kubernetes-native Job Queueing.
+* [kueue](https://github.com/kubernetes-sigs/kueue) ⭐ 3,172 | 🐛 949 | 🌐 Go | 📅 2026-11-18 - Kubernetes-native Job Queueing.
 * [service-fabric](https://github.com/Microsoft/service-fabric) ⭐ 3,071 | 🐛 848 | 📅 2026-11-04 - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
-* [kcp](https://github.com/kcp-dev/kcp) ⭐ 2,854 | 🐛 167 | 🌐 Go | 📅 2026-11-17 - Multi-tenant control plane for running many virtual Kubernetes clusters.
+* [kcp](https://github.com/kcp-dev/kcp) ⭐ 2,854 | 🐛 168 | 🌐 Go | 📅 2026-11-17 - Multi-tenant control plane for running many virtual Kubernetes clusters.
 * [fleet](https://github.com/coreos/fleet) ⚠️ Archived - Fleet ties together systemd and etcd into a distributed init system.
-* [koordinator](https://github.com/koordinator-sh/koordinator) ⭐ 1,782 | 🐛 230 | 🌐 Go | 📅 2026-11-17 - QoS based scheduling system for hybrid orchestration workloads on Kubernetes, bringing workloads the best layout and status.
-* [eks-distro](https://github.com/aws/eks-distro) ⭐ 1,460 | 🐛 158 | 🌐 Shell | 📅 2026-11-14 - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
-* [ocm](https://github.com/open-cluster-management-io/OCM) ⭐ 1,137 | 🐛 57 | 🌐 Go | 📅 2026-11-17 - The open-cluster-management.io project is focused on enabling end-to-end visibility and control across your Kubernetes clusters.
+* [koordinator](https://github.com/koordinator-sh/koordinator) ⭐ 1,783 | 🐛 230 | 🌐 Go | 📅 2026-11-18 - QoS based scheduling system for hybrid orchestration workloads on Kubernetes, bringing workloads the best layout and status.
+* [eks-distro](https://github.com/aws/eks-distro) ⭐ 1,460 | 🐛 158 | 🌐 Shell | 📅 2026-11-18 - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
+* [ocm](https://github.com/open-cluster-management-io/OCM) ⭐ 1,137 | 🐛 58 | 🌐 Go | 📅 2026-11-17 - The open-cluster-management.io project is focused on enabling end-to-end visibility and control across your Kubernetes clusters.
 * [blox](https://github.com/blox/blox) ⚠️ Archived - Open source tools for building custom schedulers on Amazon ECS.
 * [kubeadmiral](https://github.com/kubewharf/kubeadmiral) ⭐ 934 | 🐛 43 | 🌐 Go | 📅 2026-05-11 - Multi-cluster Kubernetes Orchestration.
 * [vamp](https://github.com/magneticio/vamp) ⚠️ Archived - Vamp - canary releasing and autoscaling for microservice systems.
@@ -693,26 +693,26 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Serverless Platforms
 
-* [serverless](https://github.com/serverless/serverless) ⭐ 46,934 | 🐛 1,208 | 🌐 JavaScript | 📅 2026-11-13 - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
-* [firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 38,070 | 🐛 147 | 🌐 Rust | 📅 2026-11-17 - Secure and fast microVMs for serverless computing.
-* [openfaas](https://github.com/openfaas/faas) ⭐ 26,264 | 🐛 31 | 🌐 Go | 📅 2026-10-23 - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes.
-* [dapr](https://github.com/dapr/dapr) ⭐ 26,203 | 🐛 473 | 🌐 Go | 📅 2026-11-17 - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-* [thanos](https://github.com/thanos-io/thanos) ⭐ 14,280 | 🐛 945 | 🌐 Go | 📅 2026-11-13 - Highly available Prometheus setup with long term storage capabilities.
-* [keda](https://github.com/kedacore/keda) ⭐ 10,730 | 🐛 274 | 🌐 Go | 📅 2026-11-17 - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes.
+* [serverless](https://github.com/serverless/serverless) ⭐ 46,933 | 🐛 1,210 | 🌐 JavaScript | 📅 2026-11-18 - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+* [firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 38,097 | 🐛 149 | 🌐 Rust | 📅 2026-11-18 - Secure and fast microVMs for serverless computing.
+* [openfaas](https://github.com/openfaas/faas) ⭐ 26,266 | 🐛 31 | 🌐 Go | 📅 2026-10-23 - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes.
+* [dapr](https://github.com/dapr/dapr) ⭐ 26,206 | 🐛 469 | 🌐 Go | 📅 2026-11-18 - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+* [thanos](https://github.com/thanos-io/thanos) ⭐ 14,282 | 🐛 948 | 🌐 Go | 📅 2026-11-13 - Highly available Prometheus setup with long term storage capabilities.
+* [keda](https://github.com/kedacore/keda) ⭐ 10,734 | 🐛 273 | 🌐 Go | 📅 2026-11-18 - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes.
 * [fission](https://github.com/fission/fission) ⭐ 8,950 | 🐛 51 | 🌐 Go | 📅 2026-11-17 - Fast Serverless Functions for Kubernetes.
 * [laf](https://github.com/labring/laf) ⭐ 7,544 | 🐛 46 | 🌐 TypeScript | 📅 2026-07-30 - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 * [kubeless](https://github.com/kubeless/kubeless) ⚠️ Archived - Kubernetes Native Serverless Framework.
-* [serving](https://github.com/knative/serving) ⭐ 6,130 | 🐛 179 | 🌐 Go | 📅 2026-11-17 - Kubernetes-based, scale-to-zero, request-driven compute.
+* [serving](https://github.com/knative/serving) ⭐ 6,130 | 🐛 171 | 🌐 Go | 📅 2026-11-18 - Kubernetes-based, scale-to-zero, request-driven compute.
 * [spec](https://github.com/cloudevents/spec) ⭐ 5,958 | 🐛 22 | 🌐 Python | 📅 2026-11-06 - CloudEvents Specification.
 * [fn](https://github.com/fnproject/fn) ⭐ 5,950 | 🐛 159 | 🌐 Go | 📅 2026-09-24 - The container native, cloud agnostic serverless platform.
-* [nuclio](https://github.com/nuclio/nuclio) ⭐ 5,777 | 🐛 123 | 🌐 Go | 📅 2026-11-17 - High-Performance Serverless event and data processing platform.
+* [nuclio](https://github.com/nuclio/nuclio) ⭐ 5,777 | 🐛 122 | 🌐 Go | 📅 2026-11-18 - High-Performance Serverless event and data processing platform.
 * [tau](https://github.com/taubyte/tau) ⭐ 5,176 | 🐛 11 | 🌐 Go | 📅 2026-11-12 - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.
 * [ironfunctions](https://github.com/iron-io/functions) ⭐ 3,211 | 🐛 94 | 🌐 Go | 📅 2023-09-15 - IronFunctions - the serverless microservices platform.
 * [fx](https://github.com/metrue/fx) ⭐ 2,226 | 🐛 85 | 🌐 Go | 📅 2023-10-24 - Poor man's serverless framework based on Docker, Function as a Service with painless.
 * [faas-netes](https://github.com/openfaas/faas-netes) ⭐ 2,172 | 🐛 38 | 🌐 Go | 📅 2026-11-17 - Enable Kubernetes as a backend for Functions as a Service (OpenFaaS).
 * [serverless-devs](https://github.com/Serverless-Devs/Serverless-Devs) ⭐ 1,833 | 🐛 67 | 🌐 TypeScript | 📅 2026-02-01  - Serverless Devs developer tool.
-* [openfunction](https://github.com/OpenFunction/OpenFunction) ⭐ 1,657 | 🐛 104 | 🌐 Go | 📅 2024-06-19 - Cloud Native Function-as-a-Service Platform.
-* [eventing](https://github.com/knative/eventing) ⭐ 1,562 | 🐛 106 | 🌐 Go | 📅 2026-11-16 - Open source specification and implementation of Knative event binding and delivery.
+* [openfunction](https://github.com/OpenFunction/OpenFunction) ⭐ 1,658 | 🐛 104 | 🌐 Go | 📅 2024-06-19 - Cloud Native Function-as-a-Service Platform.
+* [eventing](https://github.com/knative/eventing) ⭐ 1,562 | 🐛 160 | 🌐 Go | 📅 2026-11-16 - Open source specification and implementation of Knative event binding and delivery.
 * [layotto](https://github.com/mosn/layotto) ⭐ 851 | 🐛 51 | 🌐 Go | 📅 2026-11-10 - A fast and efficient cloud native application runtime.
 * [riff](https://github.com/projectriff/riff) ⚠️ Archived - Riff is for functions.
 * [easyfaas](https://github.com/baidu/EasyFaaS) ⭐ 610 | 🐛 9 | 🌐 Go | 📅 2022-10-20 - EasyFaaS is a stateless, high-performance function compute service engine with light dependencies, strong adaptability, and low resource usage.
@@ -730,29 +730,29 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Kubernetes Operators
 
-* [prometheus-operator](https://github.com/coreos/prometheus-operator) ⭐ 9,997 | 🐛 259 | 🌐 Go | 📅 2026-11-17 - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes.
-* [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9,373 | 🐛 59 | 🌐 Go | 📅 2026-11-15 - Kubebuilder - SDK for building Kubernetes APIs using CRDs.
+* [prometheus-operator](https://github.com/coreos/prometheus-operator) ⭐ 9,997 | 🐛 256 | 🌐 Go | 📅 2026-11-18 - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes.
+* [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9,374 | 🐛 66 | 🌐 Go | 📅 2026-11-15 - Kubebuilder - SDK for building Kubernetes APIs using CRDs.
 * [operator-sdk](https://github.com/operator-framework/operator-sdk) ⭐ 7,691 | 🐛 87 | 🌐 Go | 📅 2026-10-21 - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-* [kubevirt](https://github.com/kubevirt/kubevirt) ⭐ 7,214 | 🐛 639 | 🌐 Go | 📅 2026-11-17 - Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines.
-* [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) ⭐ 5,981 | 🐛 169 | 🌐 Java | 📅 2026-11-17 - Apache Kafka running on Kubernetes.
+* [kubevirt](https://github.com/kubevirt/kubevirt) ⭐ 7,215 | 🐛 648 | 🌐 Go | 📅 2026-11-18 - Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines.
+* [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) ⭐ 5,981 | 🐛 171 | 🌐 Java | 📅 2026-11-18 - Apache Kafka running on Kubernetes.
 * [kubeoperator](https://github.com/KubeOperator/KubeOperator) ⚠️ Archived - KubeOperator is an open source lightweight Kubernetes distribution focused on helping enterprises plan, deploy, and operate production-grade K8s clusters.
-* [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) ⭐ 3,160 | 🐛 174 | 🌐 Python | 📅 2026-11-16 - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
+* [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) ⭐ 3,162 | 🐛 175 | 🌐 Python | 📅 2026-11-18 - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 * [keel](https://github.com/keel-hq/keel) ⭐ 2,746 | 🐛 237 | 🌐 Go | 📅 2026-11-01 - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates.
-* [kopf](https://github.com/nolar/kopf) ⭐ 2,661 | 🐛 185 | 🌐 Python | 📅 2026-11-16 - A Python framework to write Kubernetes operators in just few lines of code.
+* [kopf](https://github.com/nolar/kopf) ⭐ 2,661 | 🐛 185 | 🌐 Python | 📅 2026-11-18 - A Python framework to write Kubernetes operators in just few lines of code.
 * [operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) ⭐ 1,867 | 🐛 23 | 🌐 Go | 📅 2026-11-16 - A management framework for extending Kubernetes with Operators.
 * [kube-green](https://github.com/kube-green/kube-green) ⭐ 1,386 | 🐛 59 | 🌐 Go | 📅 2026-09-02 - A Kubernetes operator to reduce CO2 footprint of your clusters.
 * [kubegres](https://github.com/reactive-tech/kubegres) ⭐ 1,351 | 🐛 80 | 🌐 Go | 📅 2025-01-04 - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
-* [tidb-operator](https://github.com/pingcap/tidb-operator) ⭐ 1,340 | 🐛 422 | 🌐 Go | 📅 2026-11-16 - TiDB operator creates and manages TiDB clusters running in Kubernetes.
+* [tidb-operator](https://github.com/pingcap/tidb-operator) ⭐ 1,340 | 🐛 422 | 🌐 Go | 📅 2026-11-18 - TiDB operator creates and manages TiDB clusters running in Kubernetes.
 * [kudo](https://github.com/kudobuilder/kudo) ⭐ 1,216 | 🐛 190 | 🌐 Go | 📅 2023-08-22 - Kubernetes Universal Declarative Operator (KUDO).
-* [kaito](https://github.com/Azure/kaito) ⭐ 1,044 | 🐛 93 | 🌐 Go | 📅 2026-11-17 - Kubernetes AI Toolchain Operator.
-* [k0smotron](https://github.com/k0sproject/k0smotron) ⭐ 762 | 🐛 59 | 🌐 Go | 📅 2026-11-17 - k0smotron is a powerful open-source tool for the efficient management of k0s Kubernetes clusters.
-* [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) ⭐ 686 | 🐛 19 | 🌐 Go | 📅 2026-11-14 - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
+* [kaito](https://github.com/Azure/kaito) ⭐ 1,045 | 🐛 101 | 🌐 Go | 📅 2026-11-18 - Kubernetes AI Toolchain Operator.
+* [k0smotron](https://github.com/k0sproject/k0smotron) ⭐ 762 | 🐛 56 | 🌐 Go | 📅 2026-11-18 - k0smotron is a powerful open-source tool for the efficient management of k0s Kubernetes clusters.
+* [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) ⭐ 688 | 🐛 19 | 🌐 Go | 📅 2026-11-14 - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 * [fabedge](https://github.com/FabEdge/fabedge) ⭐ 526 | 🐛 1 | 🌐 Go | 📅 2026-10-28 - Secure Edge Networking Based On Kubernetes And KubeEdge.
 * [kubedirector](https://github.com/bluek8s/kubedirector) ⭐ 409 | 🐛 85 | 🌐 Go | 📅 2026-03-26 - Kubernetes Director (aka KubeDirector) for deploying and managing stateful applications on Kubernetes.
 * [kubecarrier](https://github.com/kubermatic/kubecarrier) ⚠️ Archived - KubeCarrier - Service Management at Scale.
 * [eunomia](https://github.com/KohlsTechnology/eunomia) ⚠️ Archived - A GitOps Operator for Kubernetes.
 * [kubevirtbmc](https://github.com/kubevirtbmc/kubevirtbmc) ⭐ 124 | 🐛 26 | 🌐 Go | 📅 2026-11-14 - A Kubernetes operator of virtual BMCs that provide Redfish and IPMI services for KubeVirt virtual machines.
-* [gateway-operator](https://github.com/kong/gateway-operator) ⭐ 111 | 🐛 210 | 🌐 Go | 📅 2026-11-17 - Kong Gateway Operator is a Kubernetes Operator that can manage your Kong Ingress Controller, Kong Gateway Data Planes, or both together when running on Kubernetes.
+* [gateway-operator](https://github.com/kong/gateway-operator) ⭐ 111 | 🐛 213 | 🌐 Go | 📅 2026-11-18 - Kong Gateway Operator is a Kubernetes Operator that can manage your Kong Ingress Controller, Kong Gateway Data Planes, or both together when running on Kubernetes.
 * [agenttier](https://github.com/agenttier/agenttier) ⭐ 49 | 🐛 29 | 🌐 Go | 📅 2026-10-18 - Kubernetes-native operator that manages isolated, persistent sandboxes for human developers and AI agents through Sandbox CRDs, with built-in governance, warm-pod pool, and a streaming agent-mode REST API.
 * [xline-operator](https://github.com/xline-kv/xline-operator) ⭐ 16 | 🐛 3 | 🌐 Go | 📅 2024-02-19 - A powerful tool designed to automate the process of bootstrapping, monitoring, snapshotting, and recovering an xline cluster on Kubernetes.
 * [bank-vaults](https://github.com/banzaicloud/bank-vaults) ⚠️ Archived - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
@@ -762,14 +762,14 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Edge & IoT
 
-* [k3s](https://github.com/k3s-io/k3s) ⭐ 34,428 | 🐛 100 | 🌐 Go | 📅 2026-11-17 - Lightweight Kubernetes.
-* [kubeedge](https://github.com/kubeedge/kubeedge) ⭐ 7,635 | 🐛 1,395 | 🌐 Go | 📅 2026-11-17 - Kubernetes Native Edge Computing Framework (project under CNCF).
-* [k0s](https://github.com/k0sproject/k0s) ⭐ 6,595 | 🐛 277 | 🌐 Go | 📅 2026-11-17 - Zero Friction Kubernetes.
-* [openyurt](https://github.com/openyurtio/openyurt) ⭐ 2,009 | 🐛 107 | 🌐 Go | 📅 2026-11-16 - Extending your native Kubernetes to edge(project under CNCF).
-* [baetyl](https://github.com/baetyl/baetyl) ⭐ 1,901 | 🐛 9 | 🌐 Go | 📅 2024-05-11 - Extend cloud computing, data and service seamlessly to edge devices.
-* [kairos](https://github.com/kairos-io/kairos) ⭐ 1,868 | 🐛 613 | 🌐 Go | 📅 2026-11-17 - The immutable Linux meta-distribution for edge Kubernetes.
-* [iotedge](https://github.com/Azure/iotedge) ⭐ 1,509 | 🐛 109 | 🌐 C# | 📅 2026-11-17 - The IoT Edge OSS project.
-* [akri](https://github.com/project-akri/akri) ⭐ 1,265 | 🐛 95 | 🌐 Rust | 📅 2026-10-27 - A Kubernetes Resource Interface for the Edge.
+* [k3s](https://github.com/k3s-io/k3s) ⭐ 34,440 | 🐛 101 | 🌐 Go | 📅 2026-11-17 - Lightweight Kubernetes.
+* [kubeedge](https://github.com/kubeedge/kubeedge) ⭐ 7,635 | 🐛 1,398 | 🌐 Go | 📅 2026-11-17 - Kubernetes Native Edge Computing Framework (project under CNCF).
+* [k0s](https://github.com/k0sproject/k0s) ⭐ 6,596 | 🐛 273 | 🌐 Go | 📅 2026-11-18 - Zero Friction Kubernetes.
+* [openyurt](https://github.com/openyurtio/openyurt) ⭐ 2,010 | 🐛 108 | 🌐 Go | 📅 2026-11-16 - Extending your native Kubernetes to edge(project under CNCF).
+* [baetyl](https://github.com/baetyl/baetyl) ⭐ 1,900 | 🐛 9 | 🌐 Go | 📅 2024-05-11 - Extend cloud computing, data and service seamlessly to edge devices.
+* [kairos](https://github.com/kairos-io/kairos) ⭐ 1,869 | 🐛 586 | 🌐 Go | 📅 2026-11-18 - The immutable Linux meta-distribution for edge Kubernetes.
+* [iotedge](https://github.com/Azure/iotedge) ⭐ 1,509 | 🐛 108 | 🌐 C# | 📅 2026-11-18 - The IoT Edge OSS project.
+* [akri](https://github.com/project-akri/akri) ⭐ 1,265 | 🐛 96 | 🌐 Rust | 📅 2026-10-27 - A Kubernetes Resource Interface for the Edge.
 * [superedge](https://github.com/superedge/superedge) ⭐ 1,070 | 🐛 39 | 🌐 Go | 📅 2024-02-20 - An edge-native container management system for edge computing.
 * [eliot](https://github.com/ernoaapa/eliot) ⭐ 267 | 🐛 10 | 🌐 Go | 📅 2018-12-18 - Open source system for managing containerized applications in IoT device.
 * [octopus](https://github.com/cnrancher/octopus) ⚠️ Archived - Lightweight device management system for Kubernetes/k3s.
@@ -778,37 +778,37 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Observability & Monitoring
 
-* [grafana](https://github.com/grafana/grafana) ⭐ 77,971 | 🐛 3,327 | 🌐 TypeScript | 📅 2026-11-17 - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
-* [prometheus](https://github.com/prometheus/prometheus) ⭐ 67,677 | 🐛 1,105 | 🌐 Go | 📅 2026-11-17 - The Prometheus monitoring system and time series database.
-* [kibana](https://github.com/elastic/kibana) ⭐ 21,383 | 🐛 14,840 | 🌐 TypeScript | 📅 2026-11-17 - Kibana analytics and search dashboard for Elasticsearch.
-* [cadvisor](https://github.com/google/cadvisor) ⭐ 19,533 | 🐛 82 | 🌐 Go | 📅 2026-11-17 - Analyzes resource usage and performance characteristics of running containers.
-* [docker-elk](https://github.com/deviantony/docker-elk) ⭐ 18,382 | 🐛 5 | 🌐 Shell | 📅 2026-11-15 - The ELK stack powered by Docker and Compose.
-* [victoriametrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 18,122 | 🐛 789 | 🌐 Go | 📅 2026-11-17 - VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
-* [statsd](https://github.com/statsd/statsd) ⭐ 18,077 | 🐛 93 | 🌐 JavaScript | 📅 2025-05-20 - Daemon for easy but powerful stats aggregation.
-* [nightingale](https://github.com/ccfos/nightingale) ⭐ 13,497 | 🐛 243 | 🌐 Go | 📅 2026-11-17 - Self-hosted alerting for metrics, logs, and databases, with a built-in AI agent and MCP server.
-* [kubeshark](https://github.com/kubeshark/kubeshark) ⭐ 12,143 | 🐛 145 | 🌐 Go | 📅 2026-11-10 - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes.
-* [highlight](https://github.com/highlight/highlight) ⭐ 9,389 | 🐛 593 | 🌐 TypeScript | 📅 2026-10-23 - The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
-* [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) ⭐ 7,775 | 🐛 716 | 🌐 Go | 📅 2026-11-17 - Vendor-neutral telemetry pipelines for metrics, logs, and traces.
-* [pixie](https://github.com/pixie-io/pixie) ⭐ 6,562 | 🐛 399 | 🌐 C++ | 📅 2026-11-09 - Instant Kubernetes-Native Application Observability.
-* [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ⭐ 6,240 | 🐛 103 | 🌐 Go | 📅 2026-11-16 - Add-on agent to generate and expose cluster-level metrics.
+* [grafana](https://github.com/grafana/grafana) ⭐ 78,010 | 🐛 3,333 | 🌐 TypeScript | 📅 2026-11-18 - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
+* [prometheus](https://github.com/prometheus/prometheus) ⭐ 67,696 | 🐛 1,112 | 🌐 Go | 📅 2026-11-18 - The Prometheus monitoring system and time series database.
+* [kibana](https://github.com/elastic/kibana) ⭐ 21,380 | 🐛 14,893 | 🌐 TypeScript | 📅 2026-11-18 - Kibana analytics and search dashboard for Elasticsearch.
+* [cadvisor](https://github.com/google/cadvisor) ⭐ 19,540 | 🐛 82 | 🌐 Go | 📅 2026-11-18 - Analyzes resource usage and performance characteristics of running containers.
+* [docker-elk](https://github.com/deviantony/docker-elk) ⭐ 18,383 | 🐛 5 | 🌐 Shell | 📅 2026-11-15 - The ELK stack powered by Docker and Compose.
+* [victoriametrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 18,133 | 🐛 791 | 🌐 Go | 📅 2026-11-18 - VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
+* [statsd](https://github.com/statsd/statsd) ⭐ 18,078 | 🐛 93 | 🌐 JavaScript | 📅 2025-05-20 - Daemon for easy but powerful stats aggregation.
+* [nightingale](https://github.com/ccfos/nightingale) ⭐ 13,501 | 🐛 243 | 🌐 Go | 📅 2026-11-17 - Self-hosted alerting for metrics, logs, and databases, with a built-in AI agent and MCP server.
+* [kubeshark](https://github.com/kubeshark/kubeshark) ⭐ 12,145 | 🐛 145 | 🌐 Go | 📅 2026-11-10 - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes.
+* [highlight](https://github.com/highlight/highlight) ⭐ 9,392 | 🐛 594 | 🌐 TypeScript | 📅 2026-10-23 - The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
+* [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) ⭐ 7,782 | 🐛 716 | 🌐 Go | 📅 2026-11-18 - Vendor-neutral telemetry pipelines for metrics, logs, and traces.
+* [pixie](https://github.com/pixie-io/pixie) ⭐ 6,563 | 🐛 400 | 🌐 C++ | 📅 2026-11-09 - Instant Kubernetes-Native Application Observability.
+* [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ⭐ 6,240 | 🐛 105 | 🌐 Go | 📅 2026-11-16 - Add-on agent to generate and expose cluster-level metrics.
 * [octant](https://github.com/vmware-tanzu/octant) ⚠️ Archived - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 * [scope](https://github.com/weaveworks/scope) ⭐ 5,908 | 🐛 455 | 🌐 Go | 📅 2023-07-07 - Monitoring, visualisation & management for Docker & Kubernetes.
-* [cortex](https://github.com/cortexproject/cortex) ⭐ 5,879 | 🐛 278 | 🌐 Go | 📅 2026-11-17 - A multitenant, horizontally scalable Prometheus as a Service.
-* [tetragon](https://github.com/cilium/tetragon) ⭐ 5,189 | 🐛 321 | 🌐 C | 📅 2026-11-17 - eBPF-based Security Observability and Runtime Enforcement.
-* [parca](https://github.com/parca-dev/parca) ⭐ 5,020 | 🐛 217 | 🌐 TypeScript | 📅 2026-11-15 - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+* [cortex](https://github.com/cortexproject/cortex) ⭐ 5,880 | 🐛 279 | 🌐 Go | 📅 2026-11-18 - A multitenant, horizontally scalable Prometheus as a Service.
+* [tetragon](https://github.com/cilium/tetragon) ⭐ 5,192 | 🐛 324 | 🌐 C | 📅 2026-11-18 - eBPF-based Security Observability and Runtime Enforcement.
+* [parca](https://github.com/parca-dev/parca) ⭐ 5,022 | 🐛 217 | 🌐 TypeScript | 📅 2026-11-15 - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 * [elasticsearch-hq](https://github.com/ElasticHQ/elasticsearch-HQ) ⭐ 4,988 | 🐛 82 | 🌐 JavaScript | 📅 2024-01-31 - Monitoring and Management Web Application for ElasticSearch instances and clusters.
-* [deepflow](https://github.com/deepflowys/deepflow) ⭐ 4,329 | 🐛 302 | 🌐 Go | 📅 2026-11-12 - A highly automated observability platform.
-* [metaflow](https://github.com/metaflowys/metaflow) ⭐ 4,329 | 🐛 302 | 🌐 Go | 📅 2026-11-12 - MetaFlow is an automated observability platform for cloud-native developers.
+* [deepflow](https://github.com/deepflowys/deepflow) ⭐ 4,329 | 🐛 302 | 🌐 Go | 📅 2026-11-18 - A highly automated observability platform.
+* [metaflow](https://github.com/metaflowys/metaflow) ⭐ 4,329 | 🐛 302 | 🌐 Go | 📅 2026-11-18 - MetaFlow is an automated observability platform for cloud-native developers.
 * [vizceral](https://github.com/Netflix/vizceral) ⭐ 4,100 | 🐛 54 | 🌐 JavaScript | 📅 2023-11-28 - WebGL visualization for displaying animated traffic graphs.
-* [kiali](https://github.com/kiali/kiali) ⭐ 3,649 | 🐛 106 | 🌐 Go | 📅 2026-11-17 - Kiali project to help istio service mesh observability.
-* [open-falcon](https://github.com/XiaoMi/open-falcon) ⭐ 3,018 | 🐛 32 | 📅 2018-07-05 - Enterprise Internet monitoring system from Xiaomi.
-* [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) ⭐ 2,971 | 🐛 431 | 🌐 C | 📅 2026-11-17 - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
+* [kiali](https://github.com/kiali/kiali) ⭐ 3,648 | 🐛 102 | 🌐 Go | 📅 2026-11-18 - Kiali project to help istio service mesh observability.
+* [open-falcon](https://github.com/XiaoMi/open-falcon) ⭐ 3,019 | 🐛 32 | 📅 2018-07-05 - Enterprise Internet monitoring system from Xiaomi.
+* [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) ⭐ 2,972 | 🐛 432 | 🌐 C | 📅 2026-11-18 - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 * [goldpinger](https://github.com/bloomberg/goldpinger) ⭐ 2,746 | 🐛 38 | 🌐 JavaScript | 📅 2026-10-05 - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
-* [ebpftop](https://github.com/Netflix/bpftop) ⭐ 2,712 | 🐛 5 | 🌐 C | 📅 2026-11-04 - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
-* [perses](https://github.com/perses/perses) ⭐ 2,540 | 🐛 270 | 🌐 Go | 📅 2026-11-17 - The CNCF candidate for observability visualisation.
+* [ebpftop](https://github.com/Netflix/bpftop) ⭐ 2,713 | 🐛 5 | 🌐 C | 📅 2026-11-04 - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
+* [perses](https://github.com/perses/perses) ⭐ 2,544 | 🐛 272 | 🌐 Go | 📅 2026-11-18 - The CNCF candidate for observability visualisation.
 * [naftis](https://github.com/XiaoMi/naftis) ⭐ 1,881 | 🐛 30 | 🌐 Go | 📅 2023-08-19 - An excellent dashboard for Istio built with love.
 * [kube-ops-view](https://github.com/hjacobs/kube-ops-view) ⚠️ Archived - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters.
-* [kepler](https://github.com/sustainable-computing-io/kepler) ⭐ 1,605 | 🐛 83 | 🌐 Go | 📅 2026-11-17 - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics.
+* [kepler](https://github.com/sustainable-computing-io/kepler) ⭐ 1,606 | 🐛 84 | 🌐 Go | 📅 2026-11-18 - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics.
 * [sloop](https://github.com/salesforce/sloop) ⭐ 1,585 | 🐛 60 | 🌐 Go | 📅 2026-02-17 - Kubernetes History Visualization.
 * [kindling](https://github.com/Kindling-project/kindling) ⭐ 1,063 | 🐛 28 | 🌐 Go | 📅 2026-11-17 - eBPF-based CloudNative Monitor tool.
 * [owl](https://github.com/TalkingData/owl) ⭐ 839 | 🐛 6 | 🌐 Go | 📅 2026-04-16 - Distributed monitoring system from TalkingData.
@@ -823,26 +823,27 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 * [hawkular-metrics](https://github.com/hawkular/hawkular-metrics) ⚠️ Archived - Time Series Metrics Engine based on Cassandra.
 * [starship](https://github.com/tricorder-observability/Starship) ⭐ 161 | 🐛 90 | 🌐 Go | 📅 2023-04-06 - Next-generation Observability platform built with eBPF+WASM.
 * [lake](https://github.com/merico-dev/lake) ⭐ 137 | 🐛 0 | 🌐 Go | 📅 2025-07-17 - Data lake for dev.
-* [middleware](https://github.com/middleware-labs/mw-agent) ⭐ 79 | 🐛 5 | 🌐 Go | 📅 2026-11-17 - Full-stack observability platform with SRE agent.
+* [middleware](https://github.com/middleware-labs/mw-agent) ⭐ 79 | 🐛 5 | 🌐 Go | 📅 2026-11-18 - Full-stack observability platform with SRE agent.
 * [istio-ui](https://github.com/jukylin/istio-ui) ⭐ 52 | 🐛 1 | 🌐 JavaScript | 📅 2018-10-24 - Istio config management backend.
-* [solidping](https://github.com/fclairamb/solidping) ⭐ 39 | 🐛 4 | 🌐 Go | 📅 2026-11-17 - Uptime and synthetic monitoring with status pages, in-cluster private agents and a Helm chart.
+* [solidping](https://github.com/fclairamb/solidping) ⭐ 40 | 🐛 5 | 🌐 Go | 📅 2026-11-18 - Uptime and synthetic monitoring with status pages, in-cluster private agents and a Helm chart.
+* [topic](https://github.com/yurirocha15/topic) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2026-11-14 - Top-like terminal UI that runs inside a container or Kubernetes pod and reports usage against the container's cgroup limits.
 * [searchlight](https://github.com/searchlight/searchlight) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2024-05-02 - Alerts for Kubernetes.
 
 [↑ Back to top](#table-of-contents)
 
 ## Logging
 
-* [elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,839 | 🐛 6,563 | 🌐 Java | 📅 2026-11-17 - Open Source, Distributed, RESTful Search Engine.
-* [loki](https://github.com/grafana/loki) ⭐ 29,174 | 🐛 1,067 | 🌐 Go | 📅 2026-11-17 - Like Prometheus, but for logs.
-* [vector](https://github.com/vectordotdev/vector) ⭐ 22,891 | 🐛 2,591 | 🌐 Rust | 📅 2026-11-17 - High-performance observability data router for logs, metrics, and traces.
-* [telegraf](https://github.com/influxdata/telegraf) ⭐ 17,911 | 🐛 439 | 🌐 Go | 📅 2026-11-17 - The plugin-driven server agent for collecting & reporting metrics.
-* [fluentd](https://github.com/fluent/fluentd) ⭐ 13,618 | 🐛 126 | 🌐 Ruby | 📅 2026-11-16 - Fluentd: Unified Logging Layer (project under CNCF).
-* [beats](https://github.com/elastic/beats) ⭐ 12,653 | 🐛 1,124 | 🌐 Go | 📅 2026-11-17 - Beats - Lightweight shippers for Elasticsearch & Logstash.
-* [quickwit](https://github.com/quickwit-oss/quickwit) ⭐ 11,801 | 🐛 851 | 🌐 Rust | 📅 2026-11-17 - Open-source & cloud-native log management & analytics.
-* [fluent-bit](https://github.com/fluent/fluent-bit) ⭐ 8,191 | 🐛 861 | 🌐 C | 📅 2026-11-17 - Fast and Lightweight Log/Data Forwarder for Linux, BSD and macOS.
+* [elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,658 | 🐛 6,581 | 🌐 Java | 📅 2026-11-18 - Open Source, Distributed, RESTful Search Engine.
+* [loki](https://github.com/grafana/loki) ⭐ 29,182 | 🐛 1,071 | 🌐 Go | 📅 2026-11-18 - Like Prometheus, but for logs.
+* [vector](https://github.com/vectordotdev/vector) ⭐ 22,900 | 🐛 2,586 | 🌐 Rust | 📅 2026-11-18 - High-performance observability data router for logs, metrics, and traces.
+* [telegraf](https://github.com/influxdata/telegraf) ⭐ 17,916 | 🐛 439 | 🌐 Go | 📅 2026-11-18 - The plugin-driven server agent for collecting & reporting metrics.
+* [fluentd](https://github.com/fluent/fluentd) ⭐ 13,621 | 🐛 129 | 🌐 Ruby | 📅 2026-11-18 - Fluentd: Unified Logging Layer (project under CNCF).
+* [beats](https://github.com/elastic/beats) ⭐ 12,653 | 🐛 1,115 | 🌐 Go | 📅 2026-11-18 - Beats - Lightweight shippers for Elasticsearch & Logstash.
+* [quickwit](https://github.com/quickwit-oss/quickwit) ⭐ 11,804 | 🐛 857 | 🌐 Rust | 📅 2026-11-18 - Open-source & cloud-native log management & analytics.
+* [fluent-bit](https://github.com/fluent/fluent-bit) ⭐ 8,197 | 🐛 864 | 🌐 C | 📅 2026-11-18 - Fast and Lightweight Log/Data Forwarder for Linux, BSD and macOS.
 * [heapster](https://github.com/kubernetes-retired/heapster) ⚠️ Archived - Compute Resource Usage Analysis and Monitoring of Container Clusters.
 * [log-pilot](https://github.com/AliyunContainerService/log-pilot) ⚠️ Archived - Collect logs in docker containers.
-* [loggie](https://github.com/loggie-io/loggie/) ⭐ 1,332 | 🐛 160 | 🌐 Go | 📅 2024-07-25 - A lightweight, cloud-native data transfer agent and aggregator.
+* [loggie](https://github.com/loggie-io/loggie/) ⭐ 1,331 | 🐛 160 | 🌐 Go | 📅 2024-07-25 - A lightweight, cloud-native data transfer agent and aggregator.
 * [dagger](https://github.com/CloudmindsRobot/dagger) ⭐ 253 | 🐛 4 | 🌐 Vue | 📅 2021-03-05 - Dagger is a log query and management system based on Loki.
 * [collectbeat](https://github.com/eBay/collectbeat) ⚠️ Archived - Beats with discovery capabilities for environments like Kubernetes.
 * [egg](https://github.com/ducc/egg) ⭐ 14 | 🐛 1 | 🌐 Go | 📅 2021-02-25 - The simple error aggregator.
@@ -852,12 +853,12 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Tracing & Profiling
 
-* [sentry](https://github.com/getsentry/sentry) ⭐ 45,791 | 🐛 2,202 | 🌐 Python | 📅 2026-11-17 - Sentry is a cross-platform crash reporting and aggregation platform.
-* [skywalking](https://github.com/apache/skywalking) ⭐ 25,009 | 🐛 38 | 🌐 Java | 📅 2026-11-17 - An APM system for tracing, monitoring, diagnosing distributed systems, especially based on microservices, cloud native and container.
-* [jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,421 | 🐛 636 | 🌐 Go | 📅 2026-11-17 - Jaeger, a Distributed Tracing System.
-* [zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,474 | 🐛 177 | 🌐 Java | 📅 2026-11-17 - Zipkin is a distributed tracing system.
-* [pinpoint](https://github.com/naver/pinpoint) ⭐ 13,875 | 🐛 501 | 🌐 Java | 📅 2026-11-17 - Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java.
-* [opentelemetry](https://github.com/open-telemetry/opentelemetry-specification) ⭐ 4,397 | 🐛 250 | 🌐 Makefile | 📅 2026-11-17 - An observability framework for cloud-native software.
+* [sentry](https://github.com/getsentry/sentry) ⭐ 45,796 | 🐛 2,222 | 🌐 Python | 📅 2026-11-18 - Sentry is a cross-platform crash reporting and aggregation platform.
+* [skywalking](https://github.com/apache/skywalking) ⭐ 25,012 | 🐛 40 | 🌐 Java | 📅 2026-11-18 - An APM system for tracing, monitoring, diagnosing distributed systems, especially based on microservices, cloud native and container.
+* [jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,424 | 🐛 625 | 🌐 Go | 📅 2026-11-18 - Jaeger, a Distributed Tracing System.
+* [zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,475 | 🐛 176 | 🌐 Java | 📅 2026-11-18 - Zipkin is a distributed tracing system.
+* [pinpoint](https://github.com/naver/pinpoint) ⭐ 13,876 | 🐛 475 | 🌐 Java | 📅 2026-11-18 - Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java.
+* [opentelemetry](https://github.com/open-telemetry/opentelemetry-specification) ⭐ 4,398 | 🐛 248 | 🌐 Makefile | 📅 2026-11-18 - An observability framework for cloud-native software.
 * [appdash](https://github.com/sourcegraph/appdash) ⚠️ Archived - Application tracing system for Go, based on Google's Dapper.
 * [sofa-tracker](https://github.com/sofastack/sofa-tracer) ⭐ 1,127 | 🐛 53 | 🌐 Java | 📅 2026-11-09 - SOFATracer is a component for the distributed system call trace. And through a unified traceId logging the logs of various network calls in the invoking link . These logs can be used for quick discovery of faults, service governance, etc.
 * [opencensus](https://github.com/census-instrumentation) - A single distribution of libraries that automatically collect traces and metrics from your app, display them locally, and send them to any backend.
@@ -867,69 +868,69 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Security & Compliance
 
-* [trivy](https://github.com/aquasecurity/trivy) ⭐ 39,482 | 🐛 324 | 🌐 Go | 📅 2026-11-17 - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets.
-* [keycloak](https://github.com/keycloak/keycloak) ⭐ 37,917 | 🐛 3,595 | 🌐 Java | 📅 2026-11-17 - Open Source Identity and Access Management For Modern Applications and Services.
-* [vault](https://github.com/hashicorp/vault) ⭐ 36,527 | 🐛 1,498 | 🌐 Go | 📅 2026-11-17 - A tool for managing secrets.
-* [teleport](https://github.com/gravitational/teleport) ⭐ 21,114 | 🐛 3,234 | 🌐 Go | 📅 2026-11-17 - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops.
-* [supertokens-core](https://github.com/supertokens/supertokens-core) ⭐ 15,344 | 🐛 158 | 🌐 Java | 📅 2026-11-06 - Open source alternative to Auth0 / Firebase Auth / AWS Cognito.
-* [casdoor](https://github.com/casdoor/casdoor) ⭐ 14,879 | 🐛 98 | 🌐 Go | 📅 2026-11-15 - Identity and access management (IAM) and single sign-on server with OIDC, OAuth 2.0, SAML, CAS, LDAP, RADIUS, SCIM and MFA, with a web UI and a Helm chart
-* [cert-manager](https://github.com/jetstack/cert-manager) ⭐ 14,163 | 🐛 290 | 🌐 Go | 📅 2026-11-17 - Automatically provision and manage TLS certificates in Kubernetes.
-* [kratos](https://github.com/ory/kratos) ⭐ 13,958 | 🐛 242 | 🌐 Go | 📅 2026-07-29 - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
-* [grype](https://github.com/anchore/grype) ⭐ 13,281 | 🐛 457 | 🌐 Go | 📅 2026-11-16 - A vulnerability scanner for container images and filesystems.
-* [opa](https://github.com/open-policy-agent/opa) ⭐ 12,484 | 🐛 262 | 🌐 Go | 📅 2026-11-17 - An open source project to policy-enable your service.
-* [kubescape](https://github.com/armosec/kubescape) ⭐ 11,957 | 🐛 80 | 🌐 Go | 📅 2026-11-17 - Kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA.
-* [dex](https://github.com/dexidp/dex) ⭐ 11,261 | 🐛 536 | 🌐 Go | 📅 2026-11-17 - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors.
-* [clair](https://github.com/quay/clair) ⭐ 11,096 | 🐛 57 | 🌐 Go | 📅 2026-11-17 - Vulnerability Static Analysis for Containers.
-* [syft](https://github.com/anchore/syft) ⭐ 9,916 | 🐛 732 | 🌐 Go | 📅 2026-11-16 - CLI tool and library for generating a Software Bill of Materials from container images and filesystems.
-* [docker-bench-security](https://github.com/docker/docker-bench-security) ⭐ 9,713 | 🐛 28 | 🌐 Shell | 📅 2026-06-04 - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-* [falco](https://github.com/falcosecurity/falco) ⭐ 9,585 | 🐛 59 | 🌐 C++ | 📅 2026-11-09 - Behavioral Activity Monitoring With Container Support.
-* [firezone](https://github.com/firezone/firezone) ⭐ 9,189 | 🐛 419 | 🌐 Elixir | 📅 2026-11-17 - VPN server and Linux firewall built on WireGuard®. Supports SSO, MFA, and user-scoped access rules.
-* [checkov](https://github.com/bridgecrewio/checkov/) ⭐ 9,162 | 🐛 227 | 🌐 Python | 📅 2026-11-17 - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
-* [kyverno](https://github.com/kyverno/kyverno/) ⭐ 8,353 | 🐛 712 | 🌐 Go | 📅 2026-11-17 - Kubernetes Native Policy Management.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,261 | 🐛 114 | 🌐 Go | 📅 2026-11-16 - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
-* [external-secrets](https://github.com/external-secrets/external-secrets) ⭐ 6,951 | 🐛 383 | 🌐 Go | 📅 2026-11-17 - Sync secrets from external stores like AWS Secrets Manager or Vault into Kubernetes.
-* [cosign](https://github.com/sigstore/cosign) ⭐ 6,446 | 🐛 150 | 🌐 Go | 📅 2026-11-17 - Container signing, verification, and provenance powered by Sigstore.
-* [opal](https://github.com/permitio/opal) ⭐ 5,522 | 🐛 70 | 🌐 Python | 📅 2026-11-16 - An administration layer for Policy Engines, detecting changes to both policy and policy data in real time and pushing live updates to your agents.
-* [pomerium](https://github.com/pomerium/pomerium/) ⭐ 5,112 | 🐛 174 | 🌐 Go | 📅 2026-11-17 - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
-* [coraza](https://github.com/corazawaf/coraza) ⭐ 4,036 | 🐛 146 | 🌐 Go | 📅 2026-11-15 - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
+* [trivy](https://github.com/aquasecurity/trivy) ⭐ 39,511 | 🐛 325 | 🌐 Go | 📅 2026-11-18 - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets.
+* [keycloak](https://github.com/keycloak/keycloak) ⭐ 37,938 | 🐛 3,601 | 🌐 Java | 📅 2026-11-18 - Open Source Identity and Access Management For Modern Applications and Services.
+* [vault](https://github.com/hashicorp/vault) ⭐ 36,527 | 🐛 1,501 | 🌐 Go | 📅 2026-11-18 - A tool for managing secrets.
+* [teleport](https://github.com/gravitational/teleport) ⭐ 21,118 | 🐛 3,239 | 🌐 Go | 📅 2026-11-17 - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops.
+* [supertokens-core](https://github.com/supertokens/supertokens-core) ⭐ 15,346 | 🐛 160 | 🌐 Java | 📅 2026-11-18 - Open source alternative to Auth0 / Firebase Auth / AWS Cognito.
+* [casdoor](https://github.com/casdoor/casdoor) ⭐ 14,894 | 🐛 93 | 🌐 Go | 📅 2026-11-18 - Identity and access management (IAM) and single sign-on server with OIDC, OAuth 2.0, SAML, CAS, LDAP, RADIUS, SCIM and MFA, with a web UI and a Helm chart
+* [cert-manager](https://github.com/jetstack/cert-manager) ⭐ 14,165 | 🐛 291 | 🌐 Go | 📅 2026-11-17 - Automatically provision and manage TLS certificates in Kubernetes.
+* [kratos](https://github.com/ory/kratos) ⭐ 13,959 | 🐛 243 | 🌐 Go | 📅 2026-07-29 - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
+* [grype](https://github.com/anchore/grype) ⭐ 13,289 | 🐛 458 | 🌐 Go | 📅 2026-11-18 - A vulnerability scanner for container images and filesystems.
+* [opa](https://github.com/open-policy-agent/opa) ⭐ 12,491 | 🐛 263 | 🌐 Go | 📅 2026-11-18 - An open source project to policy-enable your service.
+* [kubescape](https://github.com/armosec/kubescape) ⭐ 11,967 | 🐛 99 | 🌐 Go | 📅 2026-11-18 - Kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA.
+* [dex](https://github.com/dexidp/dex) ⭐ 11,264 | 🐛 541 | 🌐 Go | 📅 2026-11-18 - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors.
+* [clair](https://github.com/quay/clair) ⭐ 11,097 | 🐛 59 | 🌐 Go | 📅 2026-11-17 - Vulnerability Static Analysis for Containers.
+* [syft](https://github.com/anchore/syft) ⭐ 9,923 | 🐛 739 | 🌐 Go | 📅 2026-11-16 - CLI tool and library for generating a Software Bill of Materials from container images and filesystems.
+* [docker-bench-security](https://github.com/docker/docker-bench-security) ⭐ 9,712 | 🐛 28 | 🌐 Shell | 📅 2026-06-04 - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+* [falco](https://github.com/falcosecurity/falco) ⭐ 9,589 | 🐛 61 | 🌐 C++ | 📅 2026-11-09 - Behavioral Activity Monitoring With Container Support.
+* [firezone](https://github.com/firezone/firezone) ⭐ 9,191 | 🐛 417 | 🌐 Elixir | 📅 2026-11-18 - VPN server and Linux firewall built on WireGuard®. Supports SSO, MFA, and user-scoped access rules.
+* [checkov](https://github.com/bridgecrewio/checkov/) ⭐ 9,165 | 🐛 230 | 🌐 Python | 📅 2026-11-17 - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
+* [kyverno](https://github.com/kyverno/kyverno/) ⭐ 8,361 | 🐛 722 | 🌐 Go | 📅 2026-11-18 - Kubernetes Native Policy Management.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,265 | 🐛 114 | 🌐 Go | 📅 2026-11-16 - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
+* [external-secrets](https://github.com/external-secrets/external-secrets) ⭐ 6,954 | 🐛 379 | 🌐 Go | 📅 2026-11-18 - Sync secrets from external stores like AWS Secrets Manager or Vault into Kubernetes.
+* [cosign](https://github.com/sigstore/cosign) ⭐ 6,450 | 🐛 147 | 🌐 Go | 📅 2026-11-18 - Container signing, verification, and provenance powered by Sigstore.
+* [opal](https://github.com/permitio/opal) ⭐ 5,525 | 🐛 70 | 🌐 Python | 📅 2026-11-16 - An administration layer for Policy Engines, detecting changes to both policy and policy data in real time and pushing live updates to your agents.
+* [pomerium](https://github.com/pomerium/pomerium/) ⭐ 5,114 | 🐛 168 | 🌐 Go | 📅 2026-11-18 - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
+* [coraza](https://github.com/corazawaf/coraza) ⭐ 4,039 | 🐛 148 | 🌐 Go | 📅 2026-11-18 - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
 * [notary](https://github.com/theupdateframework/notary) ⚠️ Archived - Notary is a Docker project that allows anyone to have trust over arbitrary collections of data.
 * [authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ⭐ 2,337 | 🐛 20 | 🌐 Go | 📅 2026-10-23 - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster.
 * [kube-lego](https://github.com/jetstack/kube-lego) ⚠️ Archived - Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt.
 * [goldfish](https://github.com/Caiyeon/goldfish) ⚠️ Archived - A HashiCorp Vault UI panel written with VueJS and Vault native Go API.
 * [kube2iam](https://github.com/jtblin/kube2iam) ⭐ 2,041 | 🐛 14 | 🌐 HTML | 📅 2026-05-08 - kube2iam provides different AWS IAM roles for pods running on Kubernetes.
-* [spiffe](https://github.com/spiffe/spiffe) ⭐ 1,902 | 🐛 57 | 🌐 Shell | 📅 2026-11-17 - The SPIFFE Project.
-* [cedar](https://github.com/cedar-policy/cedar) ⭐ 1,881 | 🐛 191 | 🌐 Rust | 📅 2026-11-17 - Core implementation of the Cedar language.
+* [spiffe](https://github.com/spiffe/spiffe) ⭐ 1,905 | 🐛 58 | 🌐 Shell | 📅 2026-11-17 - The SPIFFE Project.
+* [cedar](https://github.com/cedar-policy/cedar) ⭐ 1,883 | 🐛 191 | 🌐 Rust | 📅 2026-11-18 - Core implementation of the Cedar language.
 * [grafeas](https://github.com/Grafeas/Grafeas) ⭐ 1,568 | 🐛 62 | 🌐 Go | 📅 2026-10-26 - Cloud artifact metadata CRUD API and resource specifications.
-* [kubesec](https://github.com/controlplaneio/kubesec) ⭐ 1,488 | 🐛 28 | 🌐 Go | 📅 2026-10-08 - Security risk analysis for Kubernetes resources.
+* [kubesec](https://github.com/controlplaneio/kubesec) ⭐ 1,489 | 🐛 28 | 🌐 Go | 📅 2026-10-08 - Security risk analysis for Kubernetes resources.
+* [trivy-action](https://github.com/aquasecurity/trivy-action) ⭐ 1,474 | 🐛 182 | 🌐 Shell | 📅 2026-11-05 - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities.
 * [infra](https://github.com/infrahq/infra) ⭐ 1,472 | 🐛 27 | 🌐 Go | 📅 2026-11-09 - Infra provides authentication and access management to servers and Kubernetes clusters.
-* [trivy-action](https://github.com/aquasecurity/trivy-action) ⭐ 1,472 | 🐛 182 | 🌐 Shell | 📅 2026-11-05 - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities.
 * [kubiscan](https://github.com/cyberark/KubiScan) ⭐ 1,438 | 🐛 7 | 🌐 Python | 📅 2025-05-25 - A tool to scan Kubernetes cluster for risky permissions.
 * [topaz](https://github.com/aserto-dev/topaz) ⭐ 1,370 | 🐛 11 | 🌐 Go | 📅 2026-11-15 - Cloud-native authorization for modern applications and APIs.
-* [neuvector](https://github.com/neuvector/neuvector) ⭐ 1,354 | 🐛 293 | 🌐 Go | 📅 2026-11-17 - Kubernetes-native container security platform.
-* [darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,260 | 🐛 7 | 🌐 Python | 📅 2026-10-27 - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks, with a proof trail per finding.
+* [neuvector](https://github.com/neuvector/neuvector) ⭐ 1,355 | 🐛 294 | 🌐 Go | 📅 2026-11-18 - Kubernetes-native container security platform.
+* [darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,268 | 🐛 7 | 🌐 Python | 📅 2026-10-27 - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks, with a proof trail per finding.
 * [in-toto](https://github.com/in-toto/in-toto) ⭐ 1,056 | 🐛 61 | 🌐 Python | 📅 2026-08-27 - in-toto is a framework to protect supply chain integrity.
 * [kubed](https://github.com/appscode/kubed) ⭐ 1,015 | 🐛 54 | 🌐 Go | 📅 2026-10-10 - A Kubernetes Cluster Operator Daemon.
 * [trousseau](https://github.com/oleiade/trousseau) ⭐ 953 | 🐛 20 | 🌐 Go | 📅 2026-09-23 - File based encrypted key-value store.
 * [kamus](https://github.com/Soluto/kamus) ⚠️ Archived - An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
-* [tracekit](https://github.com/Cygnux-Labs/Tracekit) ⭐ 728 | 🐛 79 | 🌐 Python | 📅 2026-11-17 - Policy gate and signed record for AI agent tool calls, run as a Kubernetes sidecar or a central signer: it allows, denies or holds each call for a person and writes a hash-chained log that verifies offline.
+* [tracekit](https://github.com/Cygnux-Labs/Tracekit) ⭐ 772 | 🐛 134 | 🌐 Python | 📅 2026-11-18 - Policy gate and signed record for AI agent tool calls, run as a Kubernetes sidecar or a central signer: it allows, denies or holds each call for a person and writes a hash-chained log that verifies offline.
 * [kritis](https://github.com/grafeas/kritis) ⭐ 706 | 🐛 86 | 🌐 Go | 📅 2026-09-01 - Deploy-time Policy Enforcer for Kubernetes applications.
 * [guard](https://github.com/appscode/guard) ⭐ 619 | 🐛 56 | 🌐 Go | 📅 2026-10-28 - Kubernetes Authentication WebHook Server.
-* [trust-manager](https://github.com/cert-manager/trust-manager) ⭐ 411 | 🐛 48 | 🌐 Go | 📅 2026-11-14 - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
+* [trust-manager](https://github.com/cert-manager/trust-manager) ⭐ 411 | 🐛 47 | 🌐 Go | 📅 2026-11-17 - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 * [rback](https://github.com/team-soteria/rback) ⭐ 400 | 🐛 8 | 🌐 Go | 📅 2021-01-04 - RBAC in Kubernetes visualizer.
 * [dockscan](https://github.com/kost/dockscan) ⭐ 219 | 🐛 1 | 🌐 Ruby | 📅 2016-08-27 - Dockscan is security vulnerability and audit scanner for Docker installations.
 * [rond](https://github.com/rond-authz/rond) ⭐ 161 | 🐛 35 | 🌐 Go | 📅 2026-02-11 - A lightweight container for distributed security policy evaluation.
 * [vilicus](https://github.com/edersonbrilhante/vilicus) ⭐ 86 | 🐛 16 | 🌐 SCSS | 📅 2023-01-07 - Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.
-* [brood-box](https://github.com/stacklok/brood-box) ⭐ 81 | 🐛 14 | 🌐 Go | 📅 2026-11-16 - CLI tool for running coding agents inside hardware-isolated microVMs with workspace snapshot isolation and egress control.
+* [brood-box](https://github.com/stacklok/brood-box) ⭐ 81 | 🐛 14 | 🌐 Go | 📅 2026-11-18 - CLI tool for running coding agents inside hardware-isolated microVMs with workspace snapshot isolation and egress control.
 * [cloud-audit](https://github.com/gebalamariusz/cloud-audit) ⭐ 75 | 🐛 11 | 🌐 Python | 📅 2026-10-14 - Fast, opinionated AWS security scanner with 47 curated checks. Each finding includes copy-paste remediation in AWS CLI and Terraform. Features attack chain detection and a diff command for CI/CD pipeline gating.
 * [drydock](https://github.com/zuBux/drydock) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2016-05-13 - Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.
 * [awacs](https://github.com/socketkit/awacs) ⭐ 51 | 🐛 8 | 🌐 JavaScript | 📅 2023-08-15 - Next-gen behavior analysis server (think Mixpanel, Google Analytics) with built-in encryption.
 * [go-microvm](https://github.com/stacklok/go-microvm) ⭐ 35 | 🐛 7 | 🌐 Go | 📅 2026-11-12 - Go framework for running OCI images as microVMs via libkrun with embedded runtime, rootfs management, and guest networking.
-* [agent-evidence-vectors](https://github.com/probityai/agent-evidence-vectors) ⭐ 33 | 🐛 97 | 🌐 Python | 📅 2026-11-17 - Conformance vectors and a reference Go verifier for in-toto attestations of AI agent execution, plus SCITT/COSE carriage vectors that keep their own checker until the verifier reads them.
+* [agent-evidence-vectors](https://github.com/probityai/agent-evidence-vectors) ⭐ 33 | 🐛 107 | 🌐 Python | 📅 2026-11-18 - Conformance vectors and a reference Go verifier for in-toto attestations of AI agent execution, plus SCITT/COSE carriage vectors that keep their own checker until the verifier reads them.
 * [locke](https://github.com/sky-cloak/locke) ⭐ 29 | 🐛 2 | 🌐 Java | 📅 2026-11-03 - Keycloak distribution that can run its cache on Redis instead of embedded Infinispan
 * [galadriel](https://github.com/HewlettPackard/galadriel) ⚠️ Archived - SPIFFE Federation the easy way.
 * [segspec](https://github.com/dormstern/segspec) ⭐ 16 | 🐛 0 | 🌐 Go | 📅 2026-05-06 - Extracts network dependencies from application config files and generates Kubernetes NetworkPolicies with evidence tracing.
 * [agent-evidence-admission](https://github.com/probityai/agent-evidence-admission) ⚠️ Archived - Kubernetes admission policies for OPA/Rego, Kyverno, and sigstore policy-controller that admit or refuse a workload on the in-toto agent execution evidence attached to its image.
-* [kubernetes-supply-chain-admission](https://github.com/heyvaldemar/kubernetes-supply-chain-admission) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-17 - Kyverno admits an image only with a keyless signature, SLSA provenance, an SBOM and a recent scan; native ValidatingAdmissionPolicies refuse other registries, and every pod in the verified namespace while Kyverno is down. Its e2e run refuses 10 planted images and admits the signed one.
+* [kubernetes-supply-chain-admission](https://github.com/heyvaldemar/kubernetes-supply-chain-admission) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - Kyverno admits an image only with a keyless signature, SLSA provenance, an SBOM and a recent scan; native ValidatingAdmissionPolicies refuse other registries, and every pod in the verified namespace while Kyverno is down. Its e2e run refuses 10 planted images and admits the signed one.
 * [apparmor](https://gitlab.com/apparmor/apparmor/-/wikis/home) - AppArmor is an effective and easy-to-use Linux application security system.
 * [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes.
 
@@ -939,10 +940,10 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 * [hystrix](https://github.com/Netflix/Hystrix) ⭐ 24,477 | 🐛 58 | 🌐 Java | 📅 2025-12-17 - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 * [sentinel](https://github.com/alibaba/sentinel) ⭐ 23,145 | 🐛 891 | 🌐 Java | 📅 2026-05-27 - A powerful flow control component enabling reliability, resilience and monitoring for microservices.
-* [chaosmonkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,248 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-* [metersphere](https://github.com/metersphere/metersphere) ⭐ 13,639 | 🐛 6 | 🌐 Java | 📅 2026-11-09 - MeterSphere is an End-to-End open source continuous testing platform.
-* [toxiproxy](https://github.com/shopify/toxiproxy) ⭐ 12,535 | 🐛 95 | 🌐 Go | 📅 2026-11-17 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
-* [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,992 | 🐛 415 | 🌐 Go | 📅 2026-11-17 - A Chaos Engineering Platform for Kubernetes.
+* [chaosmonkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,251 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+* [metersphere](https://github.com/metersphere/metersphere) ⭐ 13,644 | 🐛 6 | 🌐 Java | 📅 2026-11-09 - MeterSphere is an End-to-End open source continuous testing platform.
+* [toxiproxy](https://github.com/shopify/toxiproxy) ⭐ 12,541 | 🐛 95 | 🌐 Go | 📅 2026-11-17 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
+* [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,992 | 🐛 416 | 🌐 Go | 📅 2026-11-18 - A Chaos Engineering Platform for Kubernetes.
 * [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,476 | 🐛 382 | 🌐 Python | 📅 2026-11-17 - An easy to use and powerful chaos engineering experiment toolkit.
 * [litmus](https://github.com/litmuschaos/litmus) ⭐ 5,747 | 🐛 427 | 🌐 Go | 📅 2026-11-05 - Litmus helps SREs and developers practice chaos engineering in a Cloud-native way.
 * [concurrency-limits](https://github.com/Netflix/concurrency-limits) ⭐ 3,623 | 🐛 55 | 🌐 Java | 📅 2026-10-21 - Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
@@ -950,8 +951,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 * [kubedoom](https://github.com/storax/kubedoom) ⭐ 2,175 | 🐛 4 | 🌐 C++ | 📅 2024-08-20 - Kill Kubernetes pods by playing Id's DOOM!
 * [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) ⭐ 2,035 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - An Open API to Chaos Engineering.
 * [powerfulseal](https://github.com/powerfulseal/powerfulseal) ⭐ 1,988 | 🐛 55 | 🌐 Python | 📅 2023-11-10- A powerful testing tool for Kubernetes clusters.
-* [testkube](https://github.com/kubeshop/testkube) ⭐ 1,683 | 🐛 72 | 🌐 Go | 📅 2026-11-17 - Kubernetes-native framework for test definition and execution.
-* [krkn](https://github.com/krkn-chaos/krkn) ⭐ 522 | 🐛 182 | 🌐 Python | 📅 2026-11-17 - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project.
+* [testkube](https://github.com/kubeshop/testkube) ⭐ 1,683 | 🐛 74 | 🌐 Go | 📅 2026-11-18 - Kubernetes-native framework for test definition and execution.
+* [krkn](https://github.com/krkn-chaos/krkn) ⭐ 522 | 🐛 187 | 🌐 Python | 📅 2026-11-18 - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project.
 * [kubediag](https://github.com/kubediag/kubediag) ⚠️ Archived - Problem diagnosis and operation orchestration for Kubernetes.
 * [rider](https://github.com/hango-io/rider) ⭐ 46 | 🐛 5 | 🌐 Lua | 📅 2026-01-04 - SDK for Envoy Lua extensions.
 
@@ -959,21 +960,21 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Dashboards & Portals
 
-* [portainer](https://github.com/portainer/portainer) ⭐ 38,841 | 🐛 778 | 🌐 TypeScript | 📅 2026-11-17 - Simple management UI for Docker.
-* [backstage](https://github.com/backstage/backstage) ⭐ 34,872 | 🐛 622 | 🌐 TypeScript | 📅 2026-11-17 - Backstage is an open platform for building developer portals.
-* [rancher](https://github.com/rancher/rancher) ⭐ 26,067 | 🐛 3,391 | 🌐 Go | 📅 2026-11-17 - Complete container management platform.
-* [kubesphere](https://github.com/kubesphere/kubesphere) ⭐ 17,081 | 🐛 349 | 🌐 Go | 📅 2026-07-15 - Enterprise Container Managent Platform.
+* [portainer](https://github.com/portainer/portainer) ⭐ 38,848 | 🐛 778 | 🌐 TypeScript | 📅 2026-11-18 - Simple management UI for Docker.
+* [backstage](https://github.com/backstage/backstage) ⭐ 34,881 | 🐛 651 | 🌐 TypeScript | 📅 2026-11-18 - Backstage is an open platform for building developer portals.
+* [rancher](https://github.com/rancher/rancher) ⭐ 26,068 | 🐛 3,400 | 🌐 Go | 📅 2026-11-18 - Complete container management platform.
+* [kubesphere](https://github.com/kubesphere/kubesphere) ⭐ 17,085 | 🐛 349 | 🌐 Go | 📅 2026-07-15 - Enterprise Container Managent Platform.
 * [dashboard](https://github.com/kubernetes/dashboard) ⚠️ Archived - General-purpose web UI for Kubernetes clusters.
-* [openshift](https://github.com/openshift/origin) ⭐ 8,696 | 🐛 317 | 🌐 Go | 📅 2026-11-17 - Enterprise Kubernetes for Developers.
-* [rainbond](https://github.com/goodrain/rainbond) ⭐ 6,305 | 🐛 62 | 🌐 Go | 📅 2026-11-17 - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.
-* [radar](https://github.com/skyhook-io/radar) ⭐ 4,145 | 🐛 157 | 🌐 Go | 📅 2026-11-17 - Modern Kubernetes visibility tool with multi-cluster topology, image filesystem viewer, Helm and GitOps management, and built-in MCP server.
+* [openshift](https://github.com/openshift/origin) ⭐ 8,696 | 🐛 313 | 🌐 Go | 📅 2026-11-18 - Enterprise Kubernetes for Developers.
+* [rainbond](https://github.com/goodrain/rainbond) ⭐ 6,308 | 🐛 62 | 🌐 Go | 📅 2026-11-18 - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.
+* [radar](https://github.com/skyhook-io/radar) ⭐ 4,163 | 🐛 138 | 🌐 Go | 📅 2026-11-18 - Modern Kubernetes visibility tool with multi-cluster topology, image filesystem viewer, Helm and GitOps management, and built-in MCP server.
 * [wayne](https://github.com/Qihoo360/wayne) ⭐ 3,694 | 🐛 61 | 🌐 TypeScript | 📅 2022-05-31 - Web UI for Kubernetes multi-clusters.
 * [kubediagrams](https://github.com/philippemerle/KubeDiagrams) ⭐ 2,735 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-08 - A CLI tool to generate Kubernetes architecture diagrams automatically from Kubernetes manifest files, kustomization files, Helm charts, helmfile descriptors, and actual cluster state.
 * [kdash](https://github.com/kdash-rs/kdash) ⭐ 2,560 | 🐛 5 | 🌐 Rust | 📅 2026-10-14 - A simple and fast dashboard for Kubernetes.
 * [choerodon](https://github.com/choerodon/choerodon) ⭐ 2,395 | 🐛 6 | 📅 2024-01-13 - The open source PaaS for Kubernetes.
 * [kubevious](https://github.com/kubevious/kubevious) ⭐ 1,794 | 🐛 17 | 📅 2026-06-13 - Kubevious - application centric Kubernetes UI and continuous assurance provider.
 * [karpor](https://github.com/KusionStack/karpor) ⭐ 1,725 | 🐛 99 | 🌐 Go | 📅 2026-11-10 - Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
-* [kubermatic](https://github.com/kubermatic/kubermatic) ⭐ 1,338 | 🐛 498 | 🌐 Go | 📅 2026-11-17 - The Central Kubernetes Management Platform For Any Infrastructure.
+* [kubermatic](https://github.com/kubermatic/kubermatic) ⭐ 1,338 | 🐛 499 | 🌐 Go | 📅 2026-11-18 - The Central Kubernetes Management Platform For Any Infrastructure.
 * [breeze](https://github.com/wise2c-devops/breeze) ⭐ 1,007 | 🐛 2 | 🌐 Jinja | 📅 2025-12-07 - Wise2C ansible playbook for Kubernetes cluster installation.
 * [oneinfra](https://github.com/oneinfra/oneinfra) ⭐ 872 | 🐛 18 | 🌐 Go | 📅 2024-12-01 - Kubernetes as a Service.
 * [jet-pilot](https://github.com/unxsist/jet-pilot) ⭐ 663 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-07 - Open-source Kubernetes desktop client with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal.
@@ -981,10 +982,10 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 * [conjure-up](https://github.com/conjure-up/conjure-up) ⚠️ Archived - Deploying complex solutions, magically.
 * [opendcp](https://github.com/weibocom/opendcp) ⭐ 409 | 🐛 3 | 🌐 Go | 📅 2026-08-07 - Docker platform developed by weibo.
 * [statusbay](https://github.com/similarweb/statusbay) ⭐ 387 | 🐛 34 | 🌐 Go | 📅 2024-07-02 - Kubernetes deployment visibility like a pro.
-* [kubestellar](https://github.com/kubestellar/console) ⭐ 154 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-17 - KubeStellar Console is an AI-powered multi-cluster Kubernetes dashboard with natural language operations, MCP support, and GitOps deployment management.
+* [kubestellar](https://github.com/kubestellar/console) ⭐ 155 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-18 - KubeStellar Console is an AI-powered multi-cluster Kubernetes dashboard with natural language operations, MCP support, and GitOps deployment management.
 * [kqeen](https://github.com/Mirantis/kqueen) ⭐ 138 | 🐛 16 | 🌐 Python | 📅 2022-12-08 - Kubernetes queen - cluster manager.
 * [kuui](https://github.com/viveksinghggits/kuui) ⭐ 18 | 🐛 4 | 🌐 JavaScript | 📅 2023-02-06 - UI that can be used to edit configmaps/secrets of your kubernetes cluster.
-* [nubis](https://github.com/windevase/nubis) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2026-11-16 - Windows desktop client for Kubernetes, SSH and RDP with per-cluster encrypted kubeconfigs, pod shells and logs, cluster discovery across EKS, GKE, AKS, OKE and TKE, and an approval-gated Claude Code panel.
+* [nubis](https://github.com/windevase/nubis) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-11-18 - Windows desktop client for Kubernetes, SSH and RDP with per-cluster encrypted kubeconfigs, pod shells and logs, cluster discovery across EKS, GKE, AKS, OKE and TKE, and an approval-gated Claude Code panel.
 * [kubespade](https://github.com/kubespade/kubespade) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08 - Free open-source Kubernetes desktop client for Mac, Windows, and Linux with resource browsing, logs, exec, YAML, Helm, and optional MCP AI.
 * [k100s](https://github.com/AndrewVos/k100s) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-18 - Free, open-source desktop Kubernetes app for browsing pods, streaming logs, and opening pod shells.
 * [cloudfoundry](https://github.com/cloudfoundry) - Cloud Foundry is an open source, multi cloud application platform as a service (PaaS) governed by the Cloud Foundry Foundation.
@@ -993,18 +994,18 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Tutorials & Learning
 
-* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 372,237 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-17 - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-* [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) ⭐ 50,725 | 🐛 56 | 📅 2025-04-10 - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-* [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) ⭐ 11,651 | 🐛 0 | 🌐 Mermaid | 📅 2026-11-10 - Kubernetes handbook and cloud native application architecture practice guide (written in Chinese).
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 372,316 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18 - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) ⭐ 50,729 | 🐛 56 | 📅 2025-04-10 - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+* [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) ⭐ 11,652 | 🐛 0 | 🌐 Mermaid | 📅 2026-11-10 - Kubernetes handbook and cloud native application architecture practice guide (written in Chinese).
 * [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) ⭐ 2,704 | 🐛 12 | 📅 2019-09-11 - Kubernetes Security - Best Practice Guide.
 * [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) ⚠️ Archived - AWS Workshop for Kubernetes.
 * [kube-ladder](https://github.com/caicloud/kube-ladder) ⭐ 2,596 | 🐛 6 | 📅 2022-11-28 - Learning Kubernetes, The Chinese Taoist Way.
 * [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices/) ⭐ 2,164 | 🐛 95 | 🌐 Python | 📅 2026-11-04 - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 * [kubicorn](https://github.com/kubicorn/kubicorn) ⭐ 1,678 | 🐛 62 | 🌐 Go | 📅 2022-10-05 - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
-* [devops-daily](https://github.com/The-DevOps-Daily/devops-daily) ⭐ 1,208 | 🐛 108 | 🌐 TypeScript | 📅 2026-11-17 - Open-source DevOps learning site with articles, browser terminal simulators for Docker, Kubernetes and Linux, quizzes and flashcards.
+* [devops-daily](https://github.com/The-DevOps-Daily/devops-daily) ⭐ 1,217 | 🐛 108 | 🌐 TypeScript | 📅 2026-11-18 - Open-source DevOps learning site with articles, browser terminal simulators for Docker, Kubernetes and Linux, quizzes and flashcards.
 * [istio-tutorial](https://github.com/redhat-developer-demos/istio-tutorial) ⭐ 1,206 | 🐛 11 | 🌐 Java | 📅 2024-10-17 - Istio Tutorial for Java Microservices.
 * [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) ⭐ 677 | 🐛 29 | 🌐 Makefile | 📅 2020-05-22 - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring.
-* [kubernetes-on-aws](https://github.com/zalando-incubator/kubernetes-on-aws) ⭐ 635 | 🐛 29 | 🌐 Go | 📅 2026-11-17 - Deploying Kubernetes on AWS with CloudFormation and Ubuntu.
+* [kubernetes-on-aws](https://github.com/zalando-incubator/kubernetes-on-aws) ⭐ 635 | 🐛 29 | 🌐 Go | 📅 2026-11-18 - Deploying Kubernetes on AWS with CloudFormation and Ubuntu.
 * [istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) ⭐ 318 | 🐛 4 | 🌐 Shell | 📅 2018-07-26 - How to run the Istio Ingress Controller on Kubernetes.
 * [kubernetes-java-simple](https://github.com/arun-gupta/kubernetes-java-sample) ⭐ 278 | 🐛 10 | 🌐 Java | 📅 2025-10-16 - Kubernetes Hands-on Workshop for Java Developers.
 * [istio-service-mesh-workshop](https://github.com/layer5io/istio-service-mesh-workshop) ⭐ 273 | 🐛 1 | 📅 2026-02-07 - Using Istio Workshop.
@@ -1012,7 +1013,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 * [istio101](https://github.com/IBM/istio101) ⚠️ Archived - Istio 101 workshop from IBM.
 * [envoy-steps](https://github.com/datawire/envoy-steps) ⭐ 74 | 🐛 6 | 🌐 Python | 📅 2020-11-14 - Envoy Step by Step.
 * [falco-analyze-audit-log-from-k3s-cluster](https://github.com/developer-guy/falco-analyze-audit-log-from-k3s-cluster) ⭐ 63 | 🐛 1 | 📅 2021-06-02 - Detect intrusions that happened in your Kubernetes cluster through audit logs using Falco.
-* [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - DevOps, SRE, Kubernetes, cloud and platform engineering interview questions, each with a short answer, trade-offs, a runnable example and likely follow-ups
+* [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - DevOps, SRE, Kubernetes, cloud and platform engineering interview questions, each with a short answer, trade-offs, a runnable example and likely follow-ups
 * [mosn-tutorial](https://github.com/mosn/mosn-tutorial) ⭐ 20 | 🐛 3 | 🌐 Shell | 📅 2022-07-23 - Tutorial for MOSN and Istio Service Mesh.
 * [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) ⭐ 19 | 🐛 1 | 🌐 Shell | 📅 2018-08-01 - Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh.
 * [wyrcan-roadmap](https://github.com/Wyrcan-io/roadmap) ⭐ 18 | 🐛 0 | 🌐 HTML | 📅 2026-09-10 - Text-first 12-stage engineering curriculum covering Linux, Docker, AWS, Terraform, Kubernetes, and MLOps.
@@ -1027,4 +1028,4 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
